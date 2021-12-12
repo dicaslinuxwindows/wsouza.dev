@@ -32,7 +32,6 @@ enableMissingTranslationPlaceholders = true
 
 #external = true
 
-
 [Author]
   name = "W.Souza"
   bio = "Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
@@ -67,8 +66,7 @@ enableMissingTranslationPlaceholders = true
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist"]
+  widgets = ["search", "recent", "categories", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
