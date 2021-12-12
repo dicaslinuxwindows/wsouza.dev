@@ -74,6 +74,17 @@
 			</a>
 		</div>
 		{{- end }}
+		
+		{{ range .Site.Params.widgets.social.custom }}
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Youtube" rel="noopener noreferrer" href="https://youtube.com/Channel/UCdgAIchdOo7lsyKge8m-P_w" target="_blank">
+				{{- if .icon }}
+					{{ partial "svg/youtube.svg" (dict "class" "widget-social__link-icon") }}
+				{{- end }}
+				<span>Youtube</span>
+			</a>
+		</div>
+		{{ end }}
 
 		{{ range .Site.Params.widgets.social.custom }}
 		<div class="widget-social__item widget__item">
@@ -88,11 +99,3 @@
 	</div>
 </div>
 {{- end }}
-{{- with .Site.Params.widgets.social.youtube }}
-		<div class="widget-social__item widget__item">
-			<a class="widget-social__link widget__link btn" title="Youtube" rel="noopener noreferrer" href="https://youtube.com/Channel/{{ . }}" target="_blank">
-				{{ partial "svg/youtube.svg" (dict "class" "widget-social__link-icon") }}
-				<span>Youtube</span>
-			</a>
-		</div>
-		{{- end }}
