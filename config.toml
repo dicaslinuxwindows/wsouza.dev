@@ -1,6 +1,10 @@
 baseurl = "https://testes.wsouza.com.br"
 title = "WSouza"
 languageCode = "en-us"
+[module]
+[module.hugoVersion]
+min = "0.77.0"
+
 paginate = "10" # Number of posts per page
 theme = "hugo-coder"
 disqusShortname = "dicaslinuxewindows" # Enable comments by entering your Disqus shortname
