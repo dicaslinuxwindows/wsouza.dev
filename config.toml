@@ -1,12 +1,8 @@
 baseurl = "https://testes.wsouza.com.br"
 title = "WSouza"
 languageCode = "en-us"
-[module]
-[module.hugoVersion]
-min = "0.77.0"
-
 paginate = "10" # Number of posts per page
-theme = "hugo-coder"
+theme = "mainroad"
 disqusShortname = "dicaslinuxewindows" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your tracking id
 enableEmoji = true
