@@ -1,0 +1,80 @@
+baseurl = "https://testes.wsouza.com.br"
+title = "WSouza"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "dicaslinuxewindows" # Enable comments by entering your Disqus shortname
+googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your tracking id
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+[[menu.main]]             
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Categorias"
+  weight = 20
+  identifier = "categories"
+  url = "/post/"
+[[menu.main]]
+  name = "Sistemas"
+  weight = 30
+  identifier = "system"
+  url = "/sistemas.html"
+[[menu.main]]
+  name = "Sobre"
+  weight = 40
+  identifier = "about"
+  url = "/sobre.html"
+
+#external = true
+
+
+[Author]
+  name = "W.Souza"
+  bio = "Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
+  avatar = "https://3.bp.blogspot.com/-n7mOFEUoIG0/XFxGIo7WVzI/AAAAAAAAKac/rQpmdra-miYaFf_6uSovTWmQD7SseNtngCK4BGAYYCw/s107/Dicas%2BLinux%2Be%2BWindows_TemplateNovo%2Bc%25C3%25B3pia.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[Params]
+  description = "" # Description of your site
+  opengraph = true
+  twitter_cards = true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  keyword = "Windows, Linux, Mobile, Internet, Android"
+  post_meta = ["date", "categories"] # Order of post meta information
+  # Google Analytics 4
+	googleAnalyticsID = "G-ZE9HZB2464"
+	show_translations= true
+	shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+    title_404 = "Deu ruim..."
+
+[params.social]
+  rss            = true
+  email          = "dicaslinuxewindows@gmail.com"
+  twitter			= "https://twitter.com/dicaslnxwindows"
+  github         = "https://github.com/andradeswagner"
+
+[Params.logo]
+  subtitle = "Dicas Linux e Windows" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
