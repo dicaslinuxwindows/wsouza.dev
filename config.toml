@@ -52,18 +52,13 @@ enableMissingTranslationPlaceholders = true
   pager = true
   keyword = "Windows, Linux, Mobile, Internet, Android"
   post_meta = ["date", "categories"] # Order of post meta information
-  # Google Analytics 4
-	googleAnalyticsID = "G-ZE9HZB2464"
-	show_translations= true
-	shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
-    title_404 = "Deu ruim..."
+  googleAnalyticsID = "G-ZE9HZB2464"
+  show_translations= true
+  dateFormat = "Mon, Jan 2, 2006"
+  title_404 = "Deu ruim..."
 
 [params.social]
-  rss            = true
-  email          = "dicaslinuxewindows@gmail.com"
-  twitter			= "https://twitter.com/dicaslnxwindows"
-  github         = "https://github.com/andradeswagner"
+  rss = true
 
 [Params.logo]
   subtitle = "Dicas Linux e Windows" # Logo subtitle
@@ -78,3 +73,9 @@ enableMissingTranslationPlaceholders = true
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+  
+  [Params.widgets.social]
+  # Enable parts of social widget
+  twitter = "dicaslnxwindows"
+  github = "andradeswagner"
+  email = "dicaslinuxewindows@gmail.com"

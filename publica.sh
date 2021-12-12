@@ -31,7 +31,6 @@ git push
 # Add this repos changes to git and commit/push. First 'cd' out of public
 cd ..
 
-
 echo ""
 echo ""
 echo "Committing changes to $(pwd)"
