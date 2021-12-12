@@ -18,7 +18,7 @@ echo "Committing changes to $(pwd)"
 hugo -D
 
 # Go To Public folder
-#cd public
+cd public
 
 # Add 'public' (Github Pages repo) changes to git and commit/push.
 echo ""
