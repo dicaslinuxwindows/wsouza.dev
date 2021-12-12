@@ -21,16 +21,16 @@ hugo -D
 #cd public
 
 # Add 'public' (Github Pages repo) changes to git and commit/push.
-#echo ""
-#echo ""
-#echo "Committing changes to $(pwd)"
-#git add .
-#git commit -m "$msg"
-#git push 
+echo ""
+echo ""
+echo "Committing changes to $(pwd)"
+git add .
+git commit -m "$msg"
+git push 
 
 # Add this repos changes to git and commit/push. First 'cd' out of public
-#cd
-#cd Git/wsouza.dev
+cd ..
+
 
 echo ""
 echo ""
