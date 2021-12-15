@@ -29,6 +29,62 @@ external = true
   weight = 40
   identifier = "about"
   url = "/sobre.html"
+  
+  
+  [menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "category"
+    name = "Category"
+    url = "/category"
+    weight = 2
+  [[menu.main]]
+    identifier = "category1"
+    name = "Category1"
+    url = "/tags/category1"
+    parent = "category"
+    weight = 1
+  [[menu.main]]
+    identifier = "category2"
+    name = "Category2"
+    url = "/tags/category2"
+    parent = "category"
+    weight = 2
+  [[menu.main]]
+    identifier = "category3"
+    name = "Category3"
+    url = "/tags/category3"
+    parent = "category"
+    weight = 3
+  [[menu.main]]
+    identifier = "another-category"
+    name = "Another Category"
+    url = "/another-category"
+    weight = 3
+  [[menu.main]]
+    identifier = "another-category1"
+    name = "Another Category1"
+    url = "/tags/another-category1"
+    parent = "another-category"
+    weight = 1
+  [[menu.main]]
+    identifier = "another-category2"
+    name = "Another Category2"
+    url = "/tags/another-category2"
+    parent = "another-category"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About Us"
+    url = "/about/"
+    weight = 4
+  
+  
+  
 
 [Author]
   name = "W.Souza"
@@ -83,4 +139,4 @@ external = true
   [[Params.widgets.social.custom]]
   title = "Youtube"
   url = "https://youtube.com/channel/UCdgAIchdOo7lsyKge8m-P_w"
-  icon = "svg/youtube.svg" # Optional. Path relative to "layouts/partials"
+  icon = "svg/youtube3.svg" # Optional. Path relative to "layouts/partials"
