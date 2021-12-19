@@ -23,70 +23,14 @@ external = true
   name = "Sistemas"
   weight = 30
   identifier = "system"
-  url = "/sistemas.html"
+  url = "/sistemas/"
 [[menu.main]]
   name = "Sobre"
   weight = 40
   identifier = "about"
-  url = "/sobre.html"
+  url = "/sobre/"
   
-  
-  [menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "category"
-    name = "Category"
-    url = "/category"
-    weight = 2
-  [[menu.main]]
-    identifier = "category1"
-    name = "Category1"
-    url = "/tags/category1"
-    parent = "category"
-    weight = 1
-  [[menu.main]]
-    identifier = "category2"
-    name = "Category2"
-    url = "/tags/category2"
-    parent = "category"
-    weight = 2
-  [[menu.main]]
-    identifier = "category3"
-    name = "Category3"
-    url = "/tags/category3"
-    parent = "category"
-    weight = 3
-  [[menu.main]]
-    identifier = "another-category"
-    name = "Another Category"
-    url = "/another-category"
-    weight = 3
-  [[menu.main]]
-    identifier = "another-category1"
-    name = "Another Category1"
-    url = "/tags/another-category1"
-    parent = "another-category"
-    weight = 1
-  [[menu.main]]
-    identifier = "another-category2"
-    name = "Another Category2"
-    url = "/tags/another-category2"
-    parent = "another-category"
-    weight = 2
-  [[menu.main]]
-    identifier = "about"
-    name = "About Us"
-    url = "/about/"
-    weight = 4
-  
-  
-  
-
-[Author]
+ [Author]
   name = "W.Souza"
   bio = "Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
   avatar = "https://3.bp.blogspot.com/-n7mOFEUoIG0/XFxGIo7WVzI/AAAAAAAAKac/rQpmdra-miYaFf_6uSovTWmQD7SseNtngCK4BGAYYCw/s107/Dicas%2BLinux%2Be%2BWindows_TemplateNovo%2Bc%25C3%25B3pia.png"
@@ -123,7 +67,7 @@ external = true
 [Params.sidebar]
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
-  single = "false" # Configure layout for single pages
+  single = "true" # Configure layout for single pages
   widgets = ["languages", "search", "recent", "categories", "taglist", "social"]
 
 [Params.widgets]
