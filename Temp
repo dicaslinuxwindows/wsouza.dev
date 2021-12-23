@@ -1,0 +1,20 @@
+#2a2a2a
+
+#188bc7
+
+
+
+.readmore a{
+color:$(link.color);
+background:#E5E5E5;
+padding:8px 12px;
+line-height:1;
+display:inline-block;
+text-decoration:none;
+/*text-transform:uppercase;*/
+}
+.readmore a:hover{
+color:#fff;
+background:$(link.hover.color);
+text-decoration:none;
+}
