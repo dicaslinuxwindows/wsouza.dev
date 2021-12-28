@@ -3,21 +3,16 @@ title: 'Atualizando para o Debian Buster '
 date: 2019-07-02T21:19:00.001-03:00
 draft: false
 url: /2019/07/atualizando-para-o-debian-buster.html
-tags: 
+categories:
 - Debian
-- Linux
-- Debian Buster
 - Tutoriais
+tags: 
+- Debian Buster
 ---
 
 Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.
 
-  
-  
 
-[![Atualizando para o Debian Buster  -  Dicas Linux e Windows](https://4.bp.blogspot.com/-qu3NOriLr3M/XRvzo7b9LII/AAAAAAAALvs/HFqs9IZTw5EHUOVXhoMf6x1JvHiV1Uw6QCLcBGAs/s200/atualizar_para_buster.png "Atualizando para o Debian Buster  -  Dicas Linux e Windows")](https://4.bp.blogspot.com/-qu3NOriLr3M/XRvzo7b9LII/AAAAAAAALvs/HFqs9IZTw5EHUOVXhoMf6x1JvHiV1Uw6QCLcBGAs/s1600/atualizar_para_buster.png)
-
-  
 
 ### Considerações iniciais
 

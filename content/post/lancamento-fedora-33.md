@@ -3,21 +3,11 @@ title: 'Lançamento Fedora 33'
 date: 2020-10-28T14:56:00.011-03:00
 draft: false
 url: /2020/10/lancamento-fedora-33.html
-tags: 
-- Linux
+categories:
 - Fedora
 ---
 
-![Lançamento Fedora 33 - Dicas Linux e Windows](https://1.bp.blogspot.com/-p8CfnXzNuRg/X5mwSIIy0yI/AAAAAAAAQt4/zWg1PhA8Fts5JPikZ9JO16XUW0ndNk4cgCNcBGAsYHQ/s16000/Fedora33.png "Lançamento Fedora 33 - Dicas Linux e Windows")
-
 No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.
-
-  
-  
-  
-  
-  
-  
 
 > _"Hoje, estou animado para compartilhar os resultados do trabalho árduo de milhares de colaboradores para o Projeto Fedora: nosso último lançamento, Fedora 33, está aqui! Este é um grande lançamento com muita mudança, mas acredito que todo esse trabalho também o tornará confortável, cumprindo nosso objetivo de trazer-lhe o mais recente software estável, poderoso e robusto de código livre e de código aberto em muitas ofertas fáceis de usar..."_
 

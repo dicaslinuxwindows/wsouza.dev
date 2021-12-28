@@ -3,19 +3,14 @@ title: 'Microsoft Edge agora é baseado no Chromium'
 date: 2019-03-27T08:21:00.001-03:00
 draft: false
 url: /2019/03/microsoft-edge-agora-e-baseado-no-chromium.html
-tags: 
-- Microsoft Edge
+categories:
 - Dicas
 - Windows
+tags: 
+- Microsoft Edge
 ---
 
 Microsoft anuncia que a nova versão do navegador Edge será baseado no Chromium. Será que o reinado do Google Chrome está ameaçado? Confira os detalhes a seguir.
-
-  
-  
-  
-
-[![Microsoft Edge agora é baseado no Chromium - Dicas Linux e Windows](https://4.bp.blogspot.com/-y_VwxnPtWqM/XJtbQ3XkVDI/AAAAAAAAK4E/NR7vf3pCkK8hWZXkzg0_urmQRd9TBqhJgCLcBGAs/s200/edge.png "Microsoft Edge agora é baseado no Chromium - Dicas Linux e Windows")](https://4.bp.blogspot.com/-y_VwxnPtWqM/XJtbQ3XkVDI/AAAAAAAAK4E/NR7vf3pCkK8hWZXkzg0_urmQRd9TBqhJgCLcBGAs/s1600/edge.png)
 
 ### Microsoft Edge
 

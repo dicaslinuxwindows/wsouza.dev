@@ -3,9 +3,9 @@ title: 'Boot-Repair-Disk - Recuperação e Manutenção do Sistema'
 date: 2018-12-21T23:00:00.000-02:00
 draft: false
 url: /2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html
-tags: 
-- Linux
+categories:
 - Tutoriais
+tags: 
 - Recuperar Grub
 - Ferramentas Linux
 ---

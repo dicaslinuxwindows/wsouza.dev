@@ -3,9 +3,9 @@ title: 'Após novo vazamento de dados, Google antecipa o fim do Google+'
 date: 2018-12-17T11:41:00.001-02:00
 draft: false
 url: /2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html
-tags: 
+categories:
 - Dicas
-- Google+
+tags: 
 - Google
 ---
 

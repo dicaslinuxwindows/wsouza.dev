@@ -3,10 +3,10 @@ title: 'Máquina Virtual: Instalando e configurando o VMware Player'
 date: 2018-07-25T02:15:00.004-03:00
 draft: false
 url: /2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html
-tags: 
-- Linux
-- Máquina Virtual
+categories:
 - Tutoriais
+tags: 
+- Máquina Virtual
 - VMware Player
 - Ferramentas Linux
 ---

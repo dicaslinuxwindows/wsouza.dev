@@ -3,22 +3,16 @@ title: 'Navegador Microsoft Edge para Linux liberado no canal dev'
 date: 2020-10-21T23:57:00.013-03:00
 draft: false
 url: /2020/10/navegador-microsoft-edge-para-linux.html
+categories:
+- Debian
+- Fedora
+- Linux Mint
+- Ubuntu
 tags: 
-- Linux
 - Microsoft Edge
 ---
 
-![Navegador Microsoft Edge para Linux liberado no canal dev - Dicas Linux e Windows](https://1.bp.blogspot.com/-MwrS0SBtQP8/X5Dz-Th40WI/AAAAAAAAQio/YFW00BlYD_wPhjeqzB76dvxVG_jPbjI1ACNcBGAsYHQ/s16000/Egde_Dev.png "Navegador Microsoft Edge para Linux liberado no canal dev - Dicas Linux e Windows")
-
 A Microsoft liberou o seu navegador para Linux, o Microsoft Edge, para download no canal de desenvolvedores. Mais detalhes na matéria a seguir.
-
-  
-  
-  
-  
-  
-  
-  
 
 ### Microsoft Edge
 

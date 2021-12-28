@@ -3,24 +3,14 @@ title: 'Notícias sobre o Ubuntu 20.04 LTS'
 date: 2020-03-01T23:45:00.003-03:00
 draft: false
 url: /2020/03/noticias-sobre-o-ubuntu-20-04-lts.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 20.04
 ---
 
-![Notícias sobre o Ubuntu 20.04 LTS - Dicas Linux e Windows](https://4.bp.blogspot.com/-m_89laYKm4k/XwfXw1PM7YI/AAAAAAAAPTg/gPiDlRya6AAx6PtjLzgNkk_v7Q1WAhveACNcBGAsYHQ/s1600/Not%25C3%25ADcias_Ubuntu_focal_Fossa.png "Notícias sobre o Ubuntu 20.04 LTS - Dicas Linux e Windows")
-
 O Ubuntu 20.04 LTS será lançado em abril. Nos últimos dias saíram muitas notícias a respeito de seu lançamento. Confira a seguir.
 
-  
-  
-  
-  
-  
-  
-
-  
 
 ### Focal Fossa
 

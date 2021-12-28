@@ -3,18 +3,14 @@ title: 'Skolelinux, o Debian Educacional'
 date: 2019-10-06T22:41:00.001-03:00
 draft: false
 url: /2019/10/skolelinux-o-debian-educacional.html
-tags: 
-- Linux
+categories:
+- Debian
 - Educacional
 ---
 
 Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.
 
-  
-  
-
-[![](https://3.bp.blogspot.com/-hyZok5cXOUU/XSJsL-HSrZI/AAAAAAAAL0g/mf5jX31J728vMU1ilkPMyRy3a3xGMlaqgCLcBGAs/s1600/Debian_Edu.png)](https://3.bp.blogspot.com/-hyZok5cXOUU/XSJsL-HSrZI/AAAAAAAAL0g/mf5jX31J728vMU1ilkPMyRy3a3xGMlaqgCLcBGAs/s1600/Debian_Edu.png)
-
+ 
 ### Skolelinux
 
   

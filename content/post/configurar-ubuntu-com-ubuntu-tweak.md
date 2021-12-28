@@ -3,17 +3,13 @@ title: 'Ubuntu Tweak, uma ótima ferramenta para configurar o seu Ubuntu'
 date: 2015-04-26T23:31:00.004-03:00
 draft: false
 url: /2015/04/configurar-ubuntu-com-ubuntu-tweak.html
-tags: 
-- Linux
+categories: 
 - Dicas
 - Ubuntu
 ---
 
 O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.  
   
-
-[![Ubuntu Tweak](https://1.bp.blogspot.com/-whFk6616T74/VT25E5VTCDI/AAAAAAAABN4/xjESLz0tFPU/s1600/Tweak_logo.png "Ubuntu Tweak")](http://1.bp.blogspot.com/-whFk6616T74/VT25E5VTCDI/AAAAAAAABN4/xjESLz0tFPU/s1600/Tweak_logo.png)
-
   
 Num único programa é possível adicionar PPAs, trocar o papel de parede, configurações de janela e do Unity, remover arquivos temporários do APT, cache do Firefox, Chrome ou outros navegadores, remover arquivos de configuração de pacotes que já foram desinstalados, ajustar configurações de pastas de usuários, configurações de  fontes, configurações de login, remover kernels antigos com segurança… A lista é grande, então vamos nos concentrar em algumas funções mais importantes.
 

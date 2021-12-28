@@ -3,21 +3,13 @@ title: 'Painel de Controle do Windows pode estar com os dias contados'
 date: 2020-03-29T20:06:00.000-03:00
 draft: false
 url: /2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html
-tags: 
+categories:
 - Windows
+tags: 
 - Windows 10
 ---
-
-![Painel de Controle do Windows pode estar com os dias contados - Dicas Linux e Windows](https://3.bp.blogspot.com/-klhiiWe_3AI/Xuq7hwYxotI/AAAAAAAAPIY/IDIZoj6KpVAVjuAf-MdldmxsO0Z-PF1PQCNcBGAsYHQ/s1600/Painel_de_controle.png "Painel de Controle do Windows pode estar com os dias contados - Dicas Linux e Windows")
-
 Ao que parece, a Microsoft vem trabalhando para acabar com o Painel de Controle, tradicional ferramenta onde ficam as configurações do Windows.
 
-  
-  
-  
-  
-  
-  
 
 O Painel de Controle foi lançado no Windows 1.0, em 1985. Até o Windows 3.1 era um utilitário _(como eram chamadas as ferramentas do Windows na época)_ e, após o Windows 95 passou a ser parte integrante do sistema. A partir do ano 2000, com o lançamento do Windows ME e 2000, ele passou a possuir a mesma estrutura que possui atualmente.  
 _Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Painel_de_Controle_(Windows))_  

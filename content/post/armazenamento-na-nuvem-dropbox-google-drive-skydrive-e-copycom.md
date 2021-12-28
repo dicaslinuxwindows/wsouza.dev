@@ -3,11 +3,12 @@ title: 'Armazenamento na nuvem (Dropbox, Google Drive, OneDrive e Copy)'
 date: 2013-11-17T03:19:00.001-02:00
 draft: false
 url: /2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html
+categories:
+- Dicas
 tags: 
 - Onedrive
-- Dicas
 - Armazenamento na Nuvem
-- Copy
+- Copy.com
 - Dropbox
 - Google Drive
 ---

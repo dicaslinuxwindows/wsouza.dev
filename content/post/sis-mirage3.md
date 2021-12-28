@@ -3,15 +3,14 @@ title: 'Sis Mirage 3 Graphics'
 date: 2013-04-02T00:23:00.000-03:00
 draft: false
 url: /2013/04/sis-mirage3.html
-tags: 
+categories:
 - Debian
 - Ubuntu
+- Tutoriais
+- Windows
+tags: 
 - Sis Mirage 3 Graphics
-- Windows 7
 ---
-
-  
-[![sis mirage 3](https://2.bp.blogspot.com/-QFrp2Si11So/UVo6hot6cnI/AAAAAAAAARQ/IUJ3sbwv6Rg/s320/sismirage3.jpg "sis mirage 3")](http://2.bp.blogspot.com/-QFrp2Si11So/UVo6hot6cnI/AAAAAAAAARQ/IUJ3sbwv6Rg/s1600/sismirage3.jpg)
 
 _Atualizado em 08/01/2015_  
   

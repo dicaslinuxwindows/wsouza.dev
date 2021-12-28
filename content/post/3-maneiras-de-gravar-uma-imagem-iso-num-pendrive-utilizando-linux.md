@@ -3,42 +3,22 @@ title: '3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux'
 date: 2020-04-20T02:17:00.002-03:00
 draft: false
 url: /2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html
+categories:
+- Tutoriais
 tags: 
-- Linux
-- Ubuntu
-- Tutoriais Debian
 - Ferramentas Linux
 ---
 
-![3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows](https://1.bp.blogspot.com/-BvVHCc2Py6c/Xuq7ibvvA-I/AAAAAAAAPIc/zq_t2NWaIXMBfRc5BbQwxbiVJwAmxqGMQCNcBGAsYHQ/s1600/Pendrive_Linux.png "3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows")
-
 Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível "rodar" sua distribuição Linux diretamente nele.
 
-  
-  
-  
-  
-  
-  
-  
 
-### Se preferir, vá direto ao tutorial.
-
-  
-[DD](https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html#dd)  
-[UNETbootin](https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html#unetbootin)  
-[Etcher](https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html#etcher)
-
-  
-  
 
 ### Por que eu preciso disso?
 
   
 Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável _(Live USB)_ e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema. A utilização do pendrive trouxe, entre outras vantagens, o ganho de velocidade quando utilizado o sistema rodando a partir dele.  
 Diferente dos gravadores de CD/DVD, que como citei anteriormente, estavam disponíveis _(ou eram facilmente encontrados)_ em qualquer sistema operacional, os softwares para gravar uma ISO num pendrive nem sempre estão acessíveis. Veja a seguir 3 opções para criar uma Live USB.  
-  
-[](https://draft.blogger.com/null)  
+
 
 ### DD
 
@@ -101,9 +81,7 @@ O tempo de duração depende de alguns fatores, principalmente do tamanho da ima
  4896000+0 registros de saída  
  2506752000 bytes (2,5 GB, 2,3 GiB) copiados, 1465,48 s, 1,7 MB/s
 
-  
-  
-[](https://draft.blogger.com/null)  
+
 
 ### UNetbootin
 
@@ -145,7 +123,6 @@ Eis a tela principal do programa. Temos duas opções para gravar o pendrive Liv
   
 Após alguns minutos, o processo está finalizado.  
   
-[](https://draft.blogger.com/null)  
 
 ### Etcher
 

@@ -3,23 +3,16 @@ title: 'Lançada a 5º atualização do Debian Buster'
 date: 2020-08-01T22:51:00.000-03:00
 draft: false
 url: /2020/08/lancada-5-atualizacao-do-debian-buster.html
-tags: 
+
+categories:
 - Debian
-- Linux
+tags: 
 - Debian Buster
 ---
 
-![Lançada a 5º atualização do Debian Buster - Dicas Linux e Windows](https://2.bp.blogspot.com/-csKVfolxpQs/XydCFntY5lI/AAAAAAAAPg8/UmVcIMHKyE8vT0vTEvtw2xVtXkhKOXjZACNcBGAsYHQ/s1600/Buster_10.5.png "Lançada a 5º atualização do Debian Buster - Dicas Linux e Windows")
-
 Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.
 
-  
-  
-  
-  
-  
-  
-
+ 
 O sistema de atualizações do Debian consiste em atualizações pontuais, com apenas um ou poucos pacotes, e de tempos em tempos saem atualizações maiores, com um maior número de pacotes atualizados. Estas versões não são consideradas um lançamento, mas sim complementos com melhorias e/ou atualizações de segurança. Entre o lançamento das versões são lançados vários upgrades. No Debian Stretch, por exemplo, foram lançadas 9 pacotes até o lançamento do Debian Buster e mais 4 até o momento, totalizando 13.  
   
 
@@ -62,110 +55,6 @@ Segundo o que foi publicado no anúncio [https://www.debian.org/News/2020/202008
   
 Todas as correções  
 ```
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
 Package
 
@@ -784,133 +673,7 @@ Security fix \[CVE-2019-13453\]
 ```Atualizações de segurança  
 ```
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
+ 
 Advisory ID
 
   
@@ -1294,14 +1057,7 @@ Package
 ```Pacotes removidos  
 ```
   
-  
-  
-  
-  
-  
-  
-  
-
+ 
 Package
 
                

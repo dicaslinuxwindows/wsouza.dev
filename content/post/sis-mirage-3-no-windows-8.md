@@ -3,15 +3,13 @@ title: 'Sis Mirage 3 Graphics no Windows 8'
 date: 2013-12-29T00:22:00.002-02:00
 draft: false
 url: /2013/12/sis-mirage-3-no-windows-8.html
+categories:
+- Windows
+- Tutoriais
 tags: 
 - Sis Mirage 3 Graphics
-- Windows
 - Windows 8
 ---
-
-[![sis mirage 3 windows 8](https://2.bp.blogspot.com/-oYvkCwub0Ts/UsCcvIHUYuI/AAAAAAAAAbo/UwvHxWpKqpI/s320/Win8SisM3.jpg "sis mirage 3 windows 8")](http://2.bp.blogspot.com/-oYvkCwub0Ts/UsCcvIHUYuI/AAAAAAAAAbo/UwvHxWpKqpI/s1600/Win8SisM3.jpg)
-
-  
 
 Em abril publiquei um post sobre o [funcionamento da placa de vídeo Sis Mirage 3 nos sistemas Windows e Linux](http://info.wsouza.com.br/2013/04/sis-mirage3.html), e, naquela ocasião era impossível fazer esta placa funcionar no Windows 8 pois não havia suporte e nem driver disponível para este sistema. Passado algum tempo ainda não foi lançado nenhum driver novo e também não há suporte para Windows 8, mas com algumas atualizações do próprio Windows tornou-se possível a utilização desta placa neste sistema operacional.  
 

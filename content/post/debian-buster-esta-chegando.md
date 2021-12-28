@@ -3,21 +3,13 @@ title: 'Debian Buster está chegando'
 date: 2019-06-25T00:05:00.000-03:00
 draft: false
 url: /2019/06/debian-buster-esta-chegando.html
-tags: 
+categories:
 - Debian
-- Linux
+tags: 
 - Debian Buster
 ---
 
-A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.
-
-  
-  
-  
-
-[![Debian Buster está chegando - Dicas Linux e Windows](https://2.bp.blogspot.com/-W6q1uBHLrC0/XRFymgT2FRI/AAAAAAAALs0/ZfkIRuGJG2c1fGnUw7JJO99tgnnG-8LoQCLcBGAs/s1600/Buster.png "Debian Buster está chegando - Dicas Linux e Windows")](https://2.bp.blogspot.com/-W6q1uBHLrC0/XRFymgT2FRI/AAAAAAAALs0/ZfkIRuGJG2c1fGnUw7JJO99tgnnG-8LoQCLcBGAs/s1600/Buster.png)
-
-  
+A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.  
 
 ### Debian
 

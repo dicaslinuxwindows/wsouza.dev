@@ -3,11 +3,11 @@ title: 'Remastersys - Um ótimo utilitário de backup para Ubuntu'
 date: 2013-01-27T00:02:00.000-02:00
 draft: false
 url: /2013/01/remastersys-um-otimo-utilitario-de.html
-tags: 
-- Criar Backup do Sistema
-- Ubuntu
+categories:
 - Tutoriais
-- Remastersys
+- Ubuntu
+tags: 
+- Remaster
 ---
 
   

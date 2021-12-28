@@ -3,18 +3,14 @@ title: 'Debian Buster - Instalação limpa com Dual Boot'
 date: 2019-07-20T20:31:00.002-03:00
 draft: false
 url: /2019/07/debian-buster-instalacao-limpa.html
-tags: 
+categories:
 - Debian
-- Linux
-- Debian Buster
 - Tutoriais
+tags: 
+- Debian Buster
 ---
 
 Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.
-
-  
-  
-  
 
 ### Debian Buster
 

@@ -3,17 +3,15 @@ title: 'Debian 8 (Jessie) e Ubuntu 15.04 (Vivid Vervet) lançados'
 date: 2015-04-27T00:24:00.000-03:00
 draft: false
 url: /2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html
-tags: 
+categories:
 - Debian
-- Linux
 - Ubuntu
+tags: 
+
 ---
 
 Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.  
 
-[![](https://4.bp.blogspot.com/-B8TH1BOOTww/VT2rML1wcwI/AAAAAAAABNk/KYf1FClNTqE/s320/Debian_Ubuntu.png)](http://4.bp.blogspot.com/-B8TH1BOOTww/VT2rML1wcwI/AAAAAAAABNk/KYf1FClNTqE/s1600/Debian_Ubuntu.png)
-
-  
 
 O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de software livre e não possui nada comercial em seu código. É uma ótima escola para desenvolvedores de software livre.  
 Já o Ubuntu é mantido por uma empresa chamada Canonical e possui licenças comerciais. Tem sido, nos últimos anos, a porta de entrada para os usuários que migram de windows para linux, ou mesmo de usuários curiosos que querem conhecer o "universo linux". Ambos os sistemas operacionais são gratuitos.

@@ -3,10 +3,11 @@ title: 'MS Paint clássico direto no navegador'
 date: 2018-04-28T19:19:00.003-03:00
 draft: false
 url: /2018/04/ms-paint-classico-direto-no-navegador.html
-tags: 
+categories:
 - Dicas
-- Paint
 - Windows
+tags: 
+- Paint
 ---
 
   

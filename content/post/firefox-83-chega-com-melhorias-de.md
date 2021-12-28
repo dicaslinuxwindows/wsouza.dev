@@ -3,23 +3,13 @@ title: 'Firefox 83 chega com melhorias de desempenho e novidades'
 date: 2020-11-19T22:51:00.004-03:00
 draft: false
 url: /2020/11/firefox-83-chega-com-melhorias-de.html
-tags: 
+categories:
 - Dicas
+tags: 
 - Firefox
 ---
 
-![Firefox 83 chega com melhorias de desempenho e novidades - Dicas Linux e Windows](https://1.bp.blogspot.com/-zxATss2NUSI/X7bH1JrYDNI/AAAAAAAARDU/d260enSLTo85VbjIASQYIj3m5GSSjFHvQCNcBGAsYHQ/s16000/Firefox.png "Firefox 83 chega com melhorias de desempenho e novidades - Dicas Linux e Windows")
-
 Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.
-
-  
-  
-  
-  
-  
-  
-  
-
 Depois de um tempo lançando versões com pequenas correções, a Mozilla lança o Firefox 43 com uma maior quantidade de novidades, melhorias e correções. Vejamos quais são:  
 
 *   Melhoria de desempenho: Graças à melhorias no SpiderMonkey, que é o mecanismo JavaScript do Firefox, as páginas podem ser carregadas até 15% mais rápidas, com capacidade de resposta da página em até 12% e o uso de memória reduzido em até 8%.

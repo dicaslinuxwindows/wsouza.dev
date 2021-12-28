@@ -3,7 +3,7 @@ title: 'Nunca mais perca seus contatos do celular'
 date: 2016-11-20T23:19:00.001-02:00
 draft: false
 url: /2016/11/nunca-mais-perca-seus-contatos-do-celular.html
-tags: 
+categories: 
 - Dicas
 - Android
 ---

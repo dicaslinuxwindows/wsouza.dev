@@ -3,21 +3,16 @@ title: 'Primeiras impressões sobre o GNOME 40'
 date: 2021-04-01T19:43:00.009-03:00
 draft: false
 url: /2021/04/primeiras-impressoes-sobre-o-gnome-40.html
+categories:
+- Artigos
+- Debian
+- Fedora
+- Ubuntu
 tags: 
-- Linux
-- GNOME40
+- GNOME
 ---
 
-![Primeiras impressões sobre o GNOME 40 - Dicas Linux e Windows](https://1.bp.blogspot.com/-c2QrLu_sngc/YGZOsGn9SbI/AAAAAAAAR-k/I1EVmuHmp8shfT5WMuzIRBBNRgsxwCzaACNcBGAsYHQ/s150/GNOME40.png "Primeiras impressões sobre o GNOME 40 - Dicas Linux e Windows")
-
 Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.
-
-  
-  
-  
-  
-  
-  
 
 ### GNOME
 

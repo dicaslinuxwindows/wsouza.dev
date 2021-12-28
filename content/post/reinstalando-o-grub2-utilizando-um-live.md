@@ -4,9 +4,10 @@ date: 2013-01-08T03:26:00.003-02:00
 draft: false
 url: /2013/01/reinstalando-o-grub2-utilizando-um-live.html
 tags: 
-- Linux
+- Grub
+categories:
+- Ubuntu
 - Tutoriais
-- Recuperar Grub
 ---
 
 Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.  

@@ -3,13 +3,11 @@ title: 'Lançado o Ubuntu 21.04 Hirsute Hippo'
 date: 2021-04-25T23:03:00.003-03:00
 draft: false
 url: /2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 21.04
 ---
-
-![//](https://1.bp.blogspot.com/-uIugK_p6nsg/YIYRoicxxQI/AAAAAAAASDA/qslFrua-uhA2g8UWobX9DnYxkgXcl1CrwCNcBGAsYHQ/s0/Ubuntu_21.04_lan%25C3%25A7ado.png)
 
 Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.
 

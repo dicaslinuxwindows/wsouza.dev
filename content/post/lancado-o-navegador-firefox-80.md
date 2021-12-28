@@ -3,22 +3,13 @@ title: 'Lançado o navegador Firefox 80'
 date: 2020-08-25T23:09:00.001-03:00
 draft: false
 url: /2020/08/lancado-o-navegador-firefox-80.html
-tags: 
+categories:
 - Dicas
+tags: 
 - Firefox
 ---
 
-![Lançado o navegador Firefox 80 - Dicas Linux e Windows](https://1.bp.blogspot.com/-PLlzYvAUUX4/X0WuYKZE4YI/AAAAAAAAPw8/QJZt1Ho9nns_vCwLGl4H-UXtegvussRNACNcBGAsYHQ/s1600/Firefox_80.png "Lançado o navegador Firefox 80 - Dicas Linux e Windows")
-
 Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.
-
-  
-  
-  
-  
-  
-  
-  
 
 O Mozilla Firefox ainda é o segundo navegador mais utilizado no mundo, porém, esta vice liderança está ameaçada pelo Microsoft Edge _(e pode ser que já tenha sido perdida)_. Paralelamente aos acontecimentos, a fundação Mozilla continua trabalhando nas atualizações com correções e melhorias, e chega agora na versão 80.  
   
@@ -166,9 +157,7 @@ No Ubuntu, Linux Mint e Fedora já é possível baixar o Firefox 80 diretamente 
 Usuários do Windows, ou usuários Linux que que desejam instalar o pacote no formato [Flatpak](https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html), podem baixar nos links abaixo:  
   
 
-[ Windows](https://www.mozilla.org/firefox/download/thanks/)
-
-[ Flatpak](https://flathub.org/apps/details/org.mozilla.firefox)
+[ Windows](https://www.mozilla.org/firefox/download/thanks/) | [ Flatpak](https://flathub.org/apps/details/org.mozilla.firefox)
 
   
 

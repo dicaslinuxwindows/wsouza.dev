@@ -3,10 +3,10 @@ title: 'Internet Archive: Wayback Machine, o Arquivo da Internet'
 date: 2013-07-31T00:36:00.000-03:00
 draft: false
 url: /2013/07/arquivo-da-internet.html
+categories:
+- Dicas
 tags: 
 - Arquivo da Internet
-- Dicas
-- Wayback Machine
 ---
 
 Você sabia que a internet possui um arquivo? Sim, existe um site que registra as páginas iniciais de vários sites na internet desde 2006 e também registra outros tipos de conteúdo relacionados com a internet.  

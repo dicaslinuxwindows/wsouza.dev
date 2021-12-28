@@ -4,14 +4,11 @@ date: 2020-03-02T22:56:00.007-03:00
 draft: false
 url: /2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html
 tags: 
-- Linux
-- Imposto de Renda
-- Tutoriais
 - IRPF
-- OpenJDK
+- Java
+categories:
+- Tutoriais
 ---
-
-![Programa de declaração do IRPF 2020 no Linux com Java OpenJDK  - Dicas Linux e Windows](https://2.bp.blogspot.com/-C3gRh412i9U/XwfNT1tf8hI/AAAAAAAAPTA/go1lewH3w_EjEeg6Ct2xm21L36QyfKb-gCNcBGAsYHQ/s1600/Irpf_Open_JDK.png "Programa de declaração do IRPF 2020 no Linux com Java OpenJDK  - Dicas Linux e Windows")
 
 Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato _.BIN_, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.  
 Se procura a versão 2021, veja em: [Instalando o programa do IRPF 2021 no Debian e Fedora](https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html)

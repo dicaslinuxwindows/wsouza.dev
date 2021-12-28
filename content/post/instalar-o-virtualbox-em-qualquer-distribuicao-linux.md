@@ -3,23 +3,20 @@ title: 'Instalando o VirtualBox em qualquer distribuição Linux'
 date: 2021-01-25T23:13:00.008-03:00
 draft: false
 url: /2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html
+categories:
+- Tutoriais
+- Debian
+- Fedora
+- Linux Mint
+- Ubuntu
 tags: 
-- Linux
 - VirtualBox
 - Máquina Virtual
-- Tutoriais
----
 
-![Instalando o VirtualBox em qualquer distribuição Linux - Dicas Linux e Windows](https://1.bp.blogspot.com/--09lJ3LkXgE/YA93oXVBAVI/AAAAAAAARmo/9K1YfOF6ybIimoPzMaAy2iRQMbZWK22CACNcBGAsYHQ/s16000/Virtualbox_Linux.png "Instalando o VirtualBox em qualquer distribuição Linux - Dicas Linux e Windows")
+---
 
 Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
 
-  
-  
-  
-  
-  
-  
 
 ### VirtualBox
 
@@ -66,10 +63,6 @@ O link abaixo é para a versão 6.1.18, que pode ser atualizado a qualquer momen
 Após, dê a permissão de execução.  
   
 
-  
-
-  
-
  chmode +x VirtualBox-6.1.18-142142-Linux\_amd64.run
 
   
@@ -79,14 +72,8 @@ Após, dê a permissão de execução.
   
 Faça a instalação pelo terminal, independente se baixou pela interface gráfica, ou pelo terminal. Desta forma a chance de acontecer erros é bem menor.  
   
-
-  
-
-  
-
  sudo ./VirtualBox-6.1.18-142142-Linux\_amd64.run
 
-  
 
 ### Pós-instalação
 
@@ -94,24 +81,8 @@ Faça a instalação pelo terminal, independente se baixou pela interface gráfi
 Para utilizar todo o potencial do VB, após a instalação baixe VirtualBox Extension Pack, disponível em [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads). Após instalar algum sistema operacional convidado em seu VB - e se este for baseado no Debian - execute os comandos mostrados abaixo no terminal e depois, com o sistema convidado aberto, vá ao menu do VB _Dispositivos_ e escolha a opção _Inserir imagem de Cd para os Adicionais para Convidado_.  
   
 
-  
-
-  
-
  sudo apt update
 
-  
-
-  
-
-  
-
  sudo apt install -y build-essential module-assistant
-
-  
-
-  
-
-  
 
  sudo m-a prepare

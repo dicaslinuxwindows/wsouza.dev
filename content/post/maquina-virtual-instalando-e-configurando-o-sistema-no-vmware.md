@@ -3,10 +3,10 @@ title: 'Máquina Virtual: Instalando e configurando o sistema no VMware'
 date: 2018-08-14T16:22:00.000-03:00
 draft: false
 url: /2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html
-tags: 
-- Linux
-- Máquina Virtual
+categories:
 - Tutoriais
+tags: 
+- Máquina Virtual
 - VMware Player
 - Ferramentas Linux
 ---

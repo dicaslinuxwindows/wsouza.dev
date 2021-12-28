@@ -3,9 +3,9 @@ title: 'Como instalar o programa de declaração do imposto de renda 2019 no Lin
 date: 2019-03-11T19:37:00.005-03:00
 draft: false
 url: /2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html
-tags: 
-- Linux
+categories:
 - Tutoriais
+tags: 
 - IRPF
 ---
 
@@ -14,7 +14,6 @@ Se procura a versão 2020, veja em: [Programa de declaração do IRPF 2020 - Ins
   
 Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.
 
-[![Dicas Linux e Windows - Como instalar o programa de declaração do imposto de renda 2019 no Linux](https://2.bp.blogspot.com/-Bgvir50JhJw/XIbiz7H6sII/AAAAAAAAKyY/c5ndniyHjqQ-rcxV9w4zy52cb5CHuoemwCLcBGAs/s1600/Irfp%25281%2529.png "Dicas Linux e Windows - Como instalar o programa de declaração do imposto de renda 2019 no Linux")](https://2.bp.blogspot.com/-Bgvir50JhJw/XIbiz7H6sII/AAAAAAAAKyY/c5ndniyHjqQ-rcxV9w4zy52cb5CHuoemwCLcBGAs/s1600/Irfp%25281%2529.png)
 
 O programa que será instalado realiza a declaração de imposto de renda de pessoa física, por isto é chamado de IRPF, e seu instalador está disponível no formato _.BIN_.  
 Todo procedimento será realizado no Debian, testado na versão Jessie e Stretch.  

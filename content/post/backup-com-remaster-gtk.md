@@ -3,9 +3,9 @@ title: 'Backup com Remaster GTK'
 date: 2018-07-16T22:00:00.001-03:00
 draft: false
 url: /2018/07/backup-com-remaster-gtk.html
-tags: 
-- Linux
+categories:
 - Tutoriais
+tags: 
 - Backup do Sistema
 - Remaster
 - Ferramentas Linux

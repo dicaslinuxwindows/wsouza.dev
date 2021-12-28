@@ -4,8 +4,9 @@ date: 2020-01-06T14:30:00.003-03:00
 draft: false
 url: /2020/01/suporte-do-windows-7-acaba-em-14012020.html
 tags: 
-- Windows
 - Windows 7
+categories:
+- Windows
 ---
 
 Conforme anunciado no ano passado, a Microsoft deixará de fornecer atualizações de segurança gratuitas para o Windows 7 em janeiro de 2020. Saiba mais a seguir.

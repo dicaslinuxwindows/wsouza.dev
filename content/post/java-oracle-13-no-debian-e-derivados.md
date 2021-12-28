@@ -3,22 +3,15 @@ title: 'Java Oracle 13 no Debian e Derivados'
 date: 2020-02-22T23:16:00.002-03:00
 draft: false
 url: /2020/02/java-oracle-13-no-debian-e-derivados.html
-tags: 
-- Linux
-- Oracle java
+categories:
 - Tutoriais
+- Debian
+tags: 
+- Java
 ---
 
-![Java Oracle 13 no Debian e Derivados - Dicas Linux e Windows](https://2.bp.blogspot.com/-_RSTktCfHyg/Xwfp9Itl6UI/AAAAAAAAPXY/oWhD3tuiLQUOuT8MRHd1wRrLtdoPdhCNwCNcBGAsYHQ/s1600/Java_13.png "Java Oracle 13 no Debian e Derivados - Dicas Linux e Windows")
 
 Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em [Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados](https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html)
-
-  
-  
-  
-  
-  
-  
 
 ### Java 13
 

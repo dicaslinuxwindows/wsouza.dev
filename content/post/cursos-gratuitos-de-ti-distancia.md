@@ -3,7 +3,7 @@ title: 'Cursos EAD gratuitos de TI'
 date: 2015-09-30T00:28:00.000-03:00
 draft: false
 url: /2015/09/cursos-gratuitos-de-ti-distancia.html
-tags: 
+categories: 
 - Dicas
 ---
 

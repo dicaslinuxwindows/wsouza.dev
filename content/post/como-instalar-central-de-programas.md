@@ -3,10 +3,11 @@ title: 'Como instalar a central de programas igual a do Ubuntu no Debian'
 date: 2015-09-29T23:09:00.002-03:00
 draft: false
 url: /2015/09/como-instalar-central-de-programas.html
-tags: 
+categories:
 - Debian
-- Linux
 - Tutoriais
+tags: 
+
 ---
 
   
@@ -19,7 +20,7 @@ Não conhece? Veja abaixo.
 
 Ela não é exclusiva do Ubuntu, há uma versão para Debian também e pode ser instalada facilmente, com um único comando:  
   
-Debian Wheezy (Oldstable) - **sudo apt-get install software-center**  
+##Debian Wheezy (Oldstable) - **sudo apt-get install software-center**  
   
 Então você, usuário do Debian, pode aproveitar as funcionalidades da central. A diferença da "versão" Debian é que não há oferta de aplicativos pagos.  
 Instale e aproveite as facilidades.
@@ -29,4 +30,4 @@ Instale e aproveite as facilidades.
 _Atualizado_  
   
 Nas versões mais recentes do Debian não existe a Central de Programas, mas existe o Gnome-Software, que gerencia os programas de maneira parecida com a Central de Programas, para instalar:  
-Debian Jessie (Stable), Stretch (Testing) - **sudo apt-get install gnome-software**
+##Debian Jessie (Stable), Stretch (Testing) - **sudo apt-get install gnome-software**

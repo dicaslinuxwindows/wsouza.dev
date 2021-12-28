@@ -3,16 +3,14 @@ title: 'Microsoft alerta usuários do Windows 7 sobre atualização para o Windo
 date: 2019-03-14T00:30:00.000-03:00
 draft: false
 url: /2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html
-tags: 
+categories:
 - Windows
+tags: 
 - Windows 7
 ---
 
 Você ainda utiliza o Windows 7? Nas próximas semanas a Microsoft vai começar uma campanha para convencer os usuários a migrarem para o Windows 10.
 
-  
-  
-  
   
 
 Caso utilize, prepare-se para receber notificações periódicas da Microsoft tentando convencê-lo a atualizar para o Windows 10.  

@@ -3,19 +3,15 @@ title: 'Chegou o Ubuntu 19.04, codinome Disco Dingo'
 date: 2019-04-20T18:54:00.002-03:00
 draft: false
 url: /2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html
-tags: 
-- Linux
-- Ubuntu 19.04
+categories:
 - Ubuntu
+tags: 
+- Ubuntu 19.04
+
 ---
 
 No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.
 
-  
-  
-  
-
-[![ Ubuntu 19.04, codinome Disco Dingo - Dicas Linux e Windows](https://4.bp.blogspot.com/-ESgw8r7K80I/XL0VEi2KVLI/AAAAAAAALFw/JUIbF0Z2NHE5LP2nzL5IfHv8by8WL0aSQCLcBGAs/s200/discodingo.png " Ubuntu 19.04, codinome Disco Dingo - Dicas Linux e Windows Ubuntu 19.04, codinome Disco Dingo - Dicas Linux e Windows")](https://4.bp.blogspot.com/-ESgw8r7K80I/XL0VEi2KVLI/AAAAAAAALFw/JUIbF0Z2NHE5LP2nzL5IfHv8by8WL0aSQCLcBGAs/s1600/discodingo.png)
 
 ### Sobre o Ubuntu
 

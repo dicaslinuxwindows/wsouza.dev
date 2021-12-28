@@ -3,21 +3,11 @@ title: 'Lançado o Linux Mint 20 ''Ulyana'''
 date: 2020-06-28T23:57:00.000-03:00
 draft: false
 url: /2020/06/lancado-o-linux-mint-20-ulyana.html
-tags: 
-- Linux
+categories: 
 - Linux Mint
 ---
 
-![Post de teste](https://2.bp.blogspot.com/-RyW4BGvvt_0/XvlcvoSjlBI/AAAAAAAAPOw/9dKIJmw82yMTraeFFiTw8AeRA3omUFy2wCNcBGAsYHQ/s1600/Ulyana4.png "Lançado o Linux Mint 20 'Ulyana' - Dicas Linux e Windows")
-
 A equipe de desenvolvimento anunciou no dia 27/06/2020 o lançamento da versão estável do Linux Mint 20 'Ulyana'. Veja a seguir mais informações sobre este lançamento.
-
-  
-  
-  
-  
-  
-  
 
 ### Ulyana
 

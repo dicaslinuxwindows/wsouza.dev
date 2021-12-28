@@ -3,12 +3,11 @@ title: 'Microsoft Edge-Dev suporta login e sincronização no Linux'
 date: 2021-03-29T23:51:00.003-03:00
 draft: false
 url: /2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html
+categories:
+- Dicas
 tags: 
-- Linux
 - Microsoft Edge
 ---
-
-![Microsoft Edge-Dev suporta login e sincronização no Linux - Dicas Linux e Windows](https://1.bp.blogspot.com/-Z-qngYReewQ/YGKR31VS0rI/AAAAAAAAR6U/u6TTPZzYXFI_H_VcmzF_RK_eu35G_YrAwCNcBGAsYHQ/s16000/EDGE_Login.png "Microsoft Edge-Dev suporta login e sincronização no Linux - Dicas Linux e Windows")
 
 Em tempo: Na última semana a versão Linux do Microsoft Edge passou a suportar login e sincronização entre dispositivos, algo que ainda não era permitido. Veja nesta matéria como ativar.
 

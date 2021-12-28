@@ -3,10 +3,10 @@ title: 'CCleaner -  Fazendo a limpeza de arquivos e informações desnecessária
 date: 2013-07-23T01:57:00.000-03:00
 draft: false
 url: /2013/07/ccleaner.html
-tags: 
+categories:
 - Dicas
+tags: 
 - Ccleaner
-- Limpar registro do Windows
 ---
 
 Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.  
@@ -14,13 +14,13 @@ Quando desinstalamos um programa do computador, nem toda as informações sobre 
 Um destes programas é o CCleaner, um utilitário gratuito que além de fazer a limpeza do registro também limpa os arquivos temporários que são dispensáveis e só servem para ocupar espaço no seu disco. Aqui mostraremos algumas funcionalidades importantes que com certeza vão otimizar o uso do seu computador com Windows.
 
   
-**Download e Instalação**  
+## **Download e Instalação**  
   
 Vale lembrar que existe uma versão paga, com mais funcionalidades, mas aqui veremos a versão gratuita.  
 [Baixe a versão grátis do CCleaner aqui](http://www.piriform.com/ccleaner/download/standard)  
 Após o download instale o arquivo baixado.  
   
-**Limpeza de arquivos - configuração e utilização**  
+## **Limpeza de arquivos - configuração e utilização**  
   
 A primeira tela mostrada é a tela de limpeza de arquivos temporários, mas antes de utilizá-la podemos configurar para tirar o máximo de proveito. Deixando configuradas da maneira que estão nas imagens abaixo você conseguira limpar boa parte dos arquivos temporários, e as configurações dos navegadores da internet como histórico, dados preenchidos em formulários, histórico de downloads, cache e cookies.  
 
@@ -43,14 +43,14 @@ Também é possível configurar para que o CCleaner faça a limpeza de arquivos 
 
   
   
-**Limpeza do registro**  
+## **Limpeza do registro**  
   
 A limpeza do registro é uma função muito importante, como já foi descrito no início. Para realizá-la via CCleaner é muito simples. A imagem abaixo é da tela de limpeza do registro e seguindo os passos você conseguirá realizar a limpeza. Quando clicar em "Corrigir erros selecionados" o programa vai perguntar se deseja salvar as alterações num arquivo, isto é opcional e eu normalmente não salvo, mas quem deseja ter um controle das alterações realizadas poderá salvar.  
 
 [![ccleaner](https://4.bp.blogspot.com/-2MMXrDjAiqg/Ue4Vdz1uPiI/AAAAAAAAAWc/xaiILpRurCM/s640/cc3.png "ccleaner")](http://4.bp.blogspot.com/-2MMXrDjAiqg/Ue4Vdz1uPiI/AAAAAAAAAWc/xaiILpRurCM/s1600/cc3.png)
 
   
-**Outras ferramentas**  
+## **Outras ferramentas**  
   
 Além de limpar os aquivos temporários e o registro do Windows o CCleaner possui outras ferramentas muito interessantes com a desinstalação de programas e a remoção de programas iniciados com o Windows.  
   
@@ -65,6 +65,6 @@ Além de limpar os aquivos temporários e o registro do Windows o CCleaner possu
 
   
   
-**Considerações finais**  
+## **Considerações finais**  
   
 Vimos apenas algumas ferramentas do CCleaner e utilizando apenas estas ferramentas pode-se dizer que ele é um utilitário indispensável para manter o Windows limpo e com uma inicialização mais rápida.

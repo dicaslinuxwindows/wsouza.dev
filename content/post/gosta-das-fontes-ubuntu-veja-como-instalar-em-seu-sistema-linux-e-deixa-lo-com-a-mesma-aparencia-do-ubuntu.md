@@ -3,33 +3,27 @@ title: 'Gosta das fontes do Ubuntu? Veja como instalar em seu sistema Linux e de
 date: 2019-08-19T13:25:00.004-03:00
 draft: false
 url: /2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html
-tags: 
-- Linux
+categories:
 - Ubuntu
-- Fontes Ubuntu
+tags: 
 ---
 
 Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.
 
-  
-  
-  
-  
 
-[![Gosta das fontes do Ubuntu? Veja como instalar em seu sistema Linux e deixá-lo com a mesma aparência do Ubuntu  - Dicas Linux e Windows](https://2.bp.blogspot.com/-aqmZDV6EQFA/XVttNTxYMOI/AAAAAAAAMKw/lJkltw1I9ccA1jjJ4XbEIquKGGmerVB4ACLcBGAs/s1600/Ubuntu-Fonts.png "Gosta das fontes do Ubuntu? Veja como instalar em seu sistema Linux e deixá-lo com a mesma aparência do Ubuntu  - Dicas Linux e Windows")](https://2.bp.blogspot.com/-aqmZDV6EQFA/XVttNTxYMOI/AAAAAAAAMKw/lJkltw1I9ccA1jjJ4XbEIquKGGmerVB4ACLcBGAs/s1600/Ubuntu-Fonts.png)
-
-  
 
 Uma das coisas mais legais do Ubuntu é o visual, e boa parte desta beleza visual deve-se às suas fontes.  
 Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como instalar em dois passos.  
   
-1º passo: Abra o terminal e insira o comando:  
+## 1º passo
+Abra o terminal e insira o comando:  
   
 
  wget -O ubuntufonts.tar.gz https://www.dropbox.com/s/ge12zkzsosfsc24/ubuntufonts.tar.gz?dl=1
 
   
-2º passo: Ainda no terminal, primeiramente vamos criar a pasta _ubuntu-font_ dentro da pasta de fontes do sistema. Depois vamos descompactar o arquivo gerado anteriormente e movê-lo para a pasta criada.  
+## 2º passo
+Ainda no terminal, primeiramente vamos criar a pasta _ubuntu-font_ dentro da pasta de fontes do sistema. Depois vamos descompactar o arquivo gerado anteriormente e movê-lo para a pasta criada.  
   
 
  sudo mkdir /usr/share/fonts/ubuntu-font/
@@ -47,7 +41,7 @@ Se preferir instalar via interface gráfica descompacte o arquivo que foi baixad
 
   
 
-### Alterando as fontes
+## Alterando as fontes
 
 Agora já é possível configurar a fonte Ubuntu como padrão do ambiente gráfico. Testei apenas no GNOME e no MATE, mas nos outros ambientes gráficos, mas a ideia é a mesma.  
 Se você utiliza o ambiente gráfico GNOME você precisará do Gnome Tweak Tool _(ou Gnome Tweaks)_.  

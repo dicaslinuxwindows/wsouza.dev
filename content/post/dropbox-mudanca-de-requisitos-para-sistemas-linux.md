@@ -3,22 +3,15 @@ title: 'Dropbox - Mudança de requisitos para sistemas Linux'
 date: 2018-08-26T19:26:00.001-03:00
 draft: false
 url: /2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html
-tags: 
-- Linux
+categories:
 - Dicas
+tags: 
 - Dropbox
 ---
 
 Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.
 
   
-  
-  
-
-   [![](https://2.bp.blogspot.com/-OL4hXCZDAx8/W4NF2mzcPsI/AAAAAAAAJHE/-yPwGi_iZCs0yBoXUmJpKZYyuKutDlhMQCLcBGAs/s200/dropbox.png)](https://2.bp.blogspot.com/-OL4hXCZDAx8/W4NF2mzcPsI/AAAAAAAAJHE/-yPwGi_iZCs0yBoXUmJpKZYyuKutDlhMQCLcBGAs/s1600/dropbox.png)
-
-  
-
 **Desde já fica claro que o Dropbox não encerrará o suporte à sistemas Linux.**  
 Veja o comunicado do Dropbox enviado aos usuários:  
 _"Em 15 de outubro, o Dropbox encerrará a compatibilidade com o Ubuntu 13.10, Fedora 20 e versões anteriores. Você precisará do glibc 2.19 ou superior para continuar usando o aplicativo do Dropbox para desktop. Pedimos que atualize o sistema operacional para uma versão compatível do Linux (Ubuntu 14.04+ ou Fedora 21+) ou atenda aos [novos requisitos de sistema](https://www.dropbox.com/l/AABx5WsUv19St0HR6Ewmcp-Bp0u8Rc0zXa4#linux).  

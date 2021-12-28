@@ -3,21 +3,13 @@ title: 'Debian Installer Buster RC 2 Release'
 date: 2019-06-27T01:39:00.001-03:00
 draft: false
 url: /2019/06/debian-installer-buster-rc-2-release.html
-tags: 
+categories: 
 - Debian
-- Linux
+tags: 
 - Debian Buster
 ---
 
 Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.
-
-  
-  
-  
-
-[![Debian Installer Buster RC 2 Release - Dicas Linux e Windows](https://1.bp.blogspot.com/-KXHyTb8Yxe0/XRQ-xqcXY8I/AAAAAAAALto/oK7eh6_eDsQFf9vrKQWClYzQX5Tt689ewCLcBGAs/s1600/Buster-RC2.png "Debian Installer Buster RC 2 Release - Dicas Linux e Windows")](https://1.bp.blogspot.com/-KXHyTb8Yxe0/XRQ-xqcXY8I/AAAAAAAALto/oK7eh6_eDsQFf9vrKQWClYzQX5Tt689ewCLcBGAs/s1600/Buster-RC2.png)
-
-  
 
 ### Debian
 

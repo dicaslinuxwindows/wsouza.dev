@@ -3,19 +3,15 @@ title: 'Novidades WhatsApp'
 date: 2019-07-01T23:06:00.000-03:00
 draft: false
 url: /2019/07/novidades-whatsapp.html
-tags: 
-- WhatsApp
+
+categories:
 - Android
+tags: 
+- Redes Sociais
 ---
 
 Nos últimos dias surgiram algumas notícias sobre o WhatsApp. Mais detalhes a seguir.
 
-  
-  
-  
-  
-
-[![Novidades WhatsApp - Dicas Linux e Windows](https://1.bp.blogspot.com/-fWiR_WRriTA/XRqy-vIVEQI/AAAAAAAALu0/PRtPERSMgu8IqdCv6fysRXpzQzrc--AugCPcBGAYYCw/s200/novidades_whatsapp.png "Novidades WhatsApp - Dicas Linux e Windows")](https://1.bp.blogspot.com/-fWiR_WRriTA/XRqy-vIVEQI/AAAAAAAALu0/PRtPERSMgu8IqdCv6fysRXpzQzrc--AugCPcBGAYYCw/s1600/novidades_whatsapp.png)
 
 ### WhatsApp deixará de funcionar em alguns aparelhos
 

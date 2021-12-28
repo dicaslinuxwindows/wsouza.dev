@@ -3,16 +3,11 @@ title: 'Lançamento do Debian Stretch '
 date: 2017-06-17T20:29:00.002-03:00
 draft: false
 url: /2017/06/lancamento-debian-9-stretch.html
-tags: 
+categories: 
 - Debian
-- Linux
 ---
 
 No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.  
-  
-
-[![](https://4.bp.blogspot.com/-lxQ-0T-NGkQ/WUW6_vCELrI/AAAAAAAACRI/DUK3dL9IhS83MwJaMGFYXCxTkg0u5692wCLcBGAs/s200/Debian-GNU-Linux-9-Stretch-RC2-640x300.jpg)](https://4.bp.blogspot.com/-lxQ-0T-NGkQ/WUW6_vCELrI/AAAAAAAACRI/DUK3dL9IhS83MwJaMGFYXCxTkg0u5692wCLcBGAs/s1600/Debian-GNU-Linux-9-Stretch-RC2-640x300.jpg)
-
   
 Segundo a [página de lançamento](https://www.debian.org/releases/testing/amd64/release-notes/index.pt.html), o Stretch inclui mais de 15346 novos pacotes, num total de mais de 51687 pacotes, 57% dos pacotes de seu antecessor foram atualizados e 13% foram removidos e serão marcados como obsoletos.
 

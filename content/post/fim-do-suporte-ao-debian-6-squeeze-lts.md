@@ -3,9 +3,8 @@ title: 'Fim do suporte ao Debian 6 (Squeeze) LTS'
 date: 2016-02-21T01:02:00.000-03:00
 draft: false
 url: /2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html
-tags: 
+categories: 
 - Debian
-- Linux
 ---
 
 No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.  

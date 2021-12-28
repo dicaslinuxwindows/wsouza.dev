@@ -3,24 +3,12 @@ title: '[Atualizado] Fim do Ubuntu 32 bits'
 date: 2019-06-20T19:41:00.004-03:00
 draft: false
 url: /2019/06/fim-do-ubuntu-32-bits.html
-tags: 
-- Linux
+categories:
 - Ubuntu
 ---
 
-  
-
-![Fim do Ubuntu 32 bits - Dicas Linux e Windows](https://1.bp.blogspot.com/-4YlrSmUIXuc/XRQRvZHlBbI/AAAAAAAALtc/mT_UooJe6lAoe7zxY32v8-HdKYx41R6JwCLcBGAs/s1600/32BITSX.png "Fim do Ubuntu 32 bits - Dicas Linux e Windows")
-
-  
-
 Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.  
 _Atualizado: Canonical recuou a respeito desta decisão. Leia em [Canonical recua e não removerá os pacotes 32bits do Ubuntu](https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html)_
-
-  
-  
-  
-  
 
 ### Ubuntu 32 bits
 

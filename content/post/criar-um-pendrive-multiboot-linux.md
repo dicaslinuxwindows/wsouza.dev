@@ -3,11 +3,11 @@ title: 'Criando um Pendrive Multiboot com o Yumi'
 date: 2015-01-03T03:15:00.000-02:00
 draft: false
 url: /2015/01/criar-um-pendrive-multiboot-linux.html
-tags: 
-- Linux
-- Pendrive Multiboot
+categories:
 - Tutoriais
 - Windows
+tags: 
+- Pendrive Multiboot
 - Yumi
 ---
 

@@ -3,13 +3,11 @@ title: 'Acompanhe o desenvolvimento do Debian Bullseye'
 date: 2020-07-09T01:13:00.001-03:00
 draft: false
 url: /2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html
-tags: 
+categories:
 - Debian
-- Linux
+tags: 
 - Debian Bullseye
 ---
-
-![Acompanhe o desenvolvimento do Debian Bullseye - Dicas Linux e Windows](https://2.bp.blogspot.com/-TlxyvHyhXaU/X0g3yaEIEgI/AAAAAAAAP2U/PTTocMzjgPksMTbYdxsDku9Umx6xCEYHACNcBGAsYHQ/s1600/DebianBullseye.png "Acompanhe o desenvolvimento do Debian Bullseye - Dicas Linux e Windows")
 
 O Debian 11, que será chamado de Bullseye, está na "fase" testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.
 

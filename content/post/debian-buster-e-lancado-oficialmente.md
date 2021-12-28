@@ -3,24 +3,14 @@ title: 'Debian Buster é lançado oficialmente'
 date: 2019-07-06T23:13:00.002-03:00
 draft: false
 url: /2019/07/debian-buster-e-lancado-oficialmente.html
-tags: 
+categories:
 - Debian
-- Linux
+tags: 
 - Debian Buster
 ---
 
-[![Debian Buster é lançado oficialmente - Dicas Linux e Windows](https://1.bp.blogspot.com/-zYN54Qok9BY/XSFTWcSsEPI/AAAAAAAALzQ/RZTornaz-ecWuhI1lnR8KUh7AH0M5D5ywCLcBGAs/s200/blog-banner.png "Debian Buster é lançado oficialmente - Dicas Linux e Windows")](https://1.bp.blogspot.com/-zYN54Qok9BY/XSFTWcSsEPI/AAAAAAAALzQ/RZTornaz-ecWuhI1lnR8KUh7AH0M5D5ywCLcBGAs/s1600/blog-banner.png)
+O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.
 
-O Debian Buster enfim está entre nós em sua versão final.  
-Saiba aqui os detalhes do lançamento.
-
-  
-  
-  
-  
-  
-  
-  
 
 ### Debian
 

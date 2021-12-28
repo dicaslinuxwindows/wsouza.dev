@@ -3,22 +3,14 @@ title: 'Firefox 74 é lançado '
 date: 2020-03-10T13:52:00.000-03:00
 draft: false
 url: /2020/03/firefox-74-e-lancado.html
-tags: 
+categories:
 - Dicas
+tags: 
 - Firefox
 ---
 
-![Firefox 74 é lançado - Dicas Linux e Windows](https://1.bp.blogspot.com/-hPQXMCrj5LU/XwfcmEjgVyI/AAAAAAAAPTs/oz1k5q9jBH0ufV01Dp_3beP4yZBUSWaJgCNcBGAsYHQ/s1600/Firefox_74.png "Firefox 74 é lançado - Dicas Linux e Windows")
-
 A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.
 
-  
-  
-  
-  
-  
-  
-  
 
 A versão 74 do Firefox traz algumas melhorias em relação ao seu antecessor, principalmente à nível de segurança e privacidade. Veja alguns destaques:  
 

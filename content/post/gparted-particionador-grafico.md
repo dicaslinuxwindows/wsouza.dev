@@ -3,10 +3,9 @@ title: 'GParted, Particionador Gráfico'
 date: 2018-07-19T20:28:00.001-03:00
 draft: false
 url: /2018/07/gparted-particionador-grafico.html
-tags: 
-- Linux
+categories:
 - Tutoriais
-- Particionar Disco
+tags: 
 - GParted
 - Ferramentas Linux
 ---

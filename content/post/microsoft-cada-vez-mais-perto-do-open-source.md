@@ -3,17 +3,13 @@ title: 'Microsoft cada vez mais perto do open source'
 date: 2019-05-05T21:46:00.000-03:00
 draft: false
 url: /2019/05/microsoft-cada-vez-mais-perto-do-open-source.html
-tags: 
-- Microsoft
+categories:
 - Artigos
+tags: 
 - Open Source
 ---
 
 Nos últimos anos a Microsoft está se aproximando do open source _(software de código aberto, não sendo necessariamente software livre)_. Mas qual seria a real intenção da dona do Windows? O artigo a seguir busca, analisando um pouco da história da Microsoft, tentar entender qual o motivo da aproximação desta gigante com o "mundo" do open source.
-
-  
-
-[![Microsoft cada vez mais perto do open source - Dicas Linux e Windows](https://1.bp.blogspot.com/-TytvUDGmX10/XNBeKDuhO-I/AAAAAAAALLo/G8XWtuSAeAEnsXtIULq2zUlmS60Oyc-VQCLcBGAs/s200/Opensource.svg.png "Microsoft cada vez mais perto do open source - Dicas Linux e Windows")](https://1.bp.blogspot.com/-TytvUDGmX10/XNBeKDuhO-I/AAAAAAAALLo/G8XWtuSAeAEnsXtIULq2zUlmS60Oyc-VQCLcBGAs/s1600/Opensource.svg.png)
 
 ### Microsoft e sua política
 

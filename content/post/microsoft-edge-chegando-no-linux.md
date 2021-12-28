@@ -3,24 +3,15 @@ title: 'Microsoft Edge chegando no Linux'
 date: 2020-09-22T17:00:00.010-03:00
 draft: false
 url: /2020/09/microsoft-edge-chegando-no-linux.html
-tags: 
-- Linux
-- Microsoft Edge
+categories:
 - Dicas
+tags: 
+- Microsoft Edge
 ---
-
-![Microsoft Edge para Linux tem data prevista para lançamento - Dicas Linux e Windows](https://1.bp.blogspot.com/-ZK91JA7F3b4/X3Evh6J1BxI/AAAAAAAAQKQ/9KqRIlgW1IIrkv7l9wh5V-4-Ax_-XSfLQCNcBGAsYHQ/s150/Edge_logo.png "Microsoft Edge para Linux tem data prevista para lançamento - Dicas Linux e Windows")
 
 Depois de um bom tempo sem se pronunciar a respeito do Microsoft Edge para Linux, a Microsoft divulgou uma data de lançamento para uma versão prévia do mesmo. Saiba mais na matéria abaixo.
 
-  
-  
-  
-  
-  
-  
-
-O Microsoft Edge éum navegador Web foi desenvolvido pela Microsoft para substituir o navegador Internet Explorer. Inicialmente possuia um "motor" próprio da Microsoft. No início de 2019 a Microsoft anunciou que passaria a se basear no projeto de código aberto Chromium _(o mesmo do Google Chrome)_, conforme foi tratado na matéria [Microsoft Edge agora é baseado no Chromium.](https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html).  
+O Microsoft Edge é um navegador Web foi desenvolvido pela Microsoft para substituir o navegador Internet Explorer. Inicialmente possuia um "motor" próprio da Microsoft. No início de 2019 a Microsoft anunciou que passaria a se basear no projeto de código aberto Chromium _(o mesmo do Google Chrome)_, conforme foi tratado na matéria [Microsoft Edge agora é baseado no Chromium.](https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html).  
   
 
 ### Microsoft Edge no Linux

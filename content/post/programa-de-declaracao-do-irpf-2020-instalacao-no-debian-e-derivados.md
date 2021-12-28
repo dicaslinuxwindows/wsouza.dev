@@ -3,14 +3,11 @@ title: 'Programa de declaração do IRPF 2020 no Debian, Ubuntu e derivados (Arq
 date: 2020-02-23T00:54:00.007-03:00
 draft: false
 url: /2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html
-tags: 
-- Linux
-- Imposto de Renda
+categories:
 - Tutoriais
+tags: 
 - IRPF
 ---
-
-![Programa de declaração do IRPF 2020 no Linux (Arquivo .bin + Java Oracle) - Dicas Linux e Windows](https://3.bp.blogspot.com/-KoF2hUek1gk/XwfTQWPbUKI/AAAAAAAAPTM/xq97kHuVF14pao1Uvp5lGFZbj2eowyQAACNcBGAsYHQ/s1600/Irpf_Oracle_Java.png "Programa de declaração do IRPF 2020 no Linux (Arquivo .bin + Java Oracle) - Dicas Linux e Windows")
 
 A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo _.BIN_ e o Java Oracle.  
 Se procura a versão 2021, veja em: [Instalando o programa do IRPF 2021 no Debian e Fedora](https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html)

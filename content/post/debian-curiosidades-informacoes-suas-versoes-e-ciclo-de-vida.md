@@ -3,22 +3,15 @@ title: 'Debian - Curiosidades, informações, versões e ciclo de vida'
 date: 2019-07-03T00:05:00.003-03:00
 draft: false
 url: /2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html
-tags: 
+categories:
 - Debian
-- Linux
 - Artigos
----
+tags: 
 
-![Debian - Curiosidades, informações, versões e ciclo de vida - Dicas Linux e Windows](https://2.bp.blogspot.com/-olDZe7B03F4/XRudNRxysmI/AAAAAAAALvU/-vK_KAD90Q0YSO-fsQg-a8TtOdZzLL3VQCLcBGAs/s1600/Debian-Logo.png "Debian - Curiosidades, informações, versões e ciclo de vida - Dicas Linux e Windows")
+---
 
 Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.
 
-  
-  
-  
-  
-  
-  
 
 ### Debian
 

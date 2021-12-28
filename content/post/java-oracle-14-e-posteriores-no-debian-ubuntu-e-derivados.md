@@ -3,23 +3,16 @@ title: 'Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados'
 date: 2020-03-25T20:35:00.013-03:00
 draft: false
 url: /2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html
-tags: 
-- Linux
-- Oracle java
+categories:
 - Tutoriais
+tags: 
+- Java
 ---
-
-![Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados - Dicas Linux e Windows](https://2.bp.blogspot.com/-DbzsS19Ff0M/Xwehb27lHYI/AAAAAAAAPS0/zx0ZpwUuCewFxj-CeBQXvMB6Am9W-JfsACNcBGAsYHQ/s1600/Java_Oracle_14.png "Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados - Dicas Linux e Windows")
 
 A Oracle acabou de lançar a versão 14 15 do Java SE. Veja aqui como baixar, instalar e configurar no Debian, Ubuntu e derivados.  
   
 _Atualizado em 06/04/2021_
 
-  
-  
-  
-  
-  
 
 ### Java Oracle  
 
@@ -69,8 +62,6 @@ O Java Oracle está instalado na pasta /usr/lib/jvm/jdk-**15.x.x**. Vamos config
 _Gedit é o editor gráfico de textos do Gnome. Pode utilizar qualquer editor de textos (Vim, Joe, Pluma, Kedit, Kate, Geany...)_  
   
 Insira o trecho abaixo no arquivo que foi aberto e salve-o. Caso haja algum trecho parecido, substitua por este. Sempre substitua a parte que está em vermelho pela versão que corresponde à versão que você está instalando.  
-  
-
   
 
  export JAVA\_HOME="/usr/lib/jvm/jdk-15.x.x"  

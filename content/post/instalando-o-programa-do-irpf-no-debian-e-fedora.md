@@ -3,27 +3,17 @@ title: 'Instalando o programa do IRPF 2021 no Debian e Fedora'
 date: 2021-02-28T19:25:00.006-03:00
 draft: false
 url: /2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html
-tags: 
+categories:
 - Debian
-- Linux
-- Oracle java
 - Ubuntu
 - Tutoriais
 - Fedora
+tags: 
 - IRPF
-- OpenJDK
+- Java
 ---
 
-![Instalando o programa do IRPF no Debian e Fedora - Dicas Linux e Windows](https://1.bp.blogspot.com/-88UIhEs61oA/YDwWR6Dc2wI/AAAAAAAARws/L37oamMEOk8Mity9TYFH0TknvO3yWdwywCNcBGAsYHQ/s16000/IRPF2021.png "Instalando o programa do IRPF no Debian e Fedora - Dicas Linux e Windows")
-
 Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian _(e seus derivados)_ e Fedora.
-
-  
-  
-  
-  
-  
-  
 
 ### DIRPF 2021
 

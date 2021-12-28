@@ -3,8 +3,7 @@ title: 'Cronograma de lançamento do Ubuntu 16.04'
 date: 2015-11-01T13:12:00.002-02:00
 draft: false
 url: /2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html
-tags: 
-- Linux
+categories: 
 - Ubuntu
 ---
 

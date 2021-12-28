@@ -3,13 +3,11 @@ title: 'Google anuncia o fim do Orkut '
 date: 2014-06-30T23:52:00.003-03:00
 draft: false
 url: /2014/06/google-anuncia-o-fim-do-orkut.html
-tags: 
+categories:
 - Dicas
-- Orkut
+tags: 
 - Redes Sociais
 ---
-
-[![fim do orkut](https://3.bp.blogspot.com/-UxE9pGMrZhA/U7IdXKhOvhI/AAAAAAAAAlE/zP8qnc4vxBo/s200/Orkut.jpg "fim do orkut")](http://3.bp.blogspot.com/-UxE9pGMrZhA/U7IdXKhOvhI/AAAAAAAAAlE/zP8qnc4vxBo/s1600/Orkut.jpg)
 
 Fim? Mas o Orkut já não estava morto?  
 Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mantinha o Orkut vivo, mas segundo o [blog oficial do Google](http://googlebrasilblog.blogspot.com.br/2014/06/adeus-ao-orkut.html) ele será desativado em 30 de setembro e 2014 e desde o dia 30 de Junho já não é mais possível cadastrar-se no serviço.  

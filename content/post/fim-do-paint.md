@@ -3,10 +3,11 @@ title: 'Fim do Paint'
 date: 2017-07-25T15:04:00.004-03:00
 draft: false
 url: /2017/07/fim-do-paint.html
-tags: 
+categories:
 - Dicas
-- Paint
 - Windows
+tags: 
+- Paint
 ---
 
 Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer...  

@@ -3,13 +3,10 @@ title: 'Como conseguir a versão mais recente do Ubuntu em 32 bits'
 date: 2018-11-19T12:29:00.004-02:00
 draft: false
 url: /2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html
-tags: 
-- Linux
+categories: 
 - Ubuntu
 - Tutoriais
 ---
-
-![Como conseguir a versão mais recente do Ubuntu em 32 bits - Dicas Linux e Windows](https://3.bp.blogspot.com/-yMpE7mq2Tfg/XImv9mEmdiI/AAAAAAAAKz8/ll1CTOjYOJQJZW9e5IflLmb-lgi2HbiUgCLcBGAs/s200/32BITS.png "Como conseguir a versão mais recente do Ubuntu em 32 bits - Dicas Linux e Windows")
 
 As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para "rodar" as últimas versões do Ubuntu em 32 bits?  
 Confira na dica a seguir.

@@ -3,19 +3,15 @@ title: 'Como resolver o erro ao instalar extensões no Firefox'
 date: 2019-05-07T23:30:00.000-03:00
 draft: false
 url: /2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html
-tags: 
+categories:
 - Dicas
+tags: 
 - Firefox
 ---
 
 Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
 
-  
-  
 
-[![Como resolver o erro ao instalar extensões no Firefox - Dicas Linux e Windows](https://4.bp.blogspot.com/-RM_lw4-pxgU/XNSv8VOSPfI/AAAAAAAALNE/5RKXjF5HgRUDXl07_jSECJUZShroRfT8QCLcBGAs/s1600/firefox.png "Como resolver o erro ao instalar extensões no Firefox - Dicas Linux e Windows")](https://4.bp.blogspot.com/-RM_lw4-pxgU/XNSv8VOSPfI/AAAAAAAALNE/5RKXjF5HgRUDXl07_jSECJUZShroRfT8QCLcBGAs/s1600/firefox.png)
-
-  
 
 ### Firefox e Firefox ESR
 

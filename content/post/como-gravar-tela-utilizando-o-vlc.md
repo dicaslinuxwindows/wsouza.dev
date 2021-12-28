@@ -3,21 +3,16 @@ title: 'Como gravar a tela utilizando o VLC'
 date: 2019-08-10T02:41:00.001-03:00
 draft: false
 url: /2019/08/como-gravar-tela-utilizando-o-vlc.html
-tags: 
+categories:
 - Dicas
+- Debian
+- Windows
+tags: 
 - VLC
 ---
 
 Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.
 
-  
-  
-  
-  
-
-[![Como gravar a tela utilizando o VLC - Dicas Linux e Windows](https://1.bp.blogspot.com/-RubEWM-8XPQ/XU4_A9nLZFI/AAAAAAAAL8U/tum8ieBBoRI_y058PFjBtAu5Fp25bh4owCPcBGAYYCw/s200/VLC.png "Como gravar a tela utilizando o VLC - Dicas Linux e Windows")](https://1.bp.blogspot.com/-RubEWM-8XPQ/XU4_A9nLZFI/AAAAAAAAL8U/tum8ieBBoRI_y058PFjBtAu5Fp25bh4owCPcBGAYYCw/s1600/VLC.png)
-
-  
 
 O recurso de gravação de tela é muito utilizado por usuários que querem compartilhar tutoriais sobre aplicativos e jogos.  
 Quando falamos de gravação de tela existem várias opções de softwares, aplicativos. O VLC é um software que muitos usuários já utilizam para assistir vídeos e ouvir músicas mas ele é um poderoso software de mídia que inclui funções de gravação de vídeo, como a de gravar a tela do PC. É claro que existem softwares específicos e com mais recursos, mas o VLC é uma opção para quem deseja algo básico.  

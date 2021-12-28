@@ -3,7 +3,7 @@ title: 'Golpes nas compras online'
 date: 2017-03-15T00:29:00.002-03:00
 draft: false
 url: /2017/03/golpes-nas-compras-online.html
-tags: 
+categories: 
 - Dicas
 ---
 

@@ -3,9 +3,12 @@ title: 'Atualizando o Windows 7 para o Windows 10 gratuitamente - Parte 2'
 date: 2020-02-14T02:32:00.004-03:00
 draft: false
 url: /2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html
-tags: 
+categories:
 - Windows
+- Tutoriais
+tags: 
 - Windows 7
+- Windows 10
 ---
 
 Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.

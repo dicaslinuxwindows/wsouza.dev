@@ -3,22 +3,14 @@ title: 'Google encerra Google+ e Inbox by Gmail'
 date: 2018-10-08T22:12:00.000-03:00
 draft: false
 url: /2018/10/google-encerra-google-e-inbox-by-gmail.html
-tags: 
-- Google +
+categories:
 - Dicas
-- Gmail
-- Google
+tags: 
+- Redes Sociais
 ---
 
 A Google continua com sua política de desativação de serviços. Nos últimos dias a companhia anunciou que vai desativar dois de seus serviços. Um deles é o Inbox by Gmail e o outro é o Google +. Leia mais detalhes a seguir.
 
-  
-  
-  
-
-[![Google encerra Google+ e Inbox by Gmail - Dicas Linux e Windows](https://3.bp.blogspot.com/-ngcW7WREWaQ/W7v2AEP9L6I/AAAAAAAAAJY/4cv8Wa3XcX8PMFD8Nm9SAZ6zcdXfnDZSQCLcBGAs/s200/Logo.png "Google encerra Google+ e Inbox by Gmail - Dicas Linux e Windows")](https://3.bp.blogspot.com/-ngcW7WREWaQ/W7v2AEP9L6I/AAAAAAAAAJY/4cv8Wa3XcX8PMFD8Nm9SAZ6zcdXfnDZSQCLcBGAs/s1600/Logo.png)
-
-  
 
 #### Inbox by Gmail
 

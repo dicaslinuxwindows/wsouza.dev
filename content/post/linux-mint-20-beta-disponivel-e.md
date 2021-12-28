@@ -3,21 +3,11 @@ title: 'Linux Mint 20: Beta disponível e polêmica com pacotes Snap'
 date: 2020-06-12T23:05:00.000-03:00
 draft: false
 url: /2020/06/linux-mint-20-beta-disponivel-e.html
-tags: 
-- Linux
+categories:
 - Linux Mint
 ---
 
-![](https://2.bp.blogspot.com/-Fr_JhHnX1_w/Xuq7hVJxZfI/AAAAAAAAPIQ/4jdjFOav-tkvg1pYNpdzeq8JLOOq8m5mACNcBGAsYHQ/s1600/Linux_Mint_Beta.png)
-
-A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma.  
-Confira aqui as últimas novidades e a "polêmica" sobre o uso dos pacotes Snap do Ubuntu.
-
-  
-  
-  
-  
-  
+A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a "polêmica" sobre o uso dos pacotes Snap do Ubuntu.
 
 ### O que sabemos sobre o LM20 até agora.
 

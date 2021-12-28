@@ -3,23 +3,14 @@ title: 'Saiu a versão Beta do Ubuntu 20.04 Focal Fossa'
 date: 2020-04-03T23:50:00.000-03:00
 draft: false
 url: /2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 20.04
 ---
 
-![Saiu a versão Beta do Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows](https://2.bp.blogspot.com/-I-iLyINfwzI/Xuq7gYhfxeI/AAAAAAAAPIE/lzlQtpHwQKcBO1XWyLFVl5YMpSLG1aXBgCNcBGAsYHQ/s1600/Focal_Fossa_Beta.png "Saiu a versão Beta do Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows")
-
 No dia 02/04/2020 saiu a versão beta do Ubuntu 20.04 Focal Fossa. Veja nesta matéria o que falta para a versão final e como obter esta versão.
 
-  
-  
-  
-  
-  
-  
-  
 
 O Ubuntu 20.04, codinome Focal Fossa, é a próxima versão LTS e será lançado oficialmente no dia 23 de abril. Seguindo o cronograma de lançamento _(ver imagem abaixo)_ foi lançada a versão Beta no dia 02 de abril, sendo esta uma das últimas fases antes da versão final.  
   

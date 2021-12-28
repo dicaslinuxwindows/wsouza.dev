@@ -3,20 +3,14 @@ title: 'Microsoft Forms Public Preview'
 date: 2019-01-17T13:43:00.001-02:00
 draft: false
 url: /2019/01/microsoft-forms-public-preview.html
-tags: 
+categories: 
 - Dicas
-- Microsoft Forms Public Preview
 ---
 
 Com o Microsoft Forms Public Preview é possível criar formulários e questionários de maneira fácil, prática e com fácil análise de resultados.  
 E o melhor de tudo: É gratuito.  
 Mais detalhes a seguir.
 
-  
-
-[![](https://1.bp.blogspot.com/-8B449pmVRu0/XECw3nEC7sI/AAAAAAAAKH0/c3D-_vDqV_Ih_qe3G2HsI1F0UP_hY8q5gCLcBGAs/s200/msforms.png)](https://1.bp.blogspot.com/-8B449pmVRu0/XECw3nEC7sI/AAAAAAAAKH0/c3D-_vDqV_Ih_qe3G2HsI1F0UP_hY8q5gCLcBGAs/s1600/msforms.png)
-
-  
 
 Lançado em 2016 para clientes empresariais e educacionais, o Microsoft Forms surgiu como uma alternativa ao Google Forms, lançado em 2015. A idéia é praticamente a mesma da concorrente, ou seja, permitir a criação de formulários on line que possibilitam a realização de pesquisas e questionários com fácil compartilhamento e fácil acompanhamento dos resultados pelos seus criadores.  
 Em outubro de 2018 a Microsoft estendeu a utilização para os usuários comuns, disponibilizando a ferramenta com o nome de Microsoft Forms Preview, de maneira gratuita. Acesse em [https://forms.office.com/](https://forms.office.com/).  

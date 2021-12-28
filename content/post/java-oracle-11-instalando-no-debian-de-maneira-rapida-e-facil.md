@@ -3,22 +3,16 @@ title: 'Java Oracle 11 - Instalando no Debian de maneira rápida e fácil'
 date: 2019-03-12T00:53:00.000-03:00
 draft: false
 url: /2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html
-tags: 
+categories: 
 - Debian
-- Linux
 - Tutoriais
+tags:
+- Java
 ---
 
-[![Dicas Linux e Windows - Java Oracle 11 - Instalando no Debian de Maneira Rápida e Fácil](https://4.bp.blogspot.com/-srT1ee90kOA/XIh9WLvilaI/AAAAAAAAKzg/INrla_dlj-USFH8QccKxFZt-B9SCTxZXQCLcBGAs/s200/jdk11.png "Dicas Linux e Windows - Java Oracle 11 - Instalando no Debian de Maneira Rápida e Fácil")](https://4.bp.blogspot.com/-srT1ee90kOA/XIh9WLvilaI/AAAAAAAAKzg/INrla_dlj-USFH8QccKxFZt-B9SCTxZXQCLcBGAs/s1600/jdk11.png)Esta dica está desatualizada, veja a nova em [Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados](https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html).
+Esta dica está desatualizada, veja a nova em [Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados](https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html).
 
 A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.
-
-  
-  
-  
-  
-  
-  
 
 ### O que é Java?
 

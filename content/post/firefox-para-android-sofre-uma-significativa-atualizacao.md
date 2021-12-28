@@ -3,24 +3,14 @@ title: 'Firefox para Android sofre uma significativa atualização'
 date: 2020-08-27T19:37:00.005-03:00
 draft: false
 url: /2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html
-tags: 
+categories:
 - Dicas
-- Firefox
 - Android
+tags: 
+- Firefox
 ---
 
-![Firefox para Android sofre uma significativa atualização - Dicas Linux e Windows](https://3.bp.blogspot.com/-_ZefuP8Gas4/X0g0lKloDfI/AAAAAAAAP10/6OGNWxq-luc0moCYmgmv2HMdAzYZs4hkgCNcBGAsYHQ/s1600/Firefox_79_Android.png "Firefox para Android sofre uma significativa atualização - Dicas Linux e Windows")
-
 O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.
-
-  
-  
-  
-  
-  
-  
-  
-  
 
 A fundação Mozilla liberou, nos últimos dias, uma atualização para o navegador Firefox no Android. Trata-se da versão 79, que reformulou quase totalmente o visual, opções de configurações e funcionalidades. Podemos considerar que trata-se de um novo navegador.  
   

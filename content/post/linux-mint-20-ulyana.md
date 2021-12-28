@@ -3,22 +3,12 @@ title: 'Linux Mint 20 Ulyana'
 date: 2020-04-01T00:21:00.002-03:00
 draft: false
 url: /2020/04/linux-mint-20-ulyana.html
-tags: 
-- Linux
+categories: 
 - Linux Mint
 ---
 
-![Linux Mint 20.04 Ulyana - Dicas Linux e Windows](https://1.bp.blogspot.com/-Otq9fIM2L9c/Xuq7hhZJfKI/AAAAAAAAPIU/2s2QOtUCL0kGVBXA6KYIu1m7eBjXnToogCNcBGAsYHQ/s1600/Linux_Mint_Ulyana.png "Linux Mint 20.04 Ulyana - Dicas Linux e Windows")
-
 Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.
 
-  
-  
-  
-  
-  
-  
-  
 
 Quando se trata de distribuições baseadas no Kernel Linux, geralmente tenho o hábito de falar e utilizar como exemplo o Debian e Ubuntu, pois são as distribuições que geralmente utilizo. Como a ideia principal do blog é falar sobre assuntos e situações que encontro no dia-a-dia como usuário, acabo não tendo muito o que falar sobre outras distribuições. O Linux Mint é uma das poucas distribuições que eu já citei aqui, ou fiz alguma matéria em que havia alguma dica que se encaixava para ela. Mas esta matéria será a primeira dedicada ao Mint e por este motivo, vou fazer uma breve apresentação da mesma aqui no blog _(por mais que muitos dos leitores já a conheçam, ou tenham ouvido falar nela)_.  
   

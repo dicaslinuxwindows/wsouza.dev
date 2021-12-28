@@ -3,10 +3,10 @@ title: 'Navegador Edge baseado no Chromium será lançado em janeiro de 2020 e t
 date: 2019-11-10T21:21:00.003-03:00
 draft: false
 url: /2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html
-tags: 
-- Linux
-- Microsoft Edge
+categories:
 - Dicas
+tags: 
+- Microsoft Edge
 ---
 
 [![](https://1.bp.blogspot.com/-1afqaS21NDk/XlRttmBUUVI/AAAAAAAAOD0/93mRp-jks-gaZYn1u3pkiZOqRVYbmNHKACNcBGAsYHQ/s200/Edge2.png)](https://1.bp.blogspot.com/-1afqaS21NDk/XlRttmBUUVI/AAAAAAAAOD0/93mRp-jks-gaZYn1u3pkiZOqRVYbmNHKACNcBGAsYHQ/s1600/Edge2.png)

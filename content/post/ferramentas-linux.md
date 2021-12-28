@@ -3,26 +3,14 @@ title: 'Ferramentas Linux - Compilação de Tópicos '
 date: 2019-02-01T05:48:00.000-02:00
 draft: false
 url: /2019/02/ferramentas-linux.html
-tags: 
+categories:
 - Linux
 - Tutoriais
+tags: 
 - Ferramentas Linux
 ---
 
-[![Ferramentas Linux - Dicas Linux e Windows](https://3.bp.blogspot.com/-BEv-My7WJo8/XE35xyA7xcI/AAAAAAAAKNs/XxWt3y4P8_MVLTAeM2SJHl8Tdy3vgaOUQCLcBGAs/s200/TUX_FERRAMENTAS.png "Ferramentas Linux - Dicas Linux e Windows")](https://3.bp.blogspot.com/-BEv-My7WJo8/XE35xyA7xcI/AAAAAAAAKNs/XxWt3y4P8_MVLTAeM2SJHl8Tdy3vgaOUQCLcBGAs/s1600/TUX_FERRAMENTAS.png)
-
 Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
 [3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux](https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html) - Como criar uma Live USB utilizando algum sistema Linux.  
   

@@ -3,12 +3,12 @@ title: 'Firefox 75 é lançado, e veio com aplicativo Flatpak oficial'
 date: 2020-04-09T23:58:00.003-03:00
 draft: false
 url: /2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html
-tags: 
+categories:
 - Dicas
+tags: 
 - Firefox
 ---
 
-![Firefox 75 é lançado, e veio com aplicativo Flatpak oficial - Dicas Linux e Windows](https://1.bp.blogspot.com/-J1B0dEmj-4Y/Xuq7gBWTeII/AAAAAAAAPIA/YnZzuGN1ZfwLz2YaxkJui2MF2Ck-1c7PwCNcBGAsYHQ/s1600/Firefox_75.png "Firefox 75 é lançado, e veio com aplicativo Flatpak oficial - Dicas Linux e Windows")
 
 O Firefox 75 foi lançado recentemente. Além de trazer algumas melhorias em relação à [versão anterior](https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html), trouxe oficialmente uma versão com aplicativo Flatpak. Mais detalhes a seguir.
 
@@ -49,8 +49,7 @@ Um dos grandes destaques desta nova versão é que ela vem acompanhada de um apl
 Das distribuições que geralmente utilizo ou testo, no Ubuntu, Linux Mint e Fedora já é possível baixar o Firefox 75 diretamente pela atualização do próprio sistema, pois o mesmo já está no repositório destas distribuições. Usuários do Debian não tem essa possibilidade, pois a mesma conta com o Firefox-ESR em seu repositório, e este está na versão 68.  
   
 
-[ Baixe o Firefox 75 do site da Mozilla](https://www.mozilla.org/pt-BR/firefox/download/thanks/)
-
+[ Baixe o Firefox 75 do site da Mozilla](https://www.mozilla.org/pt-BR/firefox/download/thanks/) |
 [ Baixe o Firefox 75 em Flatpak](https://flathub.org/apps/details/org.mozilla.firefox)
 
   

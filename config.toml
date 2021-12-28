@@ -7,7 +7,6 @@ googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your trac
 enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
-external = true
 
 [[menu.main]]             
   name = "Home"
@@ -18,7 +17,7 @@ external = true
   name = "Categorias"
   weight = 20
   identifier = "categories"
-  url = "/post/"
+  url = "/categorias/"
 [[menu.main]]
   name = "Sistemas"
   weight = 30
@@ -29,46 +28,49 @@ external = true
   weight = 40
   identifier = "about"
   url = "/sobre/"
-  
+   
  [Author]
   name = "W.Souza"
   bio = "Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
   avatar = "https://3.bp.blogspot.com/-n7mOFEUoIG0/XFxGIo7WVzI/AAAAAAAAKac/rQpmdra-miYaFf_6uSovTWmQD7SseNtngCK4BGAYYCw/s107/Dicas%2BLinux%2Be%2BWindows_TemplateNovo%2Bc%25C3%25B3pia.png"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [Params]
-  description = "asc" # Description of your site
+  description = "" # Description of your site
   opengraph = true
-  copyright = "WSouza"
+  copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
-  toc = false # Enable Table of Contents
+  toc = true # Enable Table of Contents
   readmore = true # Show "Read more" button in list if true
   authorbox = true
   pager = true
-  keyword = "Windows, Linux, Mobile, Internet, Android"
+  keyword = "Windows, Linux, Mobile, Internet, Android, Dicas, Artigos, Tutoriais"
   post_meta = ["author", "date", "categories", "translations"]
   googleAnalyticsID = "G-ZE9HZB2464"
   show_translations= true
   dateFormat = "Mon, Jan 2, 2006"
+  enableGitInfo = true
+  favicon32 = "/favicon-32x32.png"
+  favicon16 = "/favicon-16x16.png"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+ unsafe = false
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
   
 [Params.logo]
   image = ""
-  title = "WSouza"
-  subtitle = "Dicas Linux e Windows" # Logo subtitle
+  title = ""
+  subtitle = "" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
   single = "true" # Configure layout for single pages
-  widgets = ["languages", "search", "recent", "categories", "taglist", "social"]
+  widgets = ["languages", "search", "recent", "taglist", "social"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget

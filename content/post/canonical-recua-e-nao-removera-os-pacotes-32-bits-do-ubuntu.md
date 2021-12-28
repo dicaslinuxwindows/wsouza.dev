@@ -3,23 +3,13 @@ title: 'Canonical recua e não removerá os pacotes 32 bits do Ubuntu'
 date: 2019-06-26T22:24:00.002-03:00
 draft: false
 url: /2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html
-tags: 
-- Linux
+categories: 
 - Ubuntu
 ---
-
-![Canonical recua e não removerá os pacotes 32 bits do Ubuntu - Dicas Linux e Windows](https://1.bp.blogspot.com/-gZexsjHkz9A/XRQQ6KaGNEI/AAAAAAAALtU/aG5dqZPJ8sIKlkCvDxvr0VStA5oJNxfkwCLcBGAs/s200/32BITSV.png "Canonical recua e não removerá os pacotes 32 bits do Ubuntu - Dicas Linux e Windows")
 
 Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.
 
   
-  
-  
-  
-  
-  
-  
-
 Na semana passada foi anunciado que o Ubuntu não teria suporte para pacotes na arquitetura 32 bits (i386, x86), conforme divulgado em [Fim do Ubuntu 32bits](https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html).  
 Porém, devido à pressões da comunidade, usuários, desenvolvedores e "parceiros", a empresa [soltou um comunicado oficial](https://blog.ubuntu.com/2019/06/24/statement-on-32-bit-i386-packages-for-ubuntu-19-10-and-20-04-lts) informando que a história não será bem assim.  
 Os grandes afetados com a mudança seriam alguns projetos baseados no Ubuntu como o Wine e a Steam, e os desenvolvedores destes projetos abandonariam o Ubuntu. Como estas comunidades contribuem com o desenvolvimento de pacotes, isto não seria viável para a Canonical.  

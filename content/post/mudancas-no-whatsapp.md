@@ -3,9 +3,10 @@ title: 'Mudanças no WhatsApp'
 date: 2018-07-24T01:32:00.000-03:00
 draft: false
 url: /2018/07/mudancas-no-whatsapp.html
-tags: 
-- WhatsApp
+categories:
 - Android
+tags: 
+- Redes Sociais
 ---
 
 Recentemente o WhatsApp anunciou uma série de medidas que visam mais segurança - diminuindo a chance de golpes - e transparência para o aplicativo.  

@@ -3,23 +3,14 @@ title: 'Debian Bullseye entra em congelamento'
 date: 2021-01-17T23:20:00.003-03:00
 draft: false
 url: /2021/01/debian-bullseye-em-congelamento.html
-tags: 
+categories:
 - Debian
-- Linux
+tags: 
 - Debian Bullseye
 ---
 
-![Debian Bullseye em congelamento - Dicas Linux e Windows](https://1.bp.blogspot.com/-SbhWttE77FY/YATwDEx1s2I/AAAAAAAARio/QqJhOMdH7GApMYaM8L2luokkz0GkezY2wCNcBGAsYHQ/s16000/Bullseye-Freeze.png "Debian Bullseye em congelamento - Dicas Linux e Windows")
-
 O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.
-
-  
-  
-  
-  
-  
-  
-  
+ 
 
 Em julho de 2020 fiz uma matéria mostrando como [acompanhar o desenvolvimento do Debian Bullseye](https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html), que naquele momento, fazia aproximadamente 1 ano que estava em desenvolvimento na "fase" testing. De lá pra cá os desenvolvedores continuaram trabalhando, trazendo as versões mais recentes dos aplicativos, corrigindo bugs e agora, em janeiro de 2021, inicia-se o congelamento _(freeze)_.  
   

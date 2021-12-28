@@ -3,22 +3,13 @@ title: 'Fedora 33 Beta'
 date: 2020-10-07T00:05:00.003-03:00
 draft: false
 url: /2020/10/fedora-33-beta.html
-tags: 
-- Linux
-- Fedora 33
+categories:
 - Fedora
+tags: 
+- Fedora 33
 ---
 
-![Fedora 33 Beta - Dicas Linux e Windows](https://1.bp.blogspot.com/-tpCRbqXKdGM/X30vwWI-3oI/AAAAAAAAQOc/CQcSwFz16IgOe_jJkyHzhPf1q8hh5_nFQCNcBGAsYHQ/s16000/Fedora%2B33%2BBeta.png "Fedora 33 Beta - Dicas Linux e Windows")
-
 Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.
-
-  
-  
-  
-  
-  
-  
 
 ### Fedora
 
@@ -72,7 +63,7 @@ Fedora 33 Beta
   
 O vídeo abaixo mostra o Fedora 33 Beta em funcionamento:  
   
-
+[video](https://www.youtube.com/embed/VjrA-95GH-I)
   
 
 ### Considerações finais

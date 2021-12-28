@@ -3,25 +3,20 @@ title: 'Novidades sobre a Sis Mirage 3 no Ubuntu Trusty Tahr (14.04) , Linux Min
 date: 2015-01-04T05:05:00.003-02:00
 draft: false
 url: /2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html
-tags: 
+categories:
 - Debian
-- Linux
 - Ubuntu
-- Sis Mirage 3 Graphics
 - Tutoriais
+tags: 
+- Sis Mirage 3 Graphics
 ---
 
   
 
 _Atualizado em 21/02/2016_
-
   
 
-[![](https://4.bp.blogspot.com/-kn3ABsUN6q8/VKjU_JoftUI/AAAAAAAABHQ/7URh0ud59-M/s1600/sismirage3_mint_ubuntu.png "sis mirage 3 debian, ubuntu e linux mint")](http://4.bp.blogspot.com/-kn3ABsUN6q8/VKjU_JoftUI/AAAAAAAABHQ/7URh0ud59-M/s1600/sismirage3_mint_ubuntu.png)
-
-  
-
-Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, [e, num dos posts, cheguei a dizer que quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior.](http://info.wsouza.com.br/2013/04/sis-mirage3.html) O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente. Veja a seguir:  
+Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que [quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior.](http://info.wsouza.com.br/2013/04/sis-mirage3.html) O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente. Veja a seguir:  
 
   
 **Sis Mirage 3 no Ubuntu 14.04 e Linux Mint 17.1 (Rebecca)**  
@@ -39,7 +34,7 @@ sudo bash sisi\_trusty.sh**
 
 Mas quem quiser fazer manualmente pode seguir os passos abaixo.  
   
-**Download dos arquivos necessários.**  
+## **Download dos arquivos necessários**  
   
 1 - Driver Sisimedia:  
   
@@ -55,7 +50,7 @@ Mas quem quiser fazer manualmente pode seguir os passos abaixo.
   
 [xorg.conf](https://www.dropbox.com/s/ux6lbwk6bbpw4ub/xorg.conf?dl=0)  
   
-**Instalação.**  
+## **Instalação**  
   
 1 - Copie e cole os comandos abaixo no terminal:
 

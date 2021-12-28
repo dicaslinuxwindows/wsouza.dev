@@ -3,9 +3,10 @@ title: 'Novo Firefox para Android'
 date: 2019-07-05T00:52:00.001-03:00
 draft: false
 url: /2019/07/novo-firefox-para-android.html
+categories:
+- Android
 tags: 
 - Firefox
-- Android
 ---
 
 A Mozilla lançou um novo navegador Firefox, inicialmente disponível apenas para Android. Este navegador promete ser mais rápido que os tradicionais Firefox que estão disponíveis na Play Store.  

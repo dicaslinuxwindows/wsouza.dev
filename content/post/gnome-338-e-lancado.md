@@ -3,22 +3,12 @@ title: 'Gnome 3.38 é lançado'
 date: 2020-09-18T21:25:00.249-03:00
 draft: false
 url: /2020/09/gnome-338-e-lancado.html
-tags: 
-- Linux
+categories: 
 - Dicas
 ---
 
-![Gnome 3.38 é lançado - Dicas Linux e Windows](https://1.bp.blogspot.com/-LAH6YaTzNMQ/X2WJ-wJBkwI/AAAAAAAAQGg/-2znIu7KYo80V8IsCbNsC8Nm2dZV-MhYgCNcBGAsYHQ/s0/Gnome_3.38.png "Gnome 3.38 é lançado - Dicas Linux e Windows")
-
 O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.
 
-  
-  
-  
-  
-  
-  
-  
 
 O GNOME é um ambiente de trabalho _(também chamado de interface gráfica, ambiente gráfico...)_ para sistemas baseados em Linux. É supervisionado pela fundação GNOME e mantido por uma comunidade de desenvolvedores trabalham voluntariamente ou são funcionários de grandes empresas da área de tecnologia.  
 O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GNOME Shell e trouxe mudanças significativas em relação à versão anterior.  

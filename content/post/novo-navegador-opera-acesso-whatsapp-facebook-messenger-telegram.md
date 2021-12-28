@@ -3,12 +3,10 @@ title: 'Novo Navegador Opera - Acesso à WhatsApp, Facebook Messenger e Telegram
 date: 2017-05-31T13:05:00.000-03:00
 draft: false
 url: /2017/05/novo-navegador-opera-acesso-whatsapp-facebook-messenger-telegram.html
-tags: 
+categories:
 - Dicas
-- Telegram
-- Facebook Messenger
-- WhatsApp
-- Opera
+tags: 
+- Redes Sociais
 ---
 
 Há pouco tempo foi lançada a nova versão do navegador Opera, a 45. Esta versão traz algumas novidades que tornam o navegador mais interessante ainda, veja a seguir.  

@@ -3,23 +3,14 @@ title: 'Nova aparência do aplicativo do Gmail'
 date: 2019-01-31T15:01:00.000-02:00
 draft: false
 url: /2019/01/nova-aparencia-do-aplicativo-do-gmail.html
+categories: 
+- Android
 tags: 
 - Gmail
-- Android
 ---
-
-[![](https://4.bp.blogspot.com/-0PvSnVGETDo/XFMn6FLgwbI/AAAAAAAAKPg/CYlZKJiLrfcBBgXJSzuzs12GDjGFvTcjgCLcBGAs/s200/gmail_logo.png)](https://4.bp.blogspot.com/-0PvSnVGETDo/XFMn6FLgwbI/AAAAAAAAKPg/CYlZKJiLrfcBBgXJSzuzs12GDjGFvTcjgCLcBGAs/s1600/gmail_logo.png)
 
 Em breve o aplicativo do Gmail terá novidades na sua interface. Confira a seguir quais são estas novidades.
 
-  
-  
-  
-  
-  
-  
-
-  
 Nos últimos tempos o aplicativo do Gmail tem recebido várias atualizações. Quando foi anunciado o [encerramento do Inbox](https://info.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html), foi mostrado que várias das funcionalidades daquele aplicativo já estavam sendo adicionadas ao aplicativo do Gmail.  
 Recentemente a Google anunciou que o aplicativo vai receber o _Material Theme_, que vem sendo adotado por todos os produtos da companhia. Assim, a interface do aplicativo (IOS/Android) será redesenhada, ficando com uma aparência mais limpa e moderna, além de algumas facilidades na visualização das mensagens e dos anexos. Serão 3 opções de visualização: Padrão, Confortável e Compacta.  
 Veja nas imagens abaixo como deverá ser a nova aparência do Gmail.  

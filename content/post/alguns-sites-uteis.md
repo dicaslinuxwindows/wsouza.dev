@@ -3,7 +3,7 @@ title: 'Alguns sites que oferecem serviços de utilidade pública'
 date: 2014-11-06T12:41:00.000-02:00
 draft: false
 url: /2014/11/alguns-sites-uteis.html
-tags: 
+categories: 
 - Dicas
 ---
 
