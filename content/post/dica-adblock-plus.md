@@ -6,8 +6,6 @@ url: /2013/08/dica-adblock-plus.html
 categories:
 - Dicas
 tags: 
-- Firefox
-- Google Chrome
 - Adblock Plus
 ---
 

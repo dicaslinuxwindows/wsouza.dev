@@ -7,7 +7,6 @@ categories:
 - Dicas
 - Android
 tags: 
-- Google Drive
 - WhatsApp
 
 ---

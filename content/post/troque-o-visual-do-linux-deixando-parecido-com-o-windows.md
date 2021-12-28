@@ -3,8 +3,7 @@ title: 'Troque o visual do Linux deixando-o parecido com o Windows'
 date: 2016-12-30T01:23:00.000-02:00
 draft: false
 url: /2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html
-tags: 
-- Linux
+categories: 
 - Tutoriais
 ---
 

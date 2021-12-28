@@ -3,13 +3,12 @@ title: 'Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado'
 date: 2020-10-30T18:38:00.005-03:00
 draft: false
 url: /2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 21.04
 ---
 
-![](https://1.bp.blogspot.com/-jCgXGlcdLMQ/X5yHeykZXEI/AAAAAAAAQvs/A1hq4aeJqHkcg3mGwqprI4mzWKyoNkKkgCNcBGAsYHQ/s320/Ubuntu_2104.png)
 
 Poucos dias depois de lançar o Ubuntu 20.10, a próxima versão já teve o seu nome revelado. Confira.
 

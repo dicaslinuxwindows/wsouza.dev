@@ -3,9 +3,9 @@ title: 'Webmin - Administrador de Sistemas'
 date: 2019-01-22T13:35:00.000-02:00
 draft: false
 url: /2019/01/webmin-administrador-de-sistemas.html
-tags: 
-- Linux
+categories:
 - Tutoriais
+tags: 
 - Ferramentas Linux
 - Webmin
 ---
@@ -13,10 +13,6 @@ tags:
 Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.  
 Uma boa alternativa frente ao Secure Shell _SSH_. Confira mais detalhes na matéria abaixo.
 
-  
-  
-
-[![Webmin - Administrador de Sistemas - Dicas Linux e Windows](https://2.bp.blogspot.com/-sCieAZJVURo/XEbuvOSUT3I/AAAAAAAAKLs/iI9lpn95KzA8oYtpJAw3puF2J9GcFk-iwCLcBGAs/s320/webmin.png "Webmin - Administrador de Sistemas - Dicas Linux e Windows")](https://2.bp.blogspot.com/-sCieAZJVURo/XEbuvOSUT3I/AAAAAAAAKLs/iI9lpn95KzA8oYtpJAw3puF2J9GcFk-iwCLcBGAs/s1600/webmin.png)
 
 ### 1 - O que é o Webmin?
 

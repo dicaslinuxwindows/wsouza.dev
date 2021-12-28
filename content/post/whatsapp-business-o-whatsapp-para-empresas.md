@@ -3,11 +3,12 @@ title: 'WhatsApp Business - O WhatsApp para empresas'
 date: 2018-02-27T12:13:00.006-03:00
 draft: false
 url: /2018/02/whatsapp-business-o-whatsapp-para-empresas.html
-tags: 
-- WhatsApp Business
-- Tutoriais
-- WhatsApp
+categories:
 - Android
+- Tutoriais
+tags: 
+- WhatsApp
+
 ---
 
   

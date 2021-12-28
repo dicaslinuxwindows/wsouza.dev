@@ -3,25 +3,15 @@ title: 'Ubuntu - Como funciona a política de seu ciclo de vida'
 date: 2019-03-13T21:36:00.000-03:00
 draft: false
 url: /2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html
-tags: 
-- Linux
+categories:
 - Artigos
 - Ubuntu
 ---
 
-[![Ubuntu - Como funciona a política de seu ciclo de vida - Dicas Linux e Windows](https://3.bp.blogspot.com/-Qw8X4gMtmbw/XImekDaftXI/AAAAAAAAKzw/1RDTOGwHE90mFXDSN9gKYzwE-2XFOFcNgCLcBGAs/s200/Ubuntu.png "Ubuntu - Como funciona a política de seu ciclo de vida - Dicas Linux e Windows")](https://3.bp.blogspot.com/-Qw8X4gMtmbw/XImekDaftXI/AAAAAAAAKzw/1RDTOGwHE90mFXDSN9gKYzwE-2XFOFcNgCLcBGAs/s1600/Ubuntu.png)
 
 Conheça como funciona o ciclo de vida do Ubuntu, um dos sistemas operacionais Linux mais populares do mundo.
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ 
 
 ### Sobre o Ubuntu
 

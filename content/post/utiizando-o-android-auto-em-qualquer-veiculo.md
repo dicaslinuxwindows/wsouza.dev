@@ -3,10 +3,9 @@ title: 'Utilizando o Android Auto em qualquer veículo'
 date: 2018-01-09T03:41:00.000-02:00
 draft: false
 url: /2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html
-tags: 
+categories: 
 - Tutoriais
 - Android
-- Android Auto
 ---
 
 O Android Auto é um aplicativo para veículos que controla as funções de GPS, Radio, Agenda, Ligações e tem integração com o Google Now, o que possibilita o controle por voz, dando ao motorista total controle às funções citadas anteriormente. Para ser mais exato, o Android Auto é um sistema operacional Android, otimizado para o uso em veículos  

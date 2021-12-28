@@ -3,22 +3,14 @@ title: 'Ubuntu 20.10  - Beta  e papéis de parede disponíveis'
 date: 2020-10-06T22:33:00.005-03:00
 draft: false
 url: /2020/10/ubuntu-2010-beta-e-papeis-de-parede.html
+categories:
+- Ubuntu
 tags: 
-- Linux
 - Ubuntu 20.10
 ---
 
-![Ubuntu 20.10  - Beta  e papéis de parede disponíveis - Dicas Linux e Windows](https://1.bp.blogspot.com/-JM1zglSSpC4/X30Y97bQAKI/AAAAAAAAQOM/RR5MtzK4cn82rlNDHqGJVPX68s_ZTA0GgCNcBGAsYHQ/s16000/Ubuntu_20.10_Beta.png "Ubuntu 20.10  - Beta  e papéis de parede disponíveis - Dicas Linux e Windows")
-
 Nos últimos dias foram disponibilizados os papéis de parede oficiais e a versão beta do Ubuntu 20.10 - Groovy Gorilla . Mais detalhes na matéria abaixo.
 
-  
-  
-  
-  
-  
-  
-  
 
 O Mês de Outubro traz o lançamento final do Ubuntu 20.10, codinome Groovy Gorilla. Esta é uma das 3 versões intermediárias, que são lançadas entre duas versões LTS. estas versões possuem suas peculiaridades, como tempo de suporte menor. Para entender como funciona o ciclo de desenvolvimento do Ubuntu leia a matéria [Ubuntu - Como funciona a política de seu ciclo de vida](https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html).  
   

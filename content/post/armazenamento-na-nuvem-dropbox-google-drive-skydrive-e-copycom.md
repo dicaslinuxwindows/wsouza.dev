@@ -6,11 +6,7 @@ url: /2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.htm
 categories:
 - Dicas
 tags: 
-- Onedrive
 - Armazenamento na Nuvem
-- Copy.com
-- Dropbox
-- Google Drive
 ---
 
 _Atualizado em 04/11/2014_  

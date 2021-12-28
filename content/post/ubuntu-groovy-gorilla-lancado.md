@@ -3,13 +3,11 @@ title: 'Ubuntu Groovy Gorilla Lançado'
 date: 2020-10-22T23:58:00.005-03:00
 draft: false
 url: /2020/10/ubuntu-groovy-gorilla-lancado.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 20.10
 ---
-
-![](https://1.bp.blogspot.com/-0-StLx5vmSY/X5JJsftGbrI/AAAAAAAAQi8/zX63iV3snoY8az6d5-KLiTyQVBkwnLS4ACNcBGAsYHQ/s0/Groovy_Gorilla_Lan%25C3%25A7ado.png)
 
 Os desenvolvedores do Ubuntu anunciam o lançamento do Ubuntu 20.10 Groovy Gorilla. Veja a seguir como baixar e instalar.
 

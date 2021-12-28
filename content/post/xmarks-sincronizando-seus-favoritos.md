@@ -3,19 +3,10 @@ title: 'Xmarks - Sincronizando seus favoritos, abas e histórico'
 date: 2013-02-23T00:34:00.002-03:00
 draft: false
 url: /2013/02/xmarks-sincronizando-seus-favoritos.html
-tags: 
+categories:
 - Dicas
-- Firefox
-- Safari
-- Google Chrome
-- Internet Explorer
-- Xmarks
 ---
 
-[![xmarks](https://3.bp.blogspot.com/-M2fF1Uw8_VY/UWtdI6y5KaI/AAAAAAAAAR8/JGfRdw1xBtI/s200/xmarks.jpg "xmarks")](http://3.bp.blogspot.com/-M2fF1Uw8_VY/UWtdI6y5KaI/AAAAAAAAAR8/JGfRdw1xBtI/s1600/xmarks.jpg)
-
-  
-  
 
 [Xmarks](http://www.xmarks.com/) é uma extensão para Firefox, Chrome, IE e Safari que permite manter os favoritos, abas abertas e histórico sincronizados automaticamente entre os estes navegadores em Windows, Linux e Mac. A instalação e configuração é muito simples e vamos mostrar como fazer no Firefox e no Chrome.
 

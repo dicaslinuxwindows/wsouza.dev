@@ -3,13 +3,12 @@ title: 'Ubuntu 20.10 Groovy Gorilla - Kernel 5.8 e alguns recursos'
 date: 2020-09-08T21:16:00.007-03:00
 draft: false
 url: /2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 20.10
 ---
 
-![Ubuntu 20.10 Groovy Gorilla - Kernel 5.8 e alguns recursos - Dicas Linux e Windows](https://1.bp.blogspot.com/-X547XE_2pQ8/X1gefNIVKBI/AAAAAAAAQB4/Y76HW9WwGvYBrnu_hbsz-E-u52uZVun9wCNcBGAsYHQ/s0/Groovy_Gorilla2.png "Ubuntu 20.10 Groovy Gorilla - Kernel 5.8 e alguns recursos - Dicas Linux e Windows")
 
 Falta pouco mais de 1 mês para o lançamento do Ubuntu 20.10 - Groovy Gorilla. Veja a seguir quais serão os próximos passos até o lançamento e quais os recursos que já estão presentes até o momento.  
 

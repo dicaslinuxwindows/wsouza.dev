@@ -3,13 +3,11 @@ title: 'Ubuntu 19.10 chegou'
 date: 2019-10-18T11:31:00.000-03:00
 draft: false
 url: /2019/10/ubuntu-1910-chegou.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 19.10
 ---
-
-[![Ubuntu 19.10 chegou - Dicas Linux e Windows](https://4.bp.blogspot.com/-xT53CwOc4fY/XaiZWAG3wlI/AAAAAAAAMbM/ouBAGaaGJEcQs29MnFOkDcjiQ1VQ2DaVACNcBGAsYHQ/s200/19.10-ermine-wallpaper.jpg "Ubuntu 19.10 chegou - Dicas Linux e Windows")](https://4.bp.blogspot.com/-xT53CwOc4fY/XaiZWAG3wlI/AAAAAAAAMbM/ouBAGaaGJEcQs29MnFOkDcjiQ1VQ2DaVACNcBGAsYHQ/s1600/19.10-ermine-wallpaper.jpg)
 
 No dia 17 de outubro de 2019 foi lançado o Ubuntu 19.10, chamado de _Eoan Ermine._ Esta é a última versão antes do próximo LTS. Veja aqui o que o _Eoan Ermine_ traz de novidades e como obtê-lo.
 

@@ -3,22 +3,13 @@ title: 'Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente'
 date: 2020-04-23T11:38:00.000-03:00
 draft: false
 url: /2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 20.04
 ---
 
-![Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente - Dicas Linux e Windows](https://2.bp.blogspot.com/-8cChCQI2Z6g/Xuq7hBFv6bI/AAAAAAAAPII/2gSrVcLYazwlP0_Uw5OfHBTcvFCH14YHgCNcBGAsYHQ/s1600/Focal_Fossa_Lan%25C3%25A7ado.png "Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente - Dicas Linux e Windows")
-
 Saiu oficialmente a nova versão de uma das distribuições Linux mais populares, o Ubuntu em sua versão 20.04 LTS, com suporte de longo prazo. Veja nesta matéria as notas de lançamento.
-
-  
-  
-  
-  
-  
-  
 
 O sistema operacional Ubuntu - uma das mais populares distribuições Linux - chega ao lançamento oficial da sua nova versão LTS, a 20.04 de codinome Focal Fossa. O nome _Focal_ vem de foco, parte importante. Já _Fossa_ é um mamífero carnívoro da família encontrado na ilha de Madagascar.  
 _Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Fossa_(animal))_  

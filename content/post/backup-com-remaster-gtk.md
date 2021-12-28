@@ -6,7 +6,6 @@ url: /2018/07/backup-com-remaster-gtk.html
 categories:
 - Tutoriais
 tags: 
-- Backup do Sistema
 - Remaster
 - Ferramentas Linux
 ---

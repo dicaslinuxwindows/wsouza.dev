@@ -3,23 +3,15 @@ title: 'Ubuntu 21.04 - Beta, Cronograma de Lançamento e Informações '
 date: 2021-04-01T01:37:00.016-03:00
 draft: false
 url: /2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 21.04
 ---
 
-![Ubuntu 21.04 - Cronograma de lançamento, beta e informações  - Dicas Linux e Windows](https://1.bp.blogspot.com/-pGO3IxrlLbM/YGVO_iuYXqI/AAAAAAAAR70/n8_qzGWPQ9oRUhhLkgfcklgEJUDqni4aQCNcBGAsYHQ/s0/21.04%2B-%2BCronograma_Beta.png "Ubuntu 21.04 - Cronograma de lançamento, beta e informações  - Dicas Linux e Windows")
 
 Veja nesta matéria como está o cronograma de lançamento da próxima versão do Ubuntu, a 21.04 - chamada de Hirsute Hippo - e mais algumas informações.
-
-  
-  
-  
-  
-  
-  
-  
+ 
 
 ### Ubuntu 21.04 - Hirsute Hippo
 

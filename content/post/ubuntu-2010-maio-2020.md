@@ -3,23 +3,13 @@ title: 'Ubuntu 20.10 - Maio 2020'
 date: 2020-05-25T01:12:00.002-03:00
 draft: false
 url: /2020/05/ubuntu-2010-maio-2020.html
-tags: 
-- Linux
+categories:
 - Ubuntu
+tags: 
 - Ubuntu 20.10
 ---
 
-![Ubuntu 20.10 - Maio 2020 - Dicas Linux e Windows](https://4.bp.blogspot.com/-LHSrzR_N8Kc/Xuq7hCjPZlI/AAAAAAAAPIM/XVlUrwnF3NYtc86MwmrxW2hg5of2LF2MwCNcBGAsYHQ/s1600/Groovy_Gorilla.png "Ubuntu 20.10 - Maio 2020 - Dicas Linux e Windows")
-
 O Ubuntu 20.10 já está em desenvolvimento. Veja nesta matéria o que já temos de informações sobre ele até o mês de maio de 2020.
-
-  
-  
-  
-  
-  
-  
-  
 
 Poucos dias após o lançamento do Ubuntu 20.04 "Focal Fossa" (mais precisamente em 30 de abril), a equipe do Ubuntu iniciou seu trabalho com a nova versão. O desenvolvimento da nova versão iniciou-se a partir do que foi lançado no Focal Fossa. Foram definidas as datas de lançamentos de testes, versões beta, congelamentos e lançamento oficial.  
   
