@@ -117,7 +117,7 @@ enableMissingTranslationPlaceholders = true
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
- unsafe = false
+ unsafe = true
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
