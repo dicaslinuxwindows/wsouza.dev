@@ -4,7 +4,6 @@ date: 2019-02-01T05:48:00.000-02:00
 draft: false
 url: /2019/02/ferramentas-linux.html
 categories:
-- Linux
 - Tutoriais
 tags: 
 - Ferramentas Linux

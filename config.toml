@@ -1,4 +1,4 @@
-baseurl = "https://testes.wsouza.com.br"
+baseurl = "https://info.wsouza.com.br"
 languageCode = "en-us"
 paginate = "8" # Number of posts per page
 theme = "mainroad"
@@ -8,27 +8,88 @@ enableEmoji = true
 enableRobotsTXT = true
 enableMissingTranslationPlaceholders = true
 
-[[menu.main]]             
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
-[[menu.main]]
-  name = "Categorias"
-  weight = 20
-  identifier = "categories"
-  url = "/categorias/"
-[[menu.main]]
-  name = "Sistemas"
-  weight = 30
-  identifier = "system"
-  url = "/sistemas/"
-[[menu.main]]
-  name = "Sobre"
-  weight = 40
-  identifier = "about"
-  url = "/sobre/"
-   
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "category"
+    name = "Categorias"
+    url = "#"
+    weight = 2
+  [[menu.main]]
+    identifier = "category1"
+    name = "Artigos"
+    url = "/categories/artigos"
+    parent = "category"
+    weight = 1
+  [[menu.main]]
+    identifier = "category2"
+    name = "Dicas"
+    url = "/categories/dicas"
+    parent = "category"
+    weight = 2
+    [[menu.main]]
+    identifier = "category3"
+    name = "Educacional"
+    url = "/categories/educacional"
+    parent = "category"
+    weight = 3
+    [[menu.main]]
+    identifier = "category4"
+    name = "Tutoriais"
+    url = "/categories/tutoriais"
+    parent = "category"
+    weight = 4
+    [[menu.main]]
+    identifier = "system"
+    name = "Sistemas"
+    url = "#"
+    weight = 3
+  [[menu.main]]
+    identifier = "system1"
+    name = "Android"
+    url = "/categories/android"
+    parent = "system"
+    weight = 1
+  [[menu.main]]
+    identifier = "system2"
+    name = "Debian"
+    url = "/categories/debian"
+    parent = "system"
+    weight = 2
+    [[menu.main]]
+    identifier = "system3"
+    name = "Fedora"
+    url = "/categories/fedora"
+    parent = "system"
+    weight = 3
+    [[menu.main]]
+    identifier = "system4"
+    name = "Linux Mint"
+    url = "/categories/linux-mint"
+    parent = "system"
+    weight = 4
+    [[menu.main]]
+    identifier = "system5"
+    name = "Ubuntu"
+    url = "/categories/ubuntu"
+    parent = "system"
+    weight = 5
+    [[menu.main]]
+    identifier = "system6"
+    name = "Windows"
+    url = "/categories/windows"
+    parent = "system"
+    weight = 6
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre"
+    url = "/sobre/"
+    weight = 4
+
  [Author]
   name = "W.Souza"
   bio = "Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
@@ -56,15 +117,15 @@ enableMissingTranslationPlaceholders = true
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
- unsafe = false
+ unsafe = true
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
   
 [Params.logo]
-  image = ""
+  image = "https://blogger.googleusercontent.com/img/a/AVvXsEifgVOYOCdv1F7S1CbVPCTOnc5Puh67wLNrnh1EzXJqYCtQEk1-jB57HOcxz93IB3DU5mWuTcSxzecPw7f-EpMUuTZN64dOr1d6w5Yx3vrND7ilp5660cgOLPCur3rsZ1ikMD60vnIednSu-AmYYS8nT8t4HMlqu1XEp8lJiYcd8UfEHR6yvuUMLDjhXw"
   title = ""
-  subtitle = "" # Logo subtitle
+  subtitle = "Dicas Linux e Windows" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
