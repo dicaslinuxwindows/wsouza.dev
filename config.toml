@@ -1,11 +1,12 @@
 baseurl = "https://info.wsouza.com.br"
 languageCode = "en-us"
-paginate = "8" # Number of posts per page
+paginate = "9" # Number of posts per page
 theme = "mainroad"
+title = "Dicas Linux e Windows"
 disqusShortname = "dicaslinuxewindows" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-755N0HW50E" # Enable Google Analytics by entering your tracking id
 enableEmoji = true
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableMissingTranslationPlaceholders = true
 
 [menu]
@@ -96,7 +97,7 @@ enableMissingTranslationPlaceholders = true
   avatar = "https://3.bp.blogspot.com/-n7mOFEUoIG0/XFxGIo7WVzI/AAAAAAAAKac/rQpmdra-miYaFf_6uSovTWmQD7SseNtngCK4BGAYYCw/s107/Dicas%2BLinux%2Be%2BWindows_TemplateNovo%2Bc%25C3%25B3pia.png"
 
 [Params]
-  description = "" # Description of your site
+  description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows, Linux e Mobile." # Description of your site
   opengraph = true
   copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
   schema = true # Enable Schema
@@ -112,7 +113,7 @@ enableMissingTranslationPlaceholders = true
   dateFormat = "Mon, Jan 2, 2006"
   enableGitInfo = true
   favicon32 = "/favicon-32x32.png"
-  favicon16 = "/favicon.png"
+  favicon16 = "/favicon.ico"
 
 [markup]
 [markup.goldmark]
@@ -123,9 +124,8 @@ enableMissingTranslationPlaceholders = true
   visibility = ["list", "post"] # Control thumbnail visibility
   
 [Params.logo]
-  image = "https://blogger.googleusercontent.com/img/a/AVvXsEifgVOYOCdv1F7S1CbVPCTOnc5Puh67wLNrnh1EzXJqYCtQEk1-jB57HOcxz93IB3DU5mWuTcSxzecPw7f-EpMUuTZN64dOr1d6w5Yx3vrND7ilp5660cgOLPCur3rsZ1ikMD60vnIednSu-AmYYS8nT8t4HMlqu1XEp8lJiYcd8UfEHR6yvuUMLDjhXw"
-  title = ""
-  subtitle = "Dicas Linux e Windows" # Logo subtitle
+  image = "https://blogger.googleusercontent.com/img/a/AVvXsEiIl2noRmnGVLZlSyL10HlZDojXtx7ECMx8OCId7hsJSTD-cT_aXWybB5NA6aGORF3m5KhsbejbMrKItUa-EMTL3-aKBLAXiW7MzliqqR_hX5uR0cjp15F8-8JGF8oieC0shsU2Ic-Zz0Q3JEbHNJMBH3PytR8G6LLL4OPqVr1XWnlXMXh6N0wbe9aang"
+  subtitle = "" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
@@ -137,13 +137,14 @@ enableMissingTranslationPlaceholders = true
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
   
-  [Params.widgets.social]
+[Params.widgets.social]
   # Enable parts of social widget
   twitter = "dicaslnxwindows"
   github = "andradeswagner"
   email = "dicaslinuxewindows@gmail.com"
+  rss = "https://info.wsouza.com.br/sitemap.xml"
   
-  [[Params.widgets.social.custom]]
+[[Params.widgets.social.custom]]
   title = "Youtube"
   url = "https://youtube.com/channel/UCdgAIchdOo7lsyKge8m-P_w"
   icon = "svg/youtube3.svg" 

@@ -1,6 +1,6 @@
 ---
 title: "Privacidade"
-draft: true
+draft: false
 ---
 
 Este Blog usa os seguintes serviços e parcerias que funcionam junto com a estrutura da página. Eventualmente alguns dados podem ser coletados, tanto em formulário, como em banners e elementos de página para redes sociais ou serviços de monetização. 
