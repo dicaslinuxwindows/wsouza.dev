@@ -1,6 +1,6 @@
 baseurl = "https://info.wsouza.com.br"
 languageCode = "en-us"
-paginate = "9" # Number of posts per page
+paginate = "6" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
 disqusShortname = "dicaslinuxewindows" # Enable comments by entering your Disqus shortname
