@@ -11,9 +11,9 @@ categories:
 
 Conheça como funciona o ciclo de vida do Ubuntu, um dos sistemas operacionais Linux mais populares do mundo.
 
- 
+<!--more--> 
 
-### Sobre o Ubuntu
+## Sobre o Ubuntu
 
   
 O Ubuntu é um dos sistemas Linux mais conhecidos e utilizados nos dias de hoje e talvez seja a referência quando se fala em Linux para usuários leigos. O Ubuntu desenvolvido por uma empresa chamada Canonical e é baseado no Debian que, por sua vez, uma das mais antigas distribuições Linux e pai de várias distribuições que existem ou já existiram. A primeira versão do Ubuntu foi lançada em 2004, e desde então a Canonical vem lançando 2 versões por ano, a cada 6 meses.  
@@ -26,7 +26,7 @@ Estas versões são lançadas sempre nos meses de abril e outubro _(com exceçã
 **LTS - Long Time Support:** A cada dois anos, no mês de abril (_portanto, versão YY.04_) e em anos pares, é lançada uma versão que dá suporte estendido, chamada de LTS. O que difere esta versão das outras é o tempo de suporte e o tempo de teste dos pacotes. Falarei a seguir sobre estas diferenças e sobre o ciclo de vida das versões.  
   
 
-### Como funciona o ciclo de vida
+## Como funciona o ciclo de vida
 
   
 As versões não LTS têm um suporte de 9 meses. Nestas versões são incluídas versões de pacotes que podem ou não estar na versão LTS. A versão 19.04, terá suporte até janeiro de 2020.  

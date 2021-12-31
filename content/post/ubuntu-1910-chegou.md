@@ -11,20 +11,16 @@ tags:
 
 No dia 17 de outubro de 2019 foi lançado o Ubuntu 19.10, chamado de _Eoan Ermine._ Esta é a última versão antes do próximo LTS. Veja aqui o que o _Eoan Ermine_ traz de novidades e como obtê-lo.
 
-  
-  
-  
-  
-  
+<!--more-->
 
-### Sobre o Ubuntu
+## Sobre o Ubuntu
 
   
 O Ubuntu é um sistema operacional de código aberto, construído a partir do Kernel Linux. É desenvolvido por uma empresa chamada Canonical, é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux. Sua primeira versão foi lançada em 2004 e agora chega na versão 19.10, que terá suporte até julho de 2020. Saiba mais sobre o Ubuntu, seu suporte e ciclo de vida em: [Ubuntu - Como funciona a política de seu ciclo de vida](https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html).
 
   
 
-### Quais são as novidades que virão com o Eoan Ermine?
+## Quais são as novidades que virão com o Eoan Ermine?
 
   
 Como citei anteriormente, esta é a última das 3 versões intermediárias lançadas entre uma versão LTS. As versões intermediárias contém os pacotes estáveis mais recentes, que funcionam como um teste para o que será lançado no próximo LTS. Dentre as novidades que chegam com o Ubuntu Eoan Ermine estão:  
@@ -44,7 +40,7 @@ Como citei anteriormente, esta é a última das 3 versões intermediárias lanç
 
   
 
-### Como obter o Ubuntu Eoan Ermine?
+## Como obter o Ubuntu Eoan Ermine?
 
   
 Há duas formas de obtê-lo: Por meio de atualização ou instalando do zero _(instalação limpa)_.  
@@ -54,19 +50,18 @@ Para obter através de atualização aguarde a mensagem do atualizador do sistem
 Atualize os repositórios:  
   
 
- sudo apt update
-
+`sudo apt update`
   
 Atualize os pacotes da versão atual:  
   
 
- sudo apt full-upgrade
+`sudo apt full-upgrade`
 
   
 Se não deu erro na saída após utilizar o comando anterior, atualize a versão do sistema:  
   
 
- sudo do-release-upgrade -c -d
+`sudo do-release-upgrade -c -d`
 
   
 Detalhe: Após iniciada a atualização não é possível interrompê-la. Caso interrompida, o sistema irá quebrar e não será possível utilizá-lo.  
@@ -77,18 +72,9 @@ Também é possível testar pelo CD/DVD ou pendrive, sem necessidade de instala�
 
   
 
-### Download
+## Download
 
   
-Baixe a imagem ISO da interface que mais lhe agradar:  
+Baixe a imagem ISO.  
   
-
 [ Ubuntu](https://ubuntu.com/download/desktop/thank-you/?version=19.10&architecture=amd64)
-
-[ Xubuntu](http://cdimage.ubuntu.com/xubuntu/releases/19.10/release/xubuntu-19.10-desktop-amd64.iso)
-
-[ Kubuntu](http://cdimage.ubuntu.com/kubuntu/releases/19.10/release/kubuntu-19.10-desktop-amd64.iso)
-
-[ Ubuntu Mate](http://cdimage.ubuntu.com/ubuntu-mate/releases/19.10/release/ubuntu-mate-19.10-desktop-amd64.iso)
-
-[ Lubuntu](http://cdimage.ubuntu.com/lubuntu/releases/19.10/release/lubuntu-19.10-desktop-amd64.iso)

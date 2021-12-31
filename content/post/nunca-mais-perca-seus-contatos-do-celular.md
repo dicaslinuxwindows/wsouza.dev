@@ -10,6 +10,7 @@ categories:
 
 Não corra risco de perder seus contatos, armazene-os online e mantenha-os sincronizados com seu smartphone. Veremos como é fácil fazer isto utilizando uma conta Google num smartphone Android.  
 
+<!--more-->
   
 Para iniciar, é necessário uma conta Google. Nos smartphones Android, a conta Google é necessária para acessar a Play Store e atualizar aplicativos, se você consegue ter acesso e atualizar aplicativos, você possui uma conta Google.  
 Caso contrário, é possível fazer o cadastro no próprio dispositivo acessando Config>>Contas>>Adicionar Contas>>Nova>>Google, como vemos abaixo:

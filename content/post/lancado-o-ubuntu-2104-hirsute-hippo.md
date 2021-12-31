@@ -9,7 +9,7 @@ tags:
 - Ubuntu 21.04
 ---
 
-Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.
+Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes de como baixar e instalar esta versão.
 
 <!--more-->
 

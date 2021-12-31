@@ -7,13 +7,14 @@ url: /2019/07/novidades-whatsapp.html
 categories:
 - Android
 tags: 
-- Redes Sociais
+- WhatsApp
 ---
 
 Nos últimos dias surgiram algumas notícias sobre o WhatsApp. Mais detalhes a seguir.
 
+<!--more-->
 
-### WhatsApp deixará de funcionar em alguns aparelhos
+## WhatsApp deixará de funcionar em alguns aparelhos
 
 Como volta e meia acontece, o WhatsApp vai deixar de funcionar em alguns aparelhos antigos, com sistema operacional desatualizado.  
 Não há informações sobre os aparelhos que serão abandonados pelo aplicativo, mas sabe-se a versão do sistema que o aplicativo deixará de suportar.  
@@ -27,7 +28,7 @@ No caso do Windows Phone 8.1, será possível utilizar o aplicativo até dezembr
 **Opinião pessoal:** Tal ação obriga que os usuários adquiram um aparelho novo, algo que não deveria acontecer, pois muita gente utiliza o Smartphone apenas para ligações e mensagens no WhatsApp, não sendo tão necessário um aparelho novo. Fora que qualquer aparelho com configurações "fracas" (8gb de espaço interno, que mal suporta o sistema operacional) está custando mais de R$ 500,00.  
   
 
-### Integração com Facebook e Instagram
+## Integração com Facebook e Instagram
 
 Outra notícia que surgiu nos últimos dias foi que o status do WhatsApp será compartilhado com o stories do Facebook (e provavelmente o Instagram também). Já faz um certo tempo que o Facebook _(dono do WhatsApp e Instagram)_ tem a intenção de integrar de alguma forma os 3 serviços. O compartilhamento dos stories já está em testes nas versões beta e funcionará de maneira parecida à que ocorre com o story do Instagram quando compartilhado no Facebook. No momento da publicação aparecerá uma opção de compartilhamento no Facebook. Apesar desta possibilidade de compartilhamento, o Facebook alega que não se trata de uma integração dos serviços, que não há vinculação de contas, mas apenas a utilização das mesmas APIs de trocas de dados do Android e IOS.  
 Fonte: [The Verge](https://www.theverge.com/2019/6/26/18759575/whatsapp-status-sharing-facebook-instagram-apps-ios-android)

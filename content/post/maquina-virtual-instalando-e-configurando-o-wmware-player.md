@@ -7,28 +7,23 @@ categories:
 - Tutoriais
 tags: 
 - Máquina Virtual
-- VMware Player
 - Ferramentas Linux
 ---
 
 Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.
 
-  
-  
-  
+<!--more-->
 
 A utilização de uma máquina virtual torna-se muito importante quando, por exemplo, o usuário deseja ou precisa testar algum sistema que por algum motivo não pode ser executado num Live CD/DVD. Ou quando este deseja/precisa instalar o Windows para ter um acesso rápido.  
 
-####   
-1 - Introdução
+## Introdução
 
   
 O conceito de máquina virtual _(VM)_ é um software que emula as funções de um computador, permitindo que outro (s) SO (s) _(convidado)_ sejam instalados dentro de um SO hospedeiro. Existem várias VMs e a mais conhecida entre os usuários Linux é o [Virtual Box](https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html), que possui uma grande quantidade de recursos. A opção pela utilização do VMware Workstation Player foi meramente por estar mais acostumado ao uso. Vale ressaltar que este é um software proprietário e pago, sendo que a versão player é de uso gratuito para usuários domésticos.
 
   
 
-####   
-2 - Instalação
+## Instalação
 
   
 Baixe a VM, na versão 12, [neste link](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0).  
@@ -38,13 +33,13 @@ Baixe na pasta de seu usuário _(/home/nomedeseuusuario)_ e não renomeie o arqu
 Para instalar vá no terminal _(CTRL+T)_ e digite o comando a seguir, que dará a permissão de execução do arquivo:  
   
 
- sudo chmod +x vmware/VMware-Player-12.5.9-7535481.x86\_64.bundle
+`sudo chmod +x vmware/VMware-Player-12.5.9-7535481.x86_64.bundle`
 
   
 Em seguida,ainda no terminal, execute o comando abaixo, que instalará a VM:  
   
 
- sudo ./VMware-VIX-1.15.8-5528349.x86\_64.bundle
+`sudo ./VMware-VIX-1.15.8-5528349.x86_64.bundle`
 
   
 A instalação iniciará, aceite os termos e avance até o final para concluir a instalação.  
@@ -61,7 +56,7 @@ Interface inicial do WMware Wokstation Player 12.
 
   
 
-#### 3 - Configuração
+## Configuração
 
   
 A partir deste ponto iniciaremos a configuração da VM para receber um SO. Não será abordada a instalação do sistema, isto ficará para uma próxima oportunidade, visto que o objetivo do tópico é apenas de instalação e configuração da VM.  
@@ -146,7 +141,7 @@ Pronto. A VM está criada e pronta para rodar, basta "dar o Play". Lembrando que
 
   
 
-#### 4 - Considerações finais
+## Considerações finais
 
   
 Utilizar uma VM abre novas possibilidades para conhecer novos SO (s). Quando utilizamos um computador real para instalar um SO sempre ha risco de perder dados pessoais ou perder o acesso aos sistemas que já estavam instalados, o que daria um certo trabalho para recuperar ou instalar tudo novamente. Numa VM não há este risco, pois tudo pode ser deletado e recriado rapidamente.  
@@ -155,4 +150,4 @@ Outra vantagem ocorre, por exemplo, quando precisamos utilizar algum software qu
 Para desinstalar:  
   
 
- sudo vmware-installer -u vmware-player
+`sudo vmware-installer -u vmware-player`

@@ -11,7 +11,7 @@ tags:
 
 Você ainda utiliza o Windows 7? Nas próximas semanas a Microsoft vai começar uma campanha para convencer os usuários a migrarem para o Windows 10.
 
-  
+<!--more-->
 
 Caso utilize, prepare-se para receber notificações periódicas da Microsoft tentando convencê-lo a atualizar para o Windows 10.  
 Segundo um [comunicado lançado recentemente](https://blogs.windows.com/windowsexperience/2019/03/12/making-the-transition-to-windows-10-and-office-365), os usuários do Windows 7 vão receber as notificações "de cortesia". Porém, quem não desejar recebê-las novamente terá a opção de desativá-las.  

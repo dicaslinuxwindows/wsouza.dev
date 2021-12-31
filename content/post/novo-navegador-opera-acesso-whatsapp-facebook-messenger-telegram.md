@@ -10,7 +10,9 @@ tags:
 ---
 
 Há pouco tempo foi lançada a nova versão do navegador Opera, a 45. Esta versão traz algumas novidades que tornam o navegador mais interessante ainda, veja a seguir.  
-  
+ 
+<!--more-->
+ 
 Dentre estas novidades está a integração com alguns dos clientes de bate papo mais populares do momento, como WhatsApp, Facebook Messenger e Telegram. O mais interessante de tudo é que não é necessário instalar nenhum tipo de plugin adicional, basta instalar o Opera, ativar e sair utilizando.  
   
 O acesso aos botões dos navegadores fica na barra de ferramentas à esquerda. Veja abaixo como fica a janela após ativadas as opções:

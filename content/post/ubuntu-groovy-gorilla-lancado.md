@@ -11,22 +11,16 @@ tags:
 
 Os desenvolvedores do Ubuntu anunciam o lançamento do Ubuntu 20.10 Groovy Gorilla. Veja a seguir como baixar e instalar.
 
-  
-  
-  
-  
-  
-  
-  
+<!--more--> 
 
-### Groovy Gorilla
+## Groovy Gorilla
 
   
 Conforme programado o Ubuntu Groovy Gorilla é lançado no dia 22 de outubro. O nome Groovy é um adjetivo que lembra moda, e Gorilla significa Gorila mesmo.  
 O Groovy Gorilla é a primeira das 3 versões intermediárias que são lançadas entre cada versão LTS _(as outras duas serão a 21.04 e 21.10)._É uma versão estável e seu suporte terá duração de 9 meses, acanbando em julho de 2021, conforme o ciclo de vida das versões do Ubuntu. Saiba mais detalhes sobre o Ubuntu, suporte de suas versões e ciclo de vida na matéria: [Ubuntu - Como funciona a política de seu ciclo de vida](https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html).  
   
 
-### Novidades
+## Novidades
 
   
 Não houve grandes mudanças em relação ao seu antecessor e algumas já foram adiantadas em matérias anteriores. Mas, de qualquer forma, algumas das principais novidades são:  
@@ -43,8 +37,8 @@ Não houve grandes mudanças em relação ao seu antecessor e algumas já foram 
 
   
 Mais novidades nas notas de lançamento. _(traduzidas automaticamente de [https://discourse.ubuntu.com/t/groovy-gorilla-release-notes/15533](https://discourse.ubuntu.com/t/groovy-gorilla-release-notes/15533))_  
-```
-`  
+
+~~~
 Notas de lançamento do Groovy Gorilla  
 Introdução  
 Estas notas de lançamento para o Ubuntu 20.10 (Groovy Gorilla) fornecem uma visão geral do lançamento e documentam os problemas conhecidos com o Ubuntu e seus sabores.  
@@ -225,30 +219,20 @@ Participe do Ubuntu
 Se você gostaria de ajudar a moldar o Ubuntu, dê uma olhada na lista de maneiras pelas quais você pode participar em:  
   
 https://community.ubuntu.com/contribute 78  
-  
-`  
+~~~ 
 
-```  
-
-### Download
+## Download
 
   
 Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu e de alguns dos seus _"flavours" ou "sabores"_ oficiais. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha o "sabor" de sua preferência e faça o download.  
+
+
+| Ubuntu 20.10|  | |
+:------ | :------: | :------: | :------:
+ amd64 | [ Live](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso) | [ Torrent](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso.torrent) | [ Mais...](https://ubuntu.com/download)
   
+#### Flavours
 
-Ubuntu 20.10
-
-[ Live](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso)
-
-[ Torrent](https://releases.ubuntu.com/20.10/ubuntu-20.10-desktop-amd64.iso.torrent)
-
-[Mais...](https://ubuntu.com/download)
-
-  
-
-#### Flavours:
-
-  
 [ Kubuntu 20.10](https://kubuntu.org/getkubuntu/)  
 [ Xubuntu 20.10](https://xubuntu.org/download)  
 [ Ubuntu Mate 20.10](https://ubuntu-mate.org/download/)  
@@ -258,7 +242,7 @@ Ubuntu 20.10
 [ Ubuntu Budgie 20.10](https://ubuntubudgie.org/downloads/)  
   
 
-### Instalação ou atualização
+## Instalação ou atualização
 
   
 
@@ -270,29 +254,13 @@ Se você está utilizando atualmente o Ubuntu 20.04 _(Focal Fossa)_ você pode a
 
 *   Primeiramente tenha certeza que o a versão atual está com as últimas atualizações. No terminal, execute os comandos:
 
-  
+`sudo apt update`
 
-  
-
- sudo apt update
-
-  
-  
-
-  
-
- sudo apt upgrade
-
-  
+`sudo apt upgrade`
 
 *   Após atualizar, execute:
 
-  
-
-  
-
- sudo do-release-upgrade -d
-
+`sudo do-release-upgrade -d`
   
 O comando anterior vai:  
 
@@ -305,18 +273,15 @@ O comando anterior vai:
 2.  Se não confirmar pode ser que seja preciso alterar os repositórios manualmente de **groovy para focal**.  
     Neste caso, utilize o editor de texto que preferir _(joe gedit, kate, nano, vi, pluma...)_, e abra o arquivo sources.list com o comando abaixo:
 
-  
-
- sudo _joe_ /etc/apt/sources.list
-
-  
+`sudo joe /etc/apt/sources.list`
 
 *   No arquivo aberto, faça as alterações solicitadas e salve o arquivo.
-
-  
 
 #### Executando a imagem _ISO_ num pendrive e instalando do zero
 
   
 Primeiramente é necessário gravar num pendrive a imagem .iso baixada anteriormente. Para gravar a ISO no pendrive veja como gravar um pendrive em sistemas [Linux](https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html) e no [Windows](https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html).  
+
 O vídeo abaixo mostra a execução do Groovy Gorilla num pendrive e posterior instalação do zero (limpa).
+
+[![Watch the video](https://img.youtube.com/vi/SLrJPt5ZKKM/maxresdefault.jpg)](https://www.youtube.com/embed/SLrJPt5ZKKM)

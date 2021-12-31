@@ -11,37 +11,27 @@ tags:
 
 Em tempo: Na última semana a versão Linux do Microsoft Edge passou a suportar login e sincronização entre dispositivos, algo que ainda não era permitido. Veja nesta matéria como ativar.
 
-  
-  
-  
-  
-  
-  
+<!--more-->
 
-### Microsoft Edge
+## Microsoft Edge
 
   
 O Microsoft Edge é um navegador Web da Microsoft desenvolvido com base no projeto de código aberto Chromium, o mesmo que é a base do Google Chrome. A versão Dev para Linux foi lançada em Outubro de 2020, conforme mostrado na matéria [Navegador Microsoft Edge para Linux liberado no canal dev](https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html). Há uma "promessa" para um lançamento Beta, porém, até o momento nada foi lançado, ficando apenas nas atualizações da versão Dev.  
   
 
-### Novidades
+## Novidades
 
   
 DE uns dias para cá, foi liberada a possibilidade de fazer o login com uma conta pessoal da Microsoft e sincronização dos dados, algo que não era permitido e tornava _(na minha opinião)_ o uso do Edge no Linux muito limitado. Porém, a ativação desta função não está tão intuitiva e mostrarei abaixo como deixá-la funcionando.  
   
 
-### Ativando a sincronização
+## Ativando a sincronização
 
   
 Para ativar o login e sincronização é preciso estar com, no mínimo, a versão 91.0.831.1. A ativação deve ser manual, porém, muito simples, e deve ocorrer da seguinte forma: Na barra de endereços, digite:  
   
 
-  
-
-  
-
- edge://flags
-
+`edge://flags`
   
 
 *   Após,como mostrado na imagem abaixo, pesquise por MSA _(marcado em vermelho)_;
@@ -65,7 +55,7 @@ Após, faça como na sequência de imagens, inserindo seu nome de usuário e sen
 
   
 
-### Obtenha o Microsoft Edge-DEV
+## Obtenha o Microsoft Edge-DEV
 
   
 
@@ -73,7 +63,7 @@ Após, faça como na sequência de imagens, inserindo seu nome de usuário e sen
 
   
 
-### Fonte
+## Fonte
 
   
 [https://www.omgubuntu.co.uk/2021/03/microsoft-edge-linux-sync-now-works](https://www.omgubuntu.co.uk/2021/03/microsoft-edge-linux-sync-now-works)

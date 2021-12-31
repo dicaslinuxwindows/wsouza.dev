@@ -10,38 +10,25 @@ categories:
 
 Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.
 
+<!--more--> 
  
-### Skolelinux
+## Skolelinux
 
-  
 O Skolelinux _(ou Debian EDU)_ é um ambiente educacional completo e facilmente configurável. Após instalado e configurado disponibiliza um conjunto de aplicativos educacionais que pode ser categorizado por idade, além de um servidor LTSP¹.  
   
+## Detalhes, informações e lançamento
 
-### Detalhes, informações e lançamento
-
-  
 O Skolelinux é uma versão do Debian com um ambiente educacional instalado e pré-configurado. Possui perfis com aplicativos educacionais voltados para várias faixas de idade. Tais aplicativos, e demais configurações também estão disponíveis no Debian "normal". As interfaces também são as mesmas do Debian e o lançamento de cada versão segue o mesmo calendário, sendo que a versão estável atual é o Debian Buster, lançado em 06/07/2019.  
   
+## Download e informações sobre instalação
 
-### Download e informações sobre instalação
-
-  
 O Skolelinux está disponível 32 e 64 bits, porém, se for utilizado como servidor de rede ou servidor LTSP é recomendável utilizar o 64 bits. Para download das imagens:  
   
+| | Skolelinux |
+:------: | :------: | :------:
+amd64 | [ Netinst](http://get.debian.org/cdimage/release/current/amd64/iso-cd/debian-edu-10.1.0-amd64-netinst.iso) | [ DVD](http://get.debian.org/cdimage/release/current/amd64/iso-bd/debian-edu-10.0.0-amd64-BD-1.iso)
+i386 | [ Netinst](http://get.debian.org/cdimage/release/current/i386/iso-cd/debian-edu-10.1.0-i386-netinst.iso) | [ DVD](http://get.debian.org/cdimage/release/current/i386/iso-bd/debian-edu-10.1.0-i386-BD-1.iso)  
 
-Skolelinux amd64
-
-[ Netinst](http://get.debian.org/cdimage/release/current/amd64/iso-cd/debian-edu-10.1.0-amd64-netinst.iso)
-
-[ DVD](http://get.debian.org/cdimage/release/current/amd64/iso-bd/debian-edu-10.0.0-amd64-BD-1.iso)
-
-Skolelinux i386
-
-[ Netinst](http://get.debian.org/cdimage/release/current/i386/iso-cd/debian-edu-10.1.0-i386-netinst.iso)
-
-[ DVD](http://get.debian.org/cdimage/release/current/i386/iso-bd/debian-edu-10.1.0-i386-BD-1.iso)
-
-  
 A instalação é praticamente igual ao do Debian, com a adição de alguns perfis que podem torná-la pouco mais demorada. Vejamos:  
 
 *   Se estiver utilizando uma imagem de instalação _netinst_ - aquela onde o ambiente gráfico é escolhido e baixado durante a instalação - num determinado momento aparecerá uma opção onde você poderá escolher os tipos de perfis que deseja. Cada caso se aplica à uma situação:
@@ -55,17 +42,16 @@ A instalação é praticamente igual ao do Debian, com a adição de alguns perf
 
 *   Se estiver utilizando uma imagem de instalação completa o perfil poderá ser escolhido e instalado diretamente do DVD.
 
-  
-
-### Considerações finais
+## Considerações finais
 
   
 O Skolelinux é ideal para que os administradores de ambientes escolares não tenham grandes preocupações com licenças de software e com configurações constantes e complexas. Quando utilizado como servidor LTSP as vantagens são multiplicadas, pois demanda menos capacidade de hardware nos clientes e a configuração é simplificada, pois ocorre apenas uma vez, e esta é replicada aos _Thin Clients_.  
 Para mais informações sobre o Skolelinux acesse: [https://wiki.debian.org/DebianEdu](https://wiki.debian.org/DebianEdu) e [https://www.skolelinux.de/en/](https://www.skolelinux.de/en/)  
   
 
-### Notas
-
+## Notas
   
-¹ Segundo a [Wikipedia](https://pt.wikipedia.org/wiki/LTSP): _"Linux Terminal Server Project (ou somente LTSP) é um projeto baseado em Linux que agrupa várias ferramentas e protocolos, com a finalidade de proporcionar um ambiente de trabalho remoto. Todo o software é corrido no servidor, e os terminais servem apenas de interface entre o utilizador e as aplicações – os poucos ciclos de processamento gastos são para enviar os dados da placa de rede à placa gráfica (...)"_.  
+¹ Segundo a [Wikipedia](https://pt.wikipedia.org/wiki/LTSP):
+> Linux Terminal Server Project (ou somente LTSP) é um projeto baseado em Linux que agrupa várias ferramentas e protocolos, com a finalidade de proporcionar um ambiente de trabalho remoto. Todo o software é corrido no servidor, e os terminais servem apenas de interface entre o utilizador e as aplicações – os poucos ciclos de processamento gastos são para enviar os dados da placa de rede à placa gráfica (...) 
+
 Ou seja: São utilizados terminais com pouca capacidade de processamento e memória _(thin clients)_, que podem rodar um sistema completo, pois todo processo estará num servidor (_que deverá possuir uma boa configuração_). Desta forma minimizam-se os custos, é possível colocar mais máquinas funcionando e facilita a manutenção e configuração, pois tudo será feito apenas uma vez no servidor.

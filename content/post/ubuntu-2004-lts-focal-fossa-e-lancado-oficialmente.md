@@ -11,12 +11,14 @@ tags:
 
 Saiu oficialmente a nova versão de uma das distribuições Linux mais populares, o Ubuntu em sua versão 20.04 LTS, com suporte de longo prazo. Veja nesta matéria as notas de lançamento.
 
+<!--more-->
+
 O sistema operacional Ubuntu - uma das mais populares distribuições Linux - chega ao lançamento oficial da sua nova versão LTS, a 20.04 de codinome Focal Fossa. O nome _Focal_ vem de foco, parte importante. Já _Fossa_ é um mamífero carnívoro da família encontrado na ilha de Madagascar.  
 _Fonte: [Wikipédia](https://pt.wikipedia.org/wiki/Fossa_(animal))_  
 Esta versão terá suporte de 5 anos, conforme o ciclo de vida das versões do Ubuntu. Saiba mais detalhes sobre o Ubuntu, suporte de suas versões e ciclo de vida na matéria: [Ubuntu - Como funciona a política de seu ciclo de vida](https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html).  
   
 
-### Novidades
+## Novidades
 
   
 O Focal Fossa sai do forno com as últimas versões de vários dos aplicativos mais populares, com exceção do Kernel, que no momento está na casa da versão 5.6 stable e 5.7 beta.  
@@ -40,7 +42,7 @@ O Focal Fossa sai do forno com as últimas versões de vários dos aplicativos m
 
   
 
-### Pré-requisitos mínimos para instalação
+## Pré-requisitos mínimos para instalação
 
   
 
@@ -52,13 +54,13 @@ O Focal Fossa sai do forno com as últimas versões de vários dos aplicativos m
 
   
 
-### Download, instalação ou atualização
+## Download, instalação ou atualização
 
   
 Veja como ter o Ubuntu Focal Fossa na matéria [Instalando ou atualizando o Ubuntu 20.04 Focal Fossa](https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html) - \[Link corrigido\].  
   
 
-### Screenshots
+## Screenshots
 
   
 Na sequência alguns screenshots para visualizar as novidades desta versão.  
@@ -68,7 +70,7 @@ Nova tela de boot, mostrando o detalhe do fabricante do dispositivo. Aparece Vir
 [![Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente - Dicas Linux e Windows](https://3.bp.blogspot.com/-z7HXMDGuoX8/Xp-hoqRMhDI/AAAAAAAAOsY/pJOW9DhPcNM4ZEb3yRc8eQTIjCoxLg_FQCNcBGAsYHQ/s640/01.png "Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente - Dicas Linux e Windows")](https://3.bp.blogspot.com/-z7HXMDGuoX8/Xp-hoqRMhDI/AAAAAAAAOsY/pJOW9DhPcNM4ZEb3yRc8eQTIjCoxLg_FQCNcBGAsYHQ/s1600/01.png)
 
   
-Novas tela de login e escolha da sessão.  
+Novas telas de login e escolha da sessão.  
   
 
 [![Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente - Dicas Linux e Windows](https://2.bp.blogspot.com/-5g4U3Yzu0kc/Xp-hoh8mPkI/AAAAAAAAOsc/HcuQFNnm2XYNSF55KSSRJ1oqdTgrF5ArwCNcBGAsYHQ/s640/02.png "Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente - Dicas Linux e Windows")](https://2.bp.blogspot.com/-5g4U3Yzu0kc/Xp-hoh8mPkI/AAAAAAAAOsc/HcuQFNnm2XYNSF55KSSRJ1oqdTgrF5ArwCNcBGAsYHQ/s1600/02.png)
@@ -143,7 +145,7 @@ Caixa de diálogo de desligamento. Percebeu o detalhe? Ela está alinhada ao cen
 
   
 
-### Considerações Finais
+## Considerações Finais
 
   
 O Ubuntu Focal Fossa talvez seja a melhor versão do Ubuntu lançada nos últimos tempos. As melhorias no desempenho e - consequentemente - maior estabilidade, novidades, aplicativos em suas versões mais recentes, aliadas às mudanças no visual, entre tantas outras melhorias, fornecerão ao usuário uma incrível experiência. Se ainda não tem o Ubuntu, não perca tempo e experimente.

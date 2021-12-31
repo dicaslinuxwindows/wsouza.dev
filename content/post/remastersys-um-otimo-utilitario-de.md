@@ -12,25 +12,35 @@ tags:
 
   
 O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.  
-Leia em [Backup com Remaster-GTK](https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html)  
+Leia em [Backup com Remaster-GTK](https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html)
+
+<!--more-->   
   
 Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira que desejava, instalou programas que você gosta, removeu programas desnecessários, instalou temas e ícones, modificou as fontes,enfim, deixou o Ubuntu com a sua cara. Então, surge a necessidade de você formatar seu Notebook/PC e você fica desesperado pois precisará configurar tudo novamente e sabe que a trabalheira não será fácil.  
 Para resolver este problema existe o [Remastersys](http://www.remastersys.com/), um utilitário para Debian/Ubuntu que, além de outras funções, realiza um backup completo de seu sistema e gera numa ISO um Live Cd onde você pode acessar o sistema sem instalar no HD, mas também tornando possível a reinstalação do sistema operacional, deixando-o do mesmo modo que ele estava antes da formatação.  
 O objetivo desta dica é mostrar como funciona o processo de backup utilizando o [Remastersys](http://www.remastersys.com/) para o Ubuntu mas o processo para Debian praticamente o mesmo.
 
 Primeiramente baixe a versão equivalente à versão de seu Ubuntu. Para versões acima da 12.04 (Precise) a dica é a seguinte:  
-No terminal, logado como root _(sudo su)_ utilize o comando:  
-**wget -O - http://www.remastersys.com/ubuntu/remastersys.gpg.key | apt-key add -**  
-Este comando baixa as chaves do software.  
+No terminal, logado como root _(sudo su)_ utilize o comando:
+
+`wget -O - http://www.remastersys.com/ubuntu/remastersys.gpg.key | apt-key add -`
+
+O comando acima baixa as chaves do software.  
   
-Edite o arquivo /etc/apt/sources.list com o comando **sudo gedit /etc/apt/sources.list** e no final do arquivo insira os comandos a seguir:  
-**_#Remastersys Precise  
-deb http://www.remastersys.com/ubuntu precise main_**  
+Edite o arquivo /etc/apt/sources.list com o comando **sudo gedit /etc/apt/sources.list** e no final do arquivo insira os comandos a seguir:
+~~~
+#Remastersys Precise  
+deb http://www.remastersys.com/ubuntu precise main
+~~~
 Salve o arquivo.  
   
-Para atualizar os pacotes digite:  
-**sudo apt-get update **  
-Para iniciar, procure pelo remastersys no painel inicial do Unity ou, simplesmente, digite **sudo remastersys-gtk** no terminal e interface principal estará aberta. Como aqui o foco é apenas a opção de backup a utilização torna-se bem simples, mas é necessário fazer algumas pequenas configurações, então vamos vê-las.
+Para atualizar os pacotes digite:
+
+`sudo apt-get update`
+
+Para iniciar, procure pelo remastersys no painel inicial do Unity ou, simplesmente, digite no terminal o comando abaixo e a interface principal estará aberta. Como aqui o foco é apenas a opção de backup a utilização torna-se bem simples, mas é necessário fazer algumas pequenas configurações, então vamos vê-las.
+
+`sudo remastersys-gtk`
 
 Na figura abaixo estamos na aba **_Settings_** e, é nesta aba que configuramos praticamente tudo.  
   

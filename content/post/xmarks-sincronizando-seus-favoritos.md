@@ -6,13 +6,9 @@ url: /2013/02/xmarks-sincronizando-seus-favoritos.html
 categories:
 - Dicas
 ---
-
-
 [Xmarks](http://www.xmarks.com/) é uma extensão para Firefox, Chrome, IE e Safari que permite manter os favoritos, abas abertas e histórico sincronizados automaticamente entre os estes navegadores em Windows, Linux e Mac. A instalação e configuração é muito simples e vamos mostrar como fazer no Firefox e no Chrome.
 
-  
-  
-  
+<!--more--> 
 
 **No Firefox**  
 1 - [Baixe aqui](http://download.xmarks.com/download/firefox) a última versão.  
@@ -30,19 +26,13 @@ categories:
 
  5 - Após a conclusão, seus favoritos já estarão sincronizados. Todas as configurações poderão ser alteradas  no menu Ferramentas>>>Xmaks>>>Configurações do Xmarks.
 
-  
-
 **No Google Chrome  **  
 
-1 - [Baixe aqui](https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla) e instale a última versão. 
-
-2 - [Crie uma conta](http://login.xmarks.com/account/create_account) no site do Xmarks, é bem simples e rápido ( Se já instalou no Firefox, não precisa criar a conta). 
-
-3 - Para configurar o processo é bem simples, basta preencher algumas informações e avançar até chegar ao final. Vamos fazer um passo-a-passo.
-
+1. Baixe aqui](https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla) e instale a última versão. 
+2. [Crie uma conta](http://login.xmarks.com/account/create_account) no site do Xmarks, é bem simples e rápido ( Se já instalou no Firefox, não precisa criar a conta).
+3. Para configurar o processo é bem simples, basta preencher algumas informações e avançar até chegar ao final. Vamos fazer um passo-a-passo.
 *   Clique no ícone do Xmarks localizado no alto à direita, próximo à barra de endereços.
 *   Avance, escolha a opção "Sim, inscreva-me", faça login com a conta criada anteriormente e avance.
 *   Clique em "Change Settings" e escolha a opção "Merge bookmarks with server, starting with this computer" caso seja sua primeira vez. Caso já tenha feito no Firefox ou em outras vezes escolha a opção "Merge bookmarks with server, starting with the server" dê OK e clique em Sync.
-
-4 - Após a conclusão, seus favoritos já estarão sincronizados. Para escolher o perfil e alterar as configurações clique novamente  no ícone do Xmarks e escolha "Xmarks Settings" e, na aba Profiles clique em "Change Profile" e escolha o perfil criado na configuração para o Firefox (ou crie outro se não possuir nenhum). Na aba Sync você poderá escolher se deseja sincronizar as abas abertas e os favoritos.  
-5 - Pronto, está finalizado.
+4. Após a conclusão, seus favoritos já estarão sincronizados. Para escolher o perfil e alterar as configurações clique novamente  no ícone do Xmarks e escolha "Xmarks Settings" e, na aba Profiles clique em "Change Profile" e escolha o perfil criado na configuração para o Firefox (ou crie outro se não possuir nenhum). Na aba Sync você poderá escolher se deseja sincronizar as abas abertas e os favoritos.  
+5. Pronto, está finalizado.

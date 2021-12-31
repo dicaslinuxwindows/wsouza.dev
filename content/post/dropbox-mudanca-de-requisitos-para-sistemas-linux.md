@@ -6,7 +6,7 @@ url: /2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html
 categories:
 - Dicas
 tags: 
-- Dropbox
+- Armazenamento na Nuvem
 ---
 
 Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.

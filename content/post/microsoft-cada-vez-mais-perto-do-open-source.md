@@ -11,7 +11,9 @@ tags:
 
 Nos últimos anos a Microsoft está se aproximando do open source _(software de código aberto, não sendo necessariamente software livre)_. Mas qual seria a real intenção da dona do Windows? O artigo a seguir busca, analisando um pouco da história da Microsoft, tentar entender qual o motivo da aproximação desta gigante com o "mundo" do open source.
 
-### Microsoft e sua política
+<!--more-->
+
+## Microsoft e sua política
 
 A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen. A partir dos anos 80 tornou-se a maior empresa de software do mundo, muito por causa da visão empreendedora _(e muitas vezes predadora)_ de Gates. Além da ótima visão de negócios, nos primórdios Gates também colocava a mão na massa na criação dos softwares da empresa e, aliando a técnica com a visão de negócios, a Microsoft se tornou gigante, mesmo após o afastamento de Allen.  
 E nos anos seguintes continuou crescendo com o lançamento de softwares que passaram a ser necessários aos computadores, como o Windows e MS Office. Mesmo atualmente, com inúmeros serviços disponíveis na web, aplicativos de celular e softwares similares, muitos usuários só conseguem utilizar o Windows e o MS Office. Isto acontece muito pela política da empresa que, principalmente nos anos 90 e 2000, conseguiu embarcar seus produtos nos computadores pessoais. Praticamente todos os computadores lançados já vinham _(e ainda vêm)_ com uma versão do Windows e MS Office. Sendo assim, a grande maioria dos usuários aprendeu a mexer num computador utilizando os softwares da Microsoft e até hoje é difícil que o usuário tenha disposição em utilizar outro software que não aquele em que ele foi treinado. A exceção são os usuários avançados e os curiosos que procuram e descobrem o mundo que há fora do Windows. Mas ainda são poucos, se comparados aos usuários do Windows. Esta política da Microsoft já trouxe muito problemas à empresa _(inclusive afastando Gates da presidência)_, mas trouxe muito mais benefícios.  
@@ -20,20 +22,20 @@ Se analisarmos apenas pelo histórico da empresa, podemos dizer que a segunda op
 
   
 
-#### IBM e Microsoft DOS
+## IBM e Microsoft DOS
 
 Nos anos 70 e 80 a IBM era a grande empresa do ramos de computadores. Em 1979 ela precisava de um sistema operacional para colocar em seu computador e contratou a Microsoft desenvolver o mesmo. Gates e Allen não tinham o tal sistema, mas conheciam quem tinha. A Microsoft comprou o Q-DOS da Seattle Computer Products _(que estava mal das pernas)_ por 50 mil dólares, melhoraram e lançaram como MS-DOS. O "pulo do gato" veio em seguida: A idéia da IBM era de adquirir o sistema, porém, a Microsoft fez com que a IBM pagasse licença para cada computador que tivesse o sistema instalado nele, um modelo de negócio que funciona até hoje. Dona do código fonte a Microsoft negociou o sistema com outras empresas, o que alavancou as vendas da empresa e permitiu que várias outras empresas utilizassem o modelo IBM/PC, criado pela IBM. Enquanto as outras empresas eram fabricante de hardware, a Microsoft criava o sistema que fazia este hardware funcionar.  
 Posteriormente a IBM tentou emplacar seu próprio sistema, o OS/2, mas o MS-DOS já havia conquistado o mercado.
 
   
 
-#### O "plágio" do Macintosh
+## O "plágio" do Macintosh
 
 O MS-DOS fez sucesso, mas havia algo que estava chamando mais atenção naquele momento. Era o Apple Lisa, da Apple de Steve Jobs. O diferencial do sistema de Jobs era o uso do mouse e uma interface gráfica - baseado na ideia de interface gráfica criada pela Xerox Park, enquanto o MS-DOS era um sistema modo texto. Gates pediu a Jobs para participar do projeto e conseguiu. Tentou, sem sucesso, convencer Jobs a licenciar o sistema, mas a idéia de Jobs não era vender software, mas vender computadores completos com hardware potente, sendo o software apenas uma parte do computador. A Apple contratou ex-funcionários da Xerox mesma para desenvolver algo parecido com o que a Xerox tinha feito e chegou no Apple Lisa. Aí veio o segundo "pulo do gato": Gates fez a mesma coisa, contratou ex-funcionários da Xerox e chegou na primeira versão do Windows. Tal ação de Gates culminou num processo da Apple sobre Microsoft alegando plágio. Posteriormente a Microsoft saiu-se vencedora no processo. A Apple lançou o Macintosh, com sistema exclusivo com interface gráfica para seu hardware. A Microsoft tornou o Windows popular no padrão IBM/PC que possuía computadores mais baratos - e com menos capacidade - que o Macintosh.
 
   
 
-#### Navegadores
+## Navegadores
 
 ##### **Guerra**
 
@@ -52,7 +54,7 @@ Como o Edge não deslanchou, coube à empresa mais uma tentativa de voltar ao me
 
   
 
-#### Compra do GitHub
+## Compra do GitHub
 
 1.  Em 2018 a Microsoft anuncia a compra do GitHub, uma plataforma de hospedagem de códigos fontes _(open source ou não),_ com controle de versão. Nesta plataforma usuários cadastrados podem contribuir com projetos _(códigos, documentação, tradução)_.
 
@@ -60,14 +62,14 @@ A plataforma até então era amplamente utilizada pela comunidade open source e 
 
   
 
-### O que podemos esperar?
+## O que podemos esperar?
 
 Nos últimos anos a Microsoft tem se tornado uma das maiores contribuidoras do open source e está entre as maiores contribuidoras do Kernel Linux, inclusive trazendo o Kernel Linux para dentro do Windows 10. Várias de suas ferramentas atualmente são open source  e algumas ferramentas conhecidas tiveram seu código disponibilizado no GitHub, casos da calculadora e do antigo gerenciador de arquivos do Windows 3.0 ao ME.  
 A compra do GitHub permitiu uma maior aproximação com a comunidade, que um futuro próximo pode melhorar a visão dela em relação à empresa. Com uma boa relação entre a comunidade de open source e a empresa, várias parcerias podem surgir, melhorando a qualidade dos softwares e diminuindo o tempo de produção dos mesmos, o que é vantajoso para uma empresa que sobrevive de venda de softwares. Este pode ser o novo pulo do gato da gigante mas, pelo histórico da empresa, podemos esperar qualquer outro interesse nesta aproximação, e só o tempo realmente nos trará a resposta.
 
   
 
-### Referências
+## Referências
 
 [https://www.hardware.com.br/artigos...](https://www.hardware.com.br/artigos/ha-36-anos-microsoft-comprava-ms-dos-fazia-melhor-acordo-da-industria-do-software)  
 [https://www.tecmundo.com.br/video...](https://www.tecmundo.com.br/video-game-e-jogos/2068-a-historia-da-microsoft.htm)  

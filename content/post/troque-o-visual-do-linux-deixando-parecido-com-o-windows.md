@@ -9,10 +9,11 @@ categories:
 
 Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.  
 Mas como? A resposta é bem simples, veja na sequência:  
+ 
+ <!--more-->
   
 Muita gente que está acostumada com o Windows mal conhecem detalhes do mesmo, pois utilizam apenas o navegador para acessar a internet, logo, não sentirão diferença pois o seu sistema Linux ficará com a mesma aparência do Windows 7 ou 8.  
 Faremos a transformação em 3 passos apenas instalando um tema do Windows e alterando este mesmo tema para o padrão do sistema. Veja como é simples:
-
   
 
 1º Passo: Baixe o tema no link abaixo:  
@@ -23,18 +24,18 @@ Descompacte na sua pasta /home e você verá 3 pastas: Win7, Win8 e windows.
   
 2º Passo: Instale o tema. Para isto abra o terminal e, como super usuário mova as pastas Win7 e Win8 para a pasta /usr/share/themes/  
   
-sudo mv Win7 /usr/share/themes  
-sudo mv Win8 /usr/share/themes  
+`sudo mv Win7 /usr/share/themes`  
+`sudo mv Win8 /usr/share/themes` 
   
 A pasta Windows deve ser movida da mesma forma, mas para a pasta /usr/share/icons  
   
-sudo mv windows /usr/share/icons  
+`sudo mv windows /usr/share/icons`  
   
 3º Passo: Troque o tema pelo tema do Windows.  
   
 Instale o Gnome-Tweak-Tool, necessário para trocar o tema. _(A dica foi elaborada utilizando o Gnome)_.  
   
-sudo apt-get install gnome-tweak-tool  
+`sudo apt-get install gnome-tweak-tool` 
   
 Abra o Gnome-Tweak-Tool. Você o encontrará  no menu Sistema>>Preferências>>Configurações avançadas, que abrirá a tela abaixo:  
   

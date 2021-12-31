@@ -12,10 +12,11 @@ tags:
 - Sis Mirage 3 Graphics
 ---
 
-_Atualizado em 08/01/2015_  
-  
+Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.
 
-Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.  
+<!--more-->  
+
+_Atualizado em 08/01/2015_  
   
 Entre os piores chipsets (senão o pior) está a famosa placa de vídeo Sis Mirage 3 (SiS671 , SiS671FX , SiS672 , SiS672FX , SiSM671 , SiSM671MX , SiSM672 , SiSM672MX), fabricada pela Silicon Integrated Systems Corp._(SIS)_, empresa Taiwanesa que fabrica chipsets de baixo custo e baixa qualidade. Esta placa está em boa parte dos notebooks de baixo custo.  
 Para quem está utlizando versões do Windows até o Windows 7 existem drivers disponíveis no site do fabricante e estes drivers garantem uma funcionalidade razoável para quem utiliza o notebook para acessar a internet, aplicativos de escritório e coisas básicas que não exijam muito dos gráficos. Já quem deseja atualizar para o Windows 8, e possui este chipset, digo por experiência própria que não é recomendável pois este chipset não funcionará, já que não há suporte para o Windows 8 e, pelos comentários que circulam na internet e, pela falta de atualização do site de [drivers da SIS](http://w3.sis.com/download/), não haverá este suporte.  

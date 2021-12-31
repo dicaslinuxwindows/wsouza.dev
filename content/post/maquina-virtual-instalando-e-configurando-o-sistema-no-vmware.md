@@ -7,7 +7,6 @@ categories:
 - Tutoriais
 tags: 
 - Máquina Virtual
-- VMware Player
 - Ferramentas Linux
 ---
 
@@ -15,18 +14,18 @@ Neste post vou mostrar como instalar e configurar o sistema operacional na máqu
 Confira a seguir.  
   
 
-#### 1 - Introdução
+## Introdução
 
 A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.04 _([baixe-o aqui](http://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04-desktop-i386.iso))_, versão do Ubuntu com a interface LXDE. Mas a escolha do sistema fica a critério de cada um, e os processos para instalar e configurar são iguais. _Dica: Você poderá utilizar a mesma ISO gerada no tópico [Backup com Remaster GTK](https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html)_
 
   
 
-#### 2 - Instalação
+## Instalação
 
 Para instalação do sistema você pode escolher uma das duas maneiras:  
   
-1 - Instalar a partir de uma mídia de DVD no drive físico do hospedeiro;  
-2 - Instalar a partir de uma imagem ISO previamente salva numa pasta do computador.  
+1. Instalar a partir de uma mídia de DVD no drive físico do hospedeiro;  
+2. Instalar a partir de uma imagem ISO previamente salva numa pasta do computador.  
   
 
 [![Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows](https://1.bp.blogspot.com/-_AROF1AmGtM/W3MAnF7TQwI/AAAAAAAAI7w/Vpe3JGpo5iwOwM0hdivsFKQJ10utBqVjACLcBGAs/s640/02.png "Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows")](https://1.bp.blogspot.com/-_AROF1AmGtM/W3MAnF7TQwI/AAAAAAAAI7w/Vpe3JGpo5iwOwM0hdivsFKQJ10utBqVjACLcBGAs/s1600/02.png)
@@ -64,7 +63,7 @@ O sistema está instalado. basta inserir o login e senha criados no momento da i
 
 [![Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows](https://2.bp.blogspot.com/-fnTIoJnY9vE/W1gH7vxUboI/AAAAAAAAIxI/KfveL9gaARM8mpgzjpCWWpfI2TEy3uP7gCLcBGAs/s320/07.png "Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows")](https://2.bp.blogspot.com/-fnTIoJnY9vE/W1gH7vxUboI/AAAAAAAAIxI/KfveL9gaARM8mpgzjpCWWpfI2TEy3uP7gCLcBGAs/s1600/07.png)
 
-#### 3 - Configuração
+## Configuração
 
 Para que o sistema tenha o máximo de funcionalidade na VM, como rodar em tela cheia com resolução igual a do hospedeiro, é preciso instalar uma ferramenta chamada VMware Tools, que pode ser acessada conforme mostra a imagem abaixo.  
   
@@ -119,6 +118,6 @@ Finalizada a instalação reinicie a VM e o sistema virtual estará funcionando 
 
   
 
-#### 4 - Conclusão
+## Conclusão
 
 Utilizar um sistema operacional instalado numa VM torna-se muito interessante quando precisamos utilizar mais de um sistema por vez (Ex: Windows e Linux, ou quando precisamos realizar testes que possam comprometer a integridade de nosso sistema operacional principal.

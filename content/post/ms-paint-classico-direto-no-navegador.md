@@ -10,10 +10,12 @@ tags:
 - Paint
 ---
 
-  
+Conheça o JSPaint, um site web que traz a experiência do uso do MS Paint Clássico. Aparentemente todas as funções presentes no aplicativo clássico estão disponíveis e o JSPaint ainda apresenta algumas funções extras. A seguir vamos conhecer um pouco mais sobre o JSPaint. 
 
-Conheça o JSPaint, um site web que traz a experiência do uso do MS Paint Clássico. Aparentemente todas as funções presentes no aplicativo clássico estão disponíveis e o JSPaint ainda apresenta algumas funções extras. A seguir vamos conhecer um pouco mais sobre o JSPaint.  
-  
+
+<!--more-->
+
+ 
 [](https://draft.blogger.com/null)O MS Paint foi um software que permitia desenhos "a mão livre" e pequenas edições, e esteve presente nas versões Windows até o 10, deixando de ser incluído nas atualizações do próprio Windows 10 _(leia mais em [Fim do Paint](https://info.wsouza.com.br/2017/07/fim-do-paint.html))._  
   
 

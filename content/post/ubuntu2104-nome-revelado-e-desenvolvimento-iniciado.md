@@ -12,18 +12,12 @@ tags:
 
 Poucos dias depois de lançar o Ubuntu 20.10, a próxima versão já teve o seu nome revelado. Confira.
 
-  
-  
-  
-  
-  
-  
-  
+<!--more-->
 
 Como de costume, logo após lançar uma versão do Ubuntu, a equipe começa a publicar coisas sobre a próxima versão. Hoje foi revelado qual será o nome e codinome do Ubuntu 21.04, que será lançado em abril de 2021.  
   
 
-### Ubuntu Hirsute Hippo
+## Ubuntu Hirsute Hippo
 
   
 [Como já sabemos](https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html), os nomes e codinomes das versões do Ubuntu alguns padrões. Dentre estes padrões está o de seguir uma sequência alfabética. A penúltima versão foi **F**ocal **F**ossa, a versão passada foi **G**roovy **G**orilla,  
@@ -31,7 +25,7 @@ a nova versão teria que ser algo com **H**...**H**..., e por isso, Hirsute Hipp
 O significado do nome é algo do tipo "Hipopótamo Peludo", já que a palavra _hirsute_ significa peludo e hipopótamo acredito que todos saibam o que é.  
   
 
-### Como será o Ubuntu Hirsute Hippo?
+## Como será o Ubuntu Hirsute Hippo?
 
   
 A próxima versão do Ubuntu será a segunda versão intermediária _(de três)_ entre duas versões LTS e terá suporte até janeiro de 2022. A data prevista para o lançamento é 22 de abril. O desenvolvimento ofocial começou no dia 29 de outubro, como podemos ver no _Hirsute Hippo Release Schedule_, disponibilizado no Ubuntu Discourse e mostrado na imagem abaixo.  

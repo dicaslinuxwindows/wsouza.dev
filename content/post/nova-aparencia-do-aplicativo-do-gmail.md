@@ -11,6 +11,8 @@ tags:
 
 Em breve o aplicativo do Gmail terá novidades na sua interface. Confira a seguir quais são estas novidades.
 
+<!--more-->
+
 Nos últimos tempos o aplicativo do Gmail tem recebido várias atualizações. Quando foi anunciado o [encerramento do Inbox](https://info.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html), foi mostrado que várias das funcionalidades daquele aplicativo já estavam sendo adicionadas ao aplicativo do Gmail.  
 Recentemente a Google anunciou que o aplicativo vai receber o _Material Theme_, que vem sendo adotado por todos os produtos da companhia. Assim, a interface do aplicativo (IOS/Android) será redesenhada, ficando com uma aparência mais limpa e moderna, além de algumas facilidades na visualização das mensagens e dos anexos. Serão 3 opções de visualização: Padrão, Confortável e Compacta.  
 Veja nas imagens abaixo como deverá ser a nova aparência do Gmail.  

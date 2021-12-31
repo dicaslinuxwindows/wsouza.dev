@@ -12,12 +12,7 @@ tags:
 
 Falta pouco mais de 1 mês para o lançamento do Ubuntu 20.10 - Groovy Gorilla. Veja a seguir quais serão os próximos passos até o lançamento e quais os recursos que já estão presentes até o momento.  
 
-  
-  
-  
-  
-  
-  
+<!--more-->
 
 Conforme mostrado na matéria [Ubuntu 20.10 - Maio 2020](https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html), a próxima versão do Ubuntu será lançada em outubro, com suporte de 9 meses, e será uma das 3 versões intermediárias entre as versões LTS _(saiba mais sobre as versões do Ubuntu em [Ubuntu - Como funciona a política de seu ciclo de vida](https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html))_.  
 Faltando aproximadamente 1 mês para seu lançamento, chegamos numa fase que as coisas interessantes começam a surgir. Mas antes de chegarmos à elas, vejamos os marcos importantes para o lançamento.  
@@ -42,7 +37,7 @@ O Gnome está na versão 3.38 e alguns aplicativos já estão com suas versões 
 
   
 
-### Baixe já o Ubuntu 20.10
+## Baixe já o Ubuntu 20.10
 
   
 Apesar de ainda não ter sido lançada nenhuma versão beta ou release candidate, já é possível baixar uma ISO e instalar em seu dispositivo. Isto é possível porque são lançadas compilações diárias. Por se tratar de uma versão em desenvolvimento, não é recomendável utilizar como sistema principal, pois podem ocorrer bugs que podem lhe causar problemas. Por outro lado, a cada atualização - e serão muitas caso instale uma Daily Build - o sistema estará cada vez mais completo e quando for lançado oficialmente já estará totalmente atualizado.  

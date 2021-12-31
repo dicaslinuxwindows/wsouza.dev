@@ -11,8 +11,9 @@ tags:
 
 O Ubuntu 20.04 LTS será lançado em abril. Nos últimos dias saíram muitas notícias a respeito de seu lançamento. Confira a seguir.
 
+<!--more-->
 
-### Focal Fossa
+## Focal Fossa
 
   
 O Ubuntu 20.04 será chamado Focal Fossa e seguindo o padrão de versões do Ubuntu, o Focal Fossa será LTS. O nome Fossa remete à um mamífero de Madagascar e Focal é um adjetivo relacionado à centro, algo que é o mais importante.  
@@ -21,7 +22,7 @@ A previsão de lançamento desta versão é para o dia 23/04/2020 e com esta dat
 Veja abaixo algumas novidades que já foram confirmadas.  
   
 
-### Cronograma de lançamento
+## Cronograma de lançamento
 
   
 Segundo a [Wiki do Ubuntu](https://wiki.ubuntu.com/FocalFossa/ReleaseSchedule), o cronograma de lançamento será o seguinte:  
@@ -33,26 +34,26 @@ Segundo a [Wiki do Ubuntu](https://wiki.ubuntu.com/FocalFossa/ReleaseSchedule), 
 O Kernel Freeze, Beta Freeze e Final Freeze são os "pontos" onde ocorre o congelamento, deixando de receber atualizações e entrando na fase de testes finais antes do lançamento.  
   
 
-### Snap Store
+## Snap Store
 
   
 A já tradicional loja de aplicativos Ubuntu Software passará a ser chamada de Snap Store e passará por uma grande mudança.  
 Apesar de ainda ser baseada na Gnome Software, a Snap Store será empacotada no formato _Snap_ e trará aplicativos neste formato. O que na prática significa que não será possível instalar programas do repositório do Ubuntu _(em formato.deb)_ e consequentemente não será possível atualizar o sistema por meio dela. Na versão que testei, alguns aplicativos, como a calculadora, estão na versão Snap. Porém isto não significa que no lançamento será desta forma.  
   
 
-### Versão do Kernel
+## Versão do Kernel
 
   
 O Focal Fossa será lançado com a versão 5.4 do Kernel Linux. Apesar de já existir a versão 5.5, os desenvolvedores preferiram lançar com a versão 5.4, que é LTS. Motivo: O Focal Fossa é LTS e o Kernel 5.4 também, facilitando o suporte por um tempo estendido. Se fosse lançado com a versão 5.5 a Canonical seria obrigada a dornecer suporte á este Kernel, que não suporte oficial dos desenvolvedores dele por este tempo. Em resumo: O 5.4 é um Kernel LTS para um sistema LTS. Bem coerente.  
   
 
-### Gnome 3.36
+## Gnome 3.36
 
   
 O Gnome virá com a versão 3.36. Nesta versão há novos recursos como mais facilidade para alterar a fonte do sistema, nova tela de bloqueio, subistituição de alguns aplicativos padrão, novas caixas de diálogo, entre outras. O que não se sabe é se o Ubuntu vai adotar todos estes recursos, só o tempo vai dizer.  
   
 
-### Tema e Wallpaper
+## Tema e Wallpaper
 
   
 O tema Yaru - que já era muito bonito na versão anterior - será atualizado e trará uma variante "dark", possibilitando um modo escuro. Haverá a predominância da cor roxa, que combina muito bem com o laranja. Veja abaixo o Yaru Dark:  
@@ -70,24 +71,23 @@ Os Wallpapers oficiais do Focal Fossa também já estão disponíveis, veja abai
 Créditos e download em melhor qualidade: [Ubuntu Discourse](https://discourse.ubuntu.com/t/focal-fossa-mascot-wallpapers/14621?u=d0od)  
   
 
-### Primeiras impressões
+## Primeiras impressões
 
   
 As primeiras impressões que tive utilizando o Focal Fossa é que possui uma boa fluidez, algo que pode melhorar muito até o lançamento da versão final, daqui à quase dois meses. Como de costume o visual está impecável. Testei o 18.04 nas mesmas configurações, com os mesmos aplicativos instalados e os resultados no Focal Fossa foram mais satisfatórios.  
   
 
-### Gostei. Como posso conseguir o Ubuntu Focal Fossa?
+## Gostei. Como obter?
 
   
 Como a versão Beta ainda não foi lançada - [e só será no dia 02/04](https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html) - você pode baixar e instalar através das _daily-builds_, que são as atualizações diárias. Também poderá atualizar a partir da versão 18.04, 19.04 ou 19.10. Tenha em mente que o Focal Fossa ainda é uma versão em desenvolvimento, portanto, ainda há instabilidade, não havando garantia de que tudo vai funcionar como deveria.  
   
   
+Download |
+:------:
+[ Daily-Build](http://www.cdimage.ubuntu.com/daily-live/current/focal-desktop-amd64.iso) |
 
-**[Download Ubuntu 20.04 LTS - Daily-Build](http://www.cdimage.ubuntu.com/daily-live/current/focal-desktop-amd64.iso)**
-
-  
-
-### Fontes
+## Fontes
 
   
 [https://www.omgubuntu.co.uk/2020/02/ubuntu-snap...](https://www.omgubuntu.co.uk/2020/02/ubuntu-snap-store-transition)  

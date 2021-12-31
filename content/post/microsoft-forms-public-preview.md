@@ -8,9 +8,9 @@ categories:
 ---
 
 Com o Microsoft Forms Public Preview é possível criar formulários e questionários de maneira fácil, prática e com fácil análise de resultados.  
-E o melhor de tudo: É gratuito.  
-Mais detalhes a seguir.
+E o melhor de tudo: É gratuito. Mais detalhes a seguir.
 
+<!--more-->
 
 Lançado em 2016 para clientes empresariais e educacionais, o Microsoft Forms surgiu como uma alternativa ao Google Forms, lançado em 2015. A idéia é praticamente a mesma da concorrente, ou seja, permitir a criação de formulários on line que possibilitam a realização de pesquisas e questionários com fácil compartilhamento e fácil acompanhamento dos resultados pelos seus criadores.  
 Em outubro de 2018 a Microsoft estendeu a utilização para os usuários comuns, disponibilizando a ferramenta com o nome de Microsoft Forms Preview, de maneira gratuita. Acesse em [https://forms.office.com/](https://forms.office.com/).  

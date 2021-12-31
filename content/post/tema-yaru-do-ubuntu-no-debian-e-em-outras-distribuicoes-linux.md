@@ -14,49 +14,38 @@ tags:
 
 Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.
 
-  
-  
-  
-  
-  
-  
-  
+<!--more-->
 
 Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus preferidos sempre foram os temas voltados para a cor marrom, presente nas versões 6, 7, e depois os voltados para a cor laranja. O tema Yaru é o tema oficial do Ubuntu há um certo tempo. A versão do Ubuntu 20.04 LTS traz uma versão ainda mais bonita deste tema com variantes Dark e Light. Nesta dica vou mostrar como instalar os ícones e cores das janelas deste tema no Debian e no Fedora ambos com o Gnome Shell e no Linux Mint, com o ambiente Cinnamon. Em outras interfaces gráficas apenas o tema de ícones fica legal.  
   
 
-### Download
+## Download
 
   
 Os arquivos foram pegos diretamente de uma instalação do Ubuntu 20.04 e estão disponíveis em minha pasta do Dropbox.  
 Para baixar, abra o terminal _(CTRL +Alt+ T)_ e insira o comando: _(Pode copiar e colar)_  
   
 
- wget https://www.dropbox.com/s/sbbpdap72m5agrf/yaru.zip?dl=0 -O yaru.zip
+`wget https://www.dropbox.com/s/sbbpdap72m5agrf/yaru.zip?dl=0 -O yaru.zip`
 
-  
 
-### Instalando o tema
+## Instalando o tema
 
   
 A fim de não mexer nas configurações do sistema, vou mostrar como instalar o tema apenas na pasta de usuário, ou seja, o tema só ficará disponível para o usuário que o instalou.  
   
 Descompacte o arquivo baixado  
   
+`unzip yaru.zip`
 
- unzip yaru.zip
-
-  
 O comando acima cria 2 pastas ocultas _(.themes e .icons)_ na pasta home do usuário, e os arquivos dos temas ficam nestas 2 pastas. Para visualizar as pastas ocultas basta dar um _CTRL +H_.  
   
 
-### Configurando o tema
+## Configurando o tema
 
-  
 Para facilitar a configuração do tema no Gnome Shell instale a ferramenta de ajustes.  
   
-
- sudo apt install gnome-tweak-tool
+`sudo apt install gnome-tweak-tool`
 
   
 Após a instalação da ferramenta de ajustes, procure ela mesma, como abaixo:  

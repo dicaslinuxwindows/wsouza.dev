@@ -19,6 +19,7 @@ tags:
 
 
 
+<!--more-->
 
 
 
@@ -33,13 +34,10 @@ tags:
 
 
 
-| | Título da tabela |
-:------: | :------: | :------:
-[ Nome](Link) | [ Nome](Link) | [ Nome](Link)
-[ Nome](Link) | [ Nome](Link) | [ Nome](Link)
-[ Nome](Link) | [ Nome](Link) | [ Nome](Link)
-[ Nome](Link) | [ Nome](Link) | [ Nome](Link)
-[ Nome](Link) | [ Nome](Link) | [ Nome](Link)
+| Título da tabela| | |
+:------ | :------: | :------: | :------:
+ Nome | [ Nome](Link) | [ Nome](Link) | [ Nome](Link)
+
 
 #### Subtítulo:
   

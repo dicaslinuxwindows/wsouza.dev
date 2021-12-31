@@ -11,11 +11,9 @@ tags:
 
 ---
 
-  
-
 Recentemente foi lançado o WhatsApp Business, uma versão do mensageiro voltado à empresas. Esta versão do mensageiro facilita a interação entre a empresa e o cliente.  
 
-[](https://draft.blogger.com/null)  
+<!--more--> 
 
 Muitas empresas utilizam das ferramentas do WhatsApp para interagir com seus clientes, porém sua função é para uso pessoal, o que faz com que o mesmo não possua ferramentas para sua utilização com um perfil comercial. O WhatsApp Business, um aplicativo nativo para a plataforma Android, torna este uso profissional, adicionando informações básicas, porém importantes, sobre a empresa no perfil do aplicativo. Segundo o site do aplicativo: "O _WhatsApp Business_ facilita a interação com os clientes, fornecendo ferramentas para automatizar, classificar e responder rapidamente a mensagens"  
 A seguir veremos algumas funcionalidades do aplicativo.   

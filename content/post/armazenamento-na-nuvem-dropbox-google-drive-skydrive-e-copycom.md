@@ -11,7 +11,12 @@ tags:
 
 _Atualizado em 04/11/2014_  
   
-O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento e compartilhamento de arquivos na nuvem, serviços que permitem também a sincronização de arquivos entre diferentes dispositivos, o que os tornam ótimos para realizar backups de seus arquivos já que estes estarão replicados em vários lugares ao mesmo tempo. São eles: o Dropbox, Copy, OneDrive e Google Drive, serviços que são gratuitos e possuem versões pagas com maior capacidade de armazenamento.  
+O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento e compartilhamento de arquivos na nuvem, serviços que permitem também a sincronização de arquivos entre diferentes dispositivos, o que os tornam ótimos para realizar backups de seus arquivos já que estes estarão replicados em vários lugares ao mesmo tempo. São eles: o Dropbox, Copy, OneDrive e Google Drive, serviços que são gratuitos e possuem versões pagas com maior capacidade de armazenamento. 
+
+
+<!--more-->
+
+ 
 O funcionamento destes serviços é bem similar, todos criam uma pasta em seu computador (ou outro dispositivo) onde você coloca os arquivos que quer compartilhar, armazenar ou sincronizar e, ao alterar esta pasta, ela será alterada nos outros dispositivos.
 
   
