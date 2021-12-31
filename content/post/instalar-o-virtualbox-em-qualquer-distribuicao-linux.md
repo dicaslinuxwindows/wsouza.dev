@@ -10,7 +10,6 @@ categories:
 - Linux Mint
 - Ubuntu
 tags: 
-- VirtualBox
 - Máquina Virtual
 ---
 
