@@ -11,17 +11,19 @@ tags:
 
 A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.  
 
-### Debian
+<!--more-->
+
+## Debian
 
 Debian é um sistema operacional que contém softwares livres e, atualmente a versão estável é a 9, de codinome Stretch, lançada em 17 de Junho de 2017. Mais informações sobre o Debian em [Debian - Curiosidades, informações, versões e ciclo de vida.](https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html)  
   
 
-### Buster
+## Buster
 
 O Debian Buster será a próxima versão estável, sendo substituto do Debian Stretch. Ainda não há uma data definida para ser lançada, porém, ao que tudo indica será lançado no mês de julho. Os desenvolvedores do Debian não estipulam datas para os lançamentos, o Debian só é lançado quando está pronto, mesmo que demorem vários anos entre um lançamento e outro. Segundo o [Release-critical bugs stats](https://bugs.debian.org/release-critical/) _(página que divulga detalhes de desenvolvimento)_ na data em que esta matéria foi publicada, o Debian está com 83 bugs que deverão ser resolvidos até o lançamento .  A nível de comparação, a versão anterior foi lançada com 37 bugs.  
   
 
-### O que vem de novidades?
+## O que vem de novidades?
 
 O Debian Buster virá com algumas novidades em relação à versão anterior. Segue uma lista com algumas delas:  
 
@@ -35,7 +37,7 @@ O Debian Buster virá com algumas novidades em relação à versão anterior. Se
 *   Suporte ao Secure Boot.
 *   A provável versão do Kernel será a 4.19.
 
-### Notas
+## Notas
 
 ¹ O Wayland vem causando problemas nos programas quando executados como root. Para fugir destes problemas, no momento do login escolha o servidor gráfico Xorg.  
 ² Pelos testes que realizei o instalador Calamares está disponível apenas no Live CD/DVD. Quando utiliza-se uma imagem netinst o instalador será o antigo instalador debian.  
@@ -43,6 +45,8 @@ O Debian Buster virá com algumas novidades em relação à versão anterior. Se
 ⁴ É possível instalar o Synaptic e executá-lo normalmente, desde que faça login utilizando o servidor gráfico Xorg.  
   
 
-### Instalação
+## Instalação
 
 O vídeo abaixo mostra a instalação do RC1 do Buster pelo Live CD com o instalador Calamares.
+
+[![Watch the video](https://img.youtube.com/vi/oAB1n4K-7sk.jpg)](https://www.youtube.com/embed/oAB1n4K-7sk)

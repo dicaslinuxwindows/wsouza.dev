@@ -14,22 +14,21 @@ Dando continuidade à série de postagens sobre algumas ferramentas Linux vou fa
 O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?  
 Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
 
-  
-  
+<!--more-->
 
-#### 1 - Introdução
+## 1 - Introdução
 
 Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente. Num disco de 500 GB, por exemplo, não há a necessidade de utilizá-lo totalmente como um único setor. Ao particionar o disco, cada parte funciona como um setor independente, como se fossem vários discos, trazendo várias vantagens como a possibilidade de instalar mais de um sistema operacional ao mesmo tempo, manter os arquivos pessoais separados dos arquivos do sistema, separar os arquivos de boot...  
 A seguir vou mostrar como particionar um disco utilizando o gerenciador de partições GParted, rodando no Debian 9.4.
 
   
 
-#### 2 - Instalação e execução
+## 2 - Instalação e execução
 
 Para abrir o Gparted procure no menu por Editor de partições Gparted _(como mostra a imagem abaixo)_, ou no terminal, execute o comando:  
   
 
-sudo gparted
+`sudo gparted`
 
   
 
@@ -40,7 +39,7 @@ sudo gparted
 Caso não esteja instalado, execute o comando a seguir para instalação:  
   
 
-sudo apt-get install gparted
+`sudo apt-get install gparted`
 
   
 
@@ -53,7 +52,7 @@ Para mostrar o funcionamento iremos utilizar o /dev/sdc _(selecionado)_, que est
 
   
 
-#### 3 - Criando uma partição num disco vazio
+## 3 - Criando uma partição num disco vazio
 
 O disco /dev/sdc está sem nenhuma partição criada portanto vamos criar uma. Para isto basta clicar com o botão direito do mouse em cima da partição não alocada e clicar em novo, como mostra a imagem abaixo.
 
@@ -95,7 +94,7 @@ Clique no "botão" verde para aplicar a operação de criação da partição, c
 
   
 
-#### 4 - Criando uma segunda partição no mesmo disco
+## 4 - Criando uma segunda partição no mesmo disco
 
 Como vemos abaixo, a partição /dev/sdc1 foi criada com as configurações escolhidas. Veja que o nome do disco é /dev/sdc porém, o nome da partição  é /dev/sdc1. Agora iremos criar uma segunda partição. Para isto basta clicar com o botão direito e escolher a opção Redimensionar/Mover.
 
@@ -145,7 +144,7 @@ Após todos os processos concluídos ficará assim: O disco /dev/sdc com duas pa
 
   
 
-#### 5 - Considerações finais
+## 5 - Considerações finais
 
 Como vimos, o Gparted é uma ferramenta indispensável quando precisamos redimensionar ou particionar discos. Porém, são necessários alguns cuidados para não perder os arquivos pessoais ou os arquivos de boot _(o que impediria o sistema de iniciar). _  
 Alguns cuidados necessários:  

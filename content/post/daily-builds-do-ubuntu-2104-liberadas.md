@@ -11,13 +11,16 @@ tags:
 
 Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.
 
-### Daily Builds
+<!--more-->
+
+
+## Daily Builds
 
   
 Se ainda faltava alguma coisa para oficializar o início do desenvolvimento do Ubuntu 21.04, cujo nome será [Hirsute Hippo](https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html), já não falta mais. Agora as Daily Builds, _ou compilações diárias_, começaram a ser liberadas.  
   
 
-#### Mas o que são estas Daily Builds?
+## O que são estas Daily Builds?
 
   
 São images ISO que são disponibilizadas diariamente com as novidades ou alterações lançadas até aquele momento. Então significa que desde agora até o lançamento, que se dará no da 22 de abril de 2021, todo dia haverá uma uma ISO lançada.  
@@ -33,10 +36,13 @@ Neste momento a base ainda é parecida com o Ubuntu 20.10, mas nas próximas sem
 
   
 
-### Download
+## Download
 
   
 Utilize o link abaixo para obter a imagem ISO para sistemas de 64 bits.  
   
+Ubuntu 21.04 |
+:------: |
+[ Daily Build](http://cdimage.ubuntu.com/daily-live/pending/hirsute-desktop-amd64.iso)
 
-[ Ubuntu 21.04 Daily Build](http://cdimage.ubuntu.com/daily-live/pending/hirsute-desktop-amd64.iso)
+

@@ -5,6 +5,8 @@ draft: false
 url: /2020/09/gnome-338-e-lancado.html
 categories: 
 - Dicas
+tags:
+- Gnome
 ---
 
 O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.
@@ -15,7 +17,7 @@ O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GN
 Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/GNOME)  
   
 
-### GNOME 3.38
+## GNOME 3.38
 
   
 O GNOME 3.38 _(chamado de Orbis)_ é lançado após meses de trabalho de mais de 900 colaboradores. Esta versão será a última da série 3.X, pois na próxima versão haverá um salto para a versão 40 (???), e traz muitos recursos importantes, num total de 27896 alterações.  
@@ -34,13 +36,13 @@ Abaixo, vemos algumas destas alterações ou recursos:
 *   Novos ícones para os aplicativos Calculadora , Cheese , Tali , Sudoku , Robôs , Quadrapassel e Nibbles.
 *   E muitas outras novidades...
 
-### Como obter o Gnome 3.38 Orbis?
+## Como obter o Gnome 3.38 Orbis?
 
   
 Para ter o Gnome é preciso aguarfar que ele seja atualizado em sua distribuição. Ao que tudo indica, o Ubuntu 20.10 e o Fedora 33, que serão lançados no mês que vem, já virão com o Gnome 3.38. No Debian é bem provável que só esteja disponível junto com o Debian 11, lá pela metade do ano que vem.  
   
 
-### Screenshots
+## Screenshots
 
 [![Gnome 3.38 é lançado - Dicas Linux e Windows](https://1.bp.blogspot.com/-lPzoEZRmh6c/X2WCtzeuvMI/AAAAAAAAQFc/BMaei9_mmBQWetVPnY6RWOgX5HTSgDeAACNcBGAsYHQ/s600/maps.png "Gnome 3.38 é lançado - Dicas Linux e Windows")](https://1.bp.blogspot.com/-lPzoEZRmh6c/X2WCtzeuvMI/AAAAAAAAQFc/BMaei9_mmBQWetVPnY6RWOgX5HTSgDeAACNcBGAsYHQ/s940/maps.png)
 
@@ -56,7 +58,7 @@ Para ter o Gnome é preciso aguarfar que ele seja atualizado em sua distribuiç�
 
 [![Gnome 3.38 é lançado - Dicas Linux e Windows](https://1.bp.blogspot.com/-5Z9KgqJqmvo/X2WEzRN6YxI/AAAAAAAAQGA/IE3JgvLD6MYN8yaqZ6cN-HkbfInkvddwgCNcBGAsYHQ/s600/GNOME-3.38-screenshot-2.jpg "Gnome 3.38 é lançado - Dicas Linux e Windows")](https://1.bp.blogspot.com/-5Z9KgqJqmvo/X2WEzRN6YxI/AAAAAAAAQGA/IE3JgvLD6MYN8yaqZ6cN-HkbfInkvddwgCNcBGAsYHQ/s1920/GNOME-3.38-screenshot-2.jpg)
 
-#### Papéis de Parede
+## Papéis de Parede
 
 [![Gnome 3.38 é lançado - Dicas Linux e Windows](https://1.bp.blogspot.com/-nZX0n0xe2wQ/X2WEzSLDjdI/AAAAAAAAQF8/Qn0Ehm7VmOEgHi8XZkIessFGeIEKAJnawCNcBGAsYHQ/s600/3.38-adwaita-morning-UPDATE.jpg "Gnome 3.38 é lançado - Dicas Linux e Windows")](https://1.bp.blogspot.com/-nZX0n0xe2wQ/X2WEzSLDjdI/AAAAAAAAQF8/Qn0Ehm7VmOEgHi8XZkIessFGeIEKAJnawCNcBGAsYHQ/s1280/3.38-adwaita-morning-UPDATE.jpg)
 
@@ -64,7 +66,7 @@ Para ter o Gnome é preciso aguarfar que ele seja atualizado em sua distribuiç�
 
 [![Gnome 3.38 é lançado - Dicas Linux e Windows](https://1.bp.blogspot.com/-bO935RVxbmE/X2WE0aVqA4I/AAAAAAAAQGE/syNrpslpjDQYiipbsxcf1L0TbwmV8x_6gCNcBGAsYHQ/s600/adwaita-night.jpg "Gnome 3.38 é lançado - Dicas Linux e Windows")](https://1.bp.blogspot.com/-bO935RVxbmE/X2WE0aVqA4I/AAAAAAAAQGE/syNrpslpjDQYiipbsxcf1L0TbwmV8x_6gCNcBGAsYHQ/s2560/adwaita-night.jpg)
 
-#### Fontes:
+## Fontes:
 
 [https://www.omgubuntu.co.uk/2020/09/gnome-3-38-official-release](https://www.omgubuntu.co.uk/2020/09/gnome-3-38-official-release)  
 [https://help.gnome.org/misc/release-notes/3.38/](https://help.gnome.org/misc/release-notes/3.38/)

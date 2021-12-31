@@ -12,6 +12,7 @@ tags:
 Fim? Mas o Orkut já não estava morto?  
 Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mantinha o Orkut vivo, mas segundo o [blog oficial do Google](http://googlebrasilblog.blogspot.com.br/2014/06/adeus-ao-orkut.html) ele será desativado em 30 de setembro e 2014 e desde o dia 30 de Junho já não é mais possível cadastrar-se no serviço.  
   
+<!--more-->
   
 O Orkut foi criado em 2004 por um funcionário do Google que o desenvolveu em suas horas vagas. Adotado, principalmente por brasileiros e indianos, foi a rede social mais popular no Brasil até 2011, ano em que o Facebook desembarcou por aqui e tomou seu lugar. Foram 10 anos de uma rede social que serviu de entrada para muitos brasileiros na internet, no mundo da informática e serviu para que estes entrassem na onda das redes sociais.  
 De acordo com o Google: _"Ao longo da última década, YouTube, Blogger e Google+ decolaram, com comunidades surgindo em todos os cantos do mundo. O crescimento dessas comunidades ultrapassou o do Orkut. Por isso, decidimos dizer adeus ao Orkut e concentrar nossas energias e recursos para tornar essas outras plataformas sociais ainda mais incríveis para todos os usuários."_

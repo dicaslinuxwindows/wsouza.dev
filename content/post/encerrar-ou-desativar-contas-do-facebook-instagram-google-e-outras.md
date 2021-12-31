@@ -11,6 +11,7 @@ tags:
 
 A dica a seguir traz um compilado de links para facilitar a exclusão ou desativação de redes sociais, serviços que estão cada vez mais presentes em nossas vidas. Em muitos casos temos mais contas em serviços do que podemos gerenciar, o que acaba tomando muito tempo e/ou diminuindo nossa produtividade. Ás vezes torna-se necessário sua desativação, por um determinado tempo, ou até mesmo sua exclusão.
 
+<!--more--> 
  
 Para excluir/desativar os serviços vamos utilizar a versão web, pois nem todos os aplicativos destes serviços permitem a utilização de todos os recursos de exclusão/desativação.  
   

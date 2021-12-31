@@ -12,16 +12,18 @@ tags:
 
 O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.
 
+<!--more-->
+
 A fundação Mozilla liberou, nos últimos dias, uma atualização para o navegador Firefox no Android. Trata-se da versão 79, que reformulou quase totalmente o visual, opções de configurações e funcionalidades. Podemos considerar que trata-se de um novo navegador.  
   
 
-### De onde surgiu o novo Firefox?
+## De onde surgiu o novo Firefox?
 
   
 A matéria [Novo Firefox para Android](https://info.wsouza.com.br/2019/07/novo-firefox-para-android.html), de julho de 2019, já adiantava que o Firefox estava sendo reformulado, trazendo uma interface totalmente diferente da que era utilizado como versão padrão. Não lembro a data exata _(mas acredito que foi em junho)_, que o Firefox Preview virou Firefox Nightly Preview e a interface já estava praticamente exata à esta, que agora foi lançada como padrão.  
   
 
-### O que o novo Firefox tem de diferente?
+## O que o novo Firefox tem de diferente?
 
   
 Esta nova versão ficou mais rápida, mais segura e com um visual mais minimalista, mais enxuto, com algumas novas opções de personalização.  
@@ -36,7 +38,7 @@ Mais algumas novidades:
 
   
 
-### Recepção
+## Recepção
 
   
 Muitos usuários têm reclamado das mudanças. Alguns relatam que há travamentos, outros reclamam que algumas opções ficaram mais difíceis de configurar. Pode ser que alguma coisa tenha ficado de fora, ou também pode ser que esteja num local diferente.  
@@ -44,7 +46,7 @@ Não posso opinar, pois nunca consegui utilizar a antiga versão padrão do Fire
 Mas se há problemas, é bem possível que a Mozilla os corrija nos próximos lançamentos, afinal, há o interesse da mesma de se posicionar bem num mercado onde ela está perdendo espaço para a concorrência (Microsoft Edge).  
   
 
-### Download
+## Download
 
   
 
@@ -52,7 +54,7 @@ Mas se há problemas, é bem possível que a Mozilla os corrija nos próximos la
 
   
 
-### Prints
+## Prints
 
   
 Seguem algumas imagens do Firefox 79.  
@@ -69,9 +71,9 @@ Seguem algumas imagens do Firefox 79.
   
   
 
-### Notas
+## Notas
 
   
 Além da reformulação quase que total no Firefox, a Mozilla também reduziu o número de versões disponíveis para Android. Agora existem "apenas" as versões Padrão, Beta, Nightly, além do Firefox Focus, que é voltado à privacidade do usuário.  
   
-_Fonte: [Perguntas frequentes sobre atualização do Firefox para Android](https://support.mozilla.org/pt-BR/kb/perguntas-frequentes-atualizacao-firefox-android#w_o-que-e-o-novo-firefox-para-android-como-ele-e-melhor-e-diferente-do-antigo-firefox-para-android)_
+_Fonte:_ [Perguntas frequentes sobre atualização do Firefox para Android](https://support.mozilla.org/pt-BR/kb/perguntas-frequentes-atualizacao-firefox-android#w_o-que-e-o-novo-firefox-para-android-como-ele-e-melhor-e-diferente-do-antigo-firefox-para-android)_

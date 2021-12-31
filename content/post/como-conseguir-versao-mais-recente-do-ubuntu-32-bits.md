@@ -6,24 +6,23 @@ url: /2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html
 categories: 
 - Ubuntu
 - Tutoriais
+tags:
+- Ubuntu 32 bits
 ---
 
 As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para "rodar" as últimas versões do Ubuntu em 32 bits?  
+
+<!--more-->
+
 Confira na dica a seguir.
 
-  
-  
-  
-  
-  
-
-### Entendendo o problema
+## Entendendo o problema
 
   
 A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.  
   
 
-### Como resolvê-lo?
+## Como resolvê-lo?
 
   
 _**Atualizado em 08/07/2020:**_  
@@ -36,11 +35,11 @@ Se deseja a versão mais recente não LTS, que é a 18.10, faça da seguinte for
 Após a atualização para a 18.04, faça uma nova atualização do sistema. _(lembre-se de trocar os repositórios em /etc/apt/sources.list)_.  
   
 
-### Considerações finais
+## Considerações finais
 
   
-1 - Para baixar o Ubuntu 16.04, entre em [http://releases.ubuntu.com/16.04/](http://releases.ubuntu.com/16.04/) e escolha a opção _32-bit PC (i386) desktop image_.  
-2 - Não entrei no mérito dos requisitos de hardware para suportar as versões mais recentes do Ubuntu. Mas quem pretende utilizá-las deve saber que o desempenho poderá não ser satisfatório em computadores com até 2Gb de RAM _(que é o caso de boa parte dos que necessitam utilizar um sistema 32 bits)._  
-3 - Para a dica acima, considerei que você possui conhecimento em instalação e atualização de sistemas Linux.  
-4 - Se deseja ter estas versões (18.04 e 18.10) as futuras versões em 32 bits para alguma futura utilização, sem que seja preciso esta trabalheira toda, é possível fazer um backup do sistema utilizando o Remaster-GTK. _([Veja aqui como fazer](https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html))_.  
-5 - Não se sabe exatamente até quando haverá suporte para as versões 32 bits, pois o Ubuntu Mate, por exemplo, não suportará mais esta arquitetura a partir da versão 18.10. Acredito que o 18.04, por ser LTS, vai manter o suporte durante todo seu ciclo.
+1. Para baixar o Ubuntu 16.04, entre em [http://releases.ubuntu.com/16.04/](http://releases.ubuntu.com/16.04/) e escolha a opção _32-bit PC (i386) desktop image_.  
+2. Não entrei no mérito dos requisitos de hardware para suportar as versões mais recentes do Ubuntu. Mas quem pretende utilizá-las deve saber que o desempenho poderá não ser satisfatório em computadores com até 2Gb de RAM _(que é o caso de boa parte dos que necessitam utilizar um sistema 32 bits)._  
+3. Para a dica acima, considerei que você possui conhecimento em instalação e atualização de sistemas Linux.  
+4. Se deseja ter estas versões (18.04 e 18.10) as futuras versões em 32 bits para alguma futura utilização, sem que seja preciso esta trabalheira toda, é possível fazer um backup do sistema utilizando o Remaster-GTK. _([Veja aqui como fazer](https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html))_.  
+5. Não se sabe exatamente até quando haverá suporte para as versões 32 bits, pois o Ubuntu Mate, por exemplo, não suportará mais esta arquitetura a partir da versão 18.10. Acredito que o 18.04, por ser LTS, vai manter o suporte durante todo seu ciclo.

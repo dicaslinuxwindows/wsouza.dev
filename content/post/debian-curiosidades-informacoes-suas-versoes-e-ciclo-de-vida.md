@@ -6,24 +6,18 @@ url: /2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html
 categories:
 - Debian
 - Artigos
-tags: 
-
 ---
 
 Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.
 
+<!--more-->
 
-### Debian
-
-  
-
-#### O que é
+## Debian - O que é
 
   
 O [Debian](https://www.debian.org/) é um sistema operacional composto inteiramente por softwares livres. É mantido pela Fundação Debian e distribuído pelo Projeto Debian. Os sistemas Debian atualmente usam o kernel Linux ou o kernel FreeBSD. Há um trabalho em andamento para disponibilizá-lo com o Kernel Hurd, do projeto GNU. Anteriormente era chamado de Debian GNU/Linux.  
   
-
-#### História e Filosofia
+## História e Filosofia
 
   
 O Debian foi iniciado em agosto de 1993 por Ian Murdock, através do [Manifesto Debian](https://pt.wikipedia.org/wiki/Manifesto_Debian), como uma nova distribuição que seria feita abertamente, no espírito do Linux e do projeto GNU. O Debian foi concebido para ser feito cuidadosamente e conscienciosamente, e ser mantido e suportado com cuidado similar. Ele começou como um grupo pequeno, bastante unido, de hackers de Software Livre e cresceu gradualmente para se tornar uma comunidade global e bem organizada de desenvolvedores e usuários.  
@@ -31,33 +25,33 @@ O nome Debian vem dos nomes de seus criadores, Ian Murdock, e sua esposa, Debra.
 Uma das grandes diferenças do Debian para outros sistemas Linux é o controle quanto a qualidade dos pacotes para que estes só sejam lançados quando estiverem totalmente prontos, funcionais. Tal política garante estabilidade e, principalmente, confiabilidade ao sistema. Segundo a filosofia adotada pelo Debian, Software Livre refere-se à liberdade e não à custo zero, como muitas pessoas confundem. O projeto Debian é mantido por meio de doações à organização sem fins lucrativos _Software in the Public Interest (SPI)._  
   
 
-#### Pacotes
+## Pacotes
 
   
 Atualmente o Debian conta com mais de 51.000 pacotes livres. Apesar de ser construído por softwares livres não há nada que impeça a instalação de softwares não-livres, portanto, este número aumenta exponencialmente.  
 O Debian possui um conhecido e robusto sistema de gestão de pacotes, o APT. e o formato de pacotes é o ._deb_. Através do APT é possível gerenciar os pacotes relacionados à atualizações de softwares, de partes do sistema e até mesmo a atualização total do sistema de forma relativamente fácil e segura.  
   
 
-#### Hardware e arquiteturas suportadas
+## Hardware e arquiteturas suportadas
 
   
 Geralmente o Debian funciona normalmente em qualquer hardware comum, sendo compatível com a maioria dos computadores pessoais, mesmo os mais antigos. A cada lançamento de uma nova versão o hardware suportado sofre pequenas alterações, podendo ser consultadas na [página da distribuição estável.](https://www.debian.org/releases/stable/) Caso tenha dúvidas se o seu hardware é suportado verifique a [lista de hardware suportado](http://www.tldp.org/HOWTO/Hardware-HOWTO/).  
   
 
-#### Debian, o pai de todos
+## Debian, o pai de todos
 
   
 Junto com o Red Hat e Slackware, o Debian é uma mais antigas distribuições Linux. Pode ser considerável o pai de todos, pois há inúmeras distribuições baseadas nele. Algumas destas versões são muito conhecidas, como o Ubuntu, o Linux Mint Debian Edition e o Knoppix _(onde surgiu o sistema live-cd)_. Os usuários brasileiros mais antigos vão lembrar do Kurumin Linux. [Veja as distribuições baseadas no Debian, de acordo com o Debian Wiki.](https://wiki.debian.org/Derivatives/Census)  
   
 
-### Versões
+## Versões
 
   
 O Debian anuncia seu novo lançamento estável de forma regular, porém, qualquer versão só será lançada quando estiver pronta. Portanto, não existem datas estipuladas para os lançamentos. As quatro últimas versões foram lançadas em 2013, 2015, 2017 e 2019.  
 Toda versão lançada possui um número e um codinome. Os números são sequenciais e os nomes são derivados dos personagens do filme [Toy Story](https://www.debian.org/doc/manuals/debian-faq/ch-ftparchives#s-sourceforcodenames).  
   
 
-#### Ciclo de desenvolvimento e ciclo de vida
+## Ciclo de desenvolvimento e ciclo de vida
 
   
 Usuários podem contar com 3 anos de suporte total para cada lançamento e, no final de seu  End of Life (EOL) passa a ser Oldstable e recebe mais 2 anos de suporte extra LTS - Long Term Support , ainda recebendo um suporte ELTS por mais um período.  
@@ -77,7 +71,7 @@ A imagem abaixo mostra o tempo de suporte LTS e ELTS das últimas versões. Nota
 
   
 
-#### Repositórios/Espelhos
+## Repositórios/Espelhos
 
   
 Todos os pacotes ficam disponíveis em repositórios que são espalhados em servidores ao redor do mundo (chamados de espelhos). É nestes repositórios que o APT conecta para atualizá-los na distribuição. A lista de repositórios é dividida em seções da seguinte forma, de acordo com o Debian Wiki:  
@@ -93,7 +87,7 @@ Todos os pacotes ficam disponíveis em repositórios que são espalhados em serv
 Numa instalação padrão apenas as seções securit, main  e updates vêm habilitadas, sendo necessária habilitar as outras caso necessite.  
   
 
-### Obtendo e instalando o Debian
+## Obtendo e instalando o Debian
 
   
 Você pode obter o Debian de diversas maneiras, sendo que uma das mais comuns é através de imagens ISO que podem ser gravadas em CD, DVD ou Pendrive. Esta imagens ISO podem ser baixadas de maneira direta, através de torrents ou por um sistema chamado jigdo. Abaixo, um detalhamento destes tipos de imagens.  
@@ -111,14 +105,14 @@ Há também outras formas de instalar. Veja no exemplo abaixo, utilizando como e
 
   
 
-### Considerações finais
+## Considerações finais
 
   
 Esta matéria não tem, nem de perto, a pretensão de ser uma documentação sobre o Debian. A pretensão da mesma é fornecer algumas informações superficiais para os usuários que não tem muito contato com este sistema. Como sempre posto alguma coisa sobre o Debian, achei necessário fazer um resumo de informações para que estas sirvam de base para as outras matérias do blog. Os links abaixo foram utilizados para gerar este resumo e com certeza aumentarão o conhecimento sobre o sistema, portanto, não hesite em utilizá-los.  
 Caso tenha alguma dúvida ou sugestão participe comentando logo abaixo.  
   
 
-### Referências/Fontes
+## Referências/Fontes
 
   
 [Sobre o Debian](https://www.debian.org/intro/about)  

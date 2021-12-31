@@ -10,6 +10,9 @@ tags:
 ---
 
 Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.
+
+<!--more-->
+
 Depois de um tempo lançando versões com pequenas correções, a Mozilla lança o Firefox 43 com uma maior quantidade de novidades, melhorias e correções. Vejamos quais são:  
 
 *   Melhoria de desempenho: Graças à melhorias no SpiderMonkey, que é o mecanismo JavaScript do Firefox, as páginas podem ser carregadas até 15% mais rápidas, com capacidade de resposta da página em até 12% e o uso de memória reduzido em até 8%.
@@ -21,9 +24,7 @@ Depois de um tempo lançando versões com pequenas correções, a Mozilla lança
 *   Correções de acessibilidade: Recursos de leitor de tela que relatam parágrafos agora relatam parágrafos e palavras corretamente. As teclas de seta agora funcionam corretamente após tabulação na janela picture-in-picture
 *   Modo somente HTTPS: Quando ativado, garante que todas as conexões sejam seguras e emite um alerta quando uma conexão segura não está disponível. Mais detalhes abaixo.
 
-  
-
-### Modo somente HTTPS
+## Modo somente HTTPS
 
   
 Este modo ativa por padrão as conexões HTTPS quando os sites já suportam, formando mais uma camada de segurança. Uma conexão quando está no modo HTTPS não permite que os dados do usuário sejam "vistos" por terceiros, impedindo que haja adulteração ou roubo das informações contidas ali. Sites da receita Federal, Bancos, vários sites governamentais, entre outros, utilizam apenas o modo HTTPS, aumentando a segurança do usuário. Para identificar se uma conexão está numa conexão segura basta ver se há um cadeado ao lado do endereço, como vemos na imagem abaixo.  
@@ -38,7 +39,7 @@ Este modo ativa por padrão as conexões HTTPS quando os sites já suportam, for
 O Modo Somente HTTPS não vem ativado por padrão. Para ativá-lo clique no botão de menu do Firefox, escolha _"Preferências"_. Depois selecione _"Privacidade e segurança"_ e role para baixo até a seção _"Modo somente HTTPS"_. Escolha _"Ativar modo apenas HTTPS em todas as janelas"_.  
   
 
-### Download
+## Download
 
   
 Segue abaixo os links para download do Firefox. Selecione a opção que lhe atender. Se você é usuário Linux pode aguardar o Firefox chegar nos repositórios da distribuição.  
@@ -56,7 +57,7 @@ Firefox 83
 
   
 
-### Fontes
+## Fontes
 
   
 [Notas de lançamento do Firefox 83](https://www.mozilla.org/en-US/firefox/83.0/releasenotes/)  

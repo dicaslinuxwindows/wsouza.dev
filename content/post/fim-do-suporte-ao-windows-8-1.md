@@ -9,12 +9,14 @@ tags:
 - Windows 8
 ---
 
-O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua [política de ciclo de vida](https://support.microsoft.com/pt-br/lifecycle), a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.  
+O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua [política de ciclo de vida](https://support.microsoft.com/pt-br/lifecycle), a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.
+
+<!--more-->  
 
 Mas, segundo a Microsoft, ainda serão lançadas atualizações de segurança. Estas atualizações serão disponibilizadas até 2023 _(ver tabela abaixo)_, quando o sistema deixará de vez de receber suporte. Em resumo: É o início do último ciclo de vida do Windows 8.1.  
 Vale lembrar que não é recomendável a utilização de qualquer sistema operacional sem suporte à atualizações de segurança: Ex: Windows Xp e Vista _(já sem suporte)_ e Windows 7 _(deixará de receber atualizações de segurança em 2020)_. A utilização de um sistema sem suporte torna seus dados ainda mais vulneráveis à qualquer tipo de ataque.  
   
-
+~~~
 Sistemas operacionais cliente
 
 Atualização ou service pack mais recente
@@ -54,7 +56,7 @@ Windows 10 \*\*
 13 de outubro de 2020
 
 14 de outubro de 2025
-
+~~~
 _Fonte: [Ficha informativa do ciclo de vida do Windows](https://support.microsoft.com/pt-br/help/13853/windows-lifecycle-fact-sheet)_
 
   

@@ -9,7 +9,9 @@ categories:
 
 A equipe de desenvolvimento anunciou no dia 27/06/2020 o lançamento da versão estável do Linux Mint 20 'Ulyana'. Veja a seguir mais informações sobre este lançamento.
 
-### Ulyana
+<!--more-->
+
+## Ulyana
 
   
 O Linux Mint 20 'Ulyana' é a versão estável da distribuição francesa baseada no Ubuntu, neste caso, Ubuntu 20.04 LTS. Esta versão terá suporte até 2025.  
@@ -40,37 +42,16 @@ Segundo o [blog do Linux Mint](https://blog.linuxmint.com/?p=3928), os requisito
 
   
 
-### Download
+## Download
 
   
+| | Ulyana | |
+:------: |:------: | :------: | :------:
+Cinnamon | [ Live](http://mirrors.evowise.com/linuxmint/stable/20/linuxmint-20-cinnamon-64bit.iso) | [ Torrent](https://torrents.linuxmint.com/torrents/linuxmint-20-cinnamon-64bit.iso.torrent) | [Mais...](https://www.linuxmint.com/rel_ulyana_cinnamon.php)
+Mate | [ Live](http://mirrors.evowise.com/linuxmint/stable/20/linuxmint-20-mate-64bit.iso) | [ Torrent](https://torrents.linuxmint.com/torrents/linuxmint-20-mate-64bit.iso.torrent) | [Mais...](https://www.linuxmint.com/rel_ulyana_mate.php)
+XFCE | [ Live](http://mirrors.evowise.com/linuxmint/stable/20/linuxmint-20-xfce-64bit.iso) | [ Torrent](https://torrents.linuxmint.com/torrents/linuxmint-20-xfce-64bit.iso.torrent) | [Mais...](https://www.linuxmint.com/rel_ulyana_xfce.php)
 
-Cinnamon
-
-[ Live](http://mirrors.evowise.com/linuxmint/stable/20/linuxmint-20-cinnamon-64bit.iso)
-
-[ Torrent](https://torrents.linuxmint.com/torrents/linuxmint-20-cinnamon-64bit.iso.torrent)
-
-[Mais...](https://www.linuxmint.com/rel_ulyana_cinnamon.php)
-
-Mate
-
-[ Live](http://mirrors.evowise.com/linuxmint/stable/20/linuxmint-20-mate-64bit.iso)
-
-[ Torrent](https://torrents.linuxmint.com/torrents/linuxmint-20-mate-64bit.iso.torrent)
-
-[Mais...](https://www.linuxmint.com/rel_ulyana_mate.php)
-
-XFCE
-
-[ Live](http://mirrors.evowise.com/linuxmint/stable/20/linuxmint-20-xfce-64bit.iso)
-
-[ Torrent](https://torrents.linuxmint.com/torrents/linuxmint-20-xfce-64bit.iso.torrent)
-
-[Mais...](https://www.linuxmint.com/rel_ulyana_xfce.php)
-
-  
-
-### Screenshots
+## Screenshots
 
   
 [![Lançado o Linux Mint 20 'Ulyana' - Dicas Linux e Windows](https://2.bp.blogspot.com/-AC5pl89KsCs/XvlcutinEAI/AAAAAAAAPOk/nHCSJbdk7UgJtpKTIc0qm4UyjYvBzhJ0gCNcBGAsYHQ/s640/Ulyana1.png "Lançado o Linux Mint 20 'Ulyana' - Dicas Linux e Windows")](https://2.bp.blogspot.com/-AC5pl89KsCs/XvlcutinEAI/AAAAAAAAPOk/nHCSJbdk7UgJtpKTIc0qm4UyjYvBzhJ0gCNcBGAsYHQ/s1600/Ulyana1.png)  

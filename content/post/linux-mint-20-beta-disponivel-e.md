@@ -9,7 +9,9 @@ categories:
 
 A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a "polêmica" sobre o uso dos pacotes Snap do Ubuntu.
 
-### O que sabemos sobre o LM20 até agora.
+<!--more-->
+
+## O que sabemos sobre o LM20 até agora
 
   
 A matéria de 1º de abril "[Linux Mint 20 Ulyana](https://info.wsouza.com.br/2020/04/linux-mint-20-ulyana.html)" abordou sobre o que se sabia a respeito do LM20 até aquele momento, como seu codinome que será Ulyana e que este seria baseado no Ubuntu 20.04 LTS.  
@@ -31,7 +33,7 @@ Os destaques acima somam-se com os destaques que já comentados na matéria ante
 
   
 
-### Pacotes Snap no Linux Mint 20
+## Pacotes Snap no Linux Mint 20
 
   
 O Linux Mint 20, a princípio, não permitirá a instalação dos pacotes Snap do Ubuntu via _apt install snapd_. Tal decisão ocorreu pelo fato dos desenvolvedores do Mint não concordarem com a maneira que a Canonical _(desenvolvedora do Ubuntu)_ está trabalhando com esses pacotes, forçando os usuários a utilizá-los.  
@@ -41,42 +43,36 @@ Aos que quiserem utilizar os pacotes Snap no LM20, há uma solução alternativa
 Para evitar problemas futuros, podemos apenas renomear este arquivo e, assim podemos reativá-lo caso seja necessário. Para renomeá-lo basta usar os comandos abaixo, renomeando-o para _nosnap.pref.old_.  
   
 
- sudo su
+`sudo su`
 
   
 
- cd /etc/apt/preferences.d/
+`cd /etc/apt/preferences.d/`
 
   
 
- mv nosnap.pref nosnap.pref.old
+`mv nosnap.pref nosnap.pref.old`
 
   
 Caso precise do arquivo antigo, basta renomeá-lo novamente para _nosnap.pref_. Para instalar o snapd, use os comandos abaixo e o suporte aos aplicativos Snap estará ativo nomamente.  
   
 
- sudo apt update
+`sudo apt update`
 
   
 
- sudo apt install snapd
+`sudo apt install snapd`
 
   
 
-### Download da versão Beta
+## Download
 
   
 Seguem os links para o download da versão beta. Vale lembrar que por se tratar de uma versão de testes ainda podem aparecer sérios bugs, portanto, não utilize como sistema operacional principal.  
   
+| | Linux Mint 20 Beta |
+:------: | :------: | :------:
+[ Cinnamon](https://mirrors.edge.kernel.org/linuxmint/testing/linuxmint-20-cinnamon-64bit-beta.iso) | [ Mate](https://mirrors.edge.kernel.org/linuxmint/testing/linuxmint-20-mate-64bit-beta.iso) | [ XFCE](https://mirrors.edge.kernel.org/linuxmint/testing/linuxmint-20-xfce-64bit-beta.iso)
 
-Linux Mint 20 Beta
-
-[ Cinnamon](https://mirrors.edge.kernel.org/linuxmint/testing/linuxmint-20-cinnamon-64bit-beta.iso)
-
-[ Mate](https://mirrors.edge.kernel.org/linuxmint/testing/linuxmint-20-mate-64bit-beta.iso)
-
-[ XFCE](https://mirrors.edge.kernel.org/linuxmint/testing/linuxmint-20-xfce-64bit-beta.iso)
-
-  
   
 Fonte: [Blog do Linux Mint](https://blog.linuxmint.com/?p=3906)

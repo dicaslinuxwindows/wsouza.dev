@@ -11,6 +11,7 @@ tags:
 
 A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.
 
+<!--more-->
 
 A versão 74 do Firefox traz algumas melhorias em relação ao seu antecessor, principalmente à nível de segurança e privacidade. Veja alguns destaques:  
 
@@ -22,7 +23,7 @@ A versão 74 do Firefox traz algumas melhorias em relação ao seu antecessor, p
 
   
 
-### Download e informações gerais
+## Download e informações gerais
 
   
 Para baixar o Firefox 74 acesse [https://www.mozilla.org/pt-BR/firefox/new/](https://www.mozilla.org/pt-BR/firefox/new/) e escolha a versão compatível com seu sistema.  

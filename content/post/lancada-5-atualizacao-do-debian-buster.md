@@ -12,11 +12,12 @@ tags:
 
 Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.
 
- 
+<!--more-->
+
 O sistema de atualizações do Debian consiste em atualizações pontuais, com apenas um ou poucos pacotes, e de tempos em tempos saem atualizações maiores, com um maior número de pacotes atualizados. Estas versões não são consideradas um lançamento, mas sim complementos com melhorias e/ou atualizações de segurança. Entre o lançamento das versões são lançados vários upgrades. No Debian Stretch, por exemplo, foram lançadas 9 pacotes até o lançamento do Debian Buster e mais 4 até o momento, totalizando 13.  
   
 
-### Como atualizar
+## Como atualizar
 
   
 Se você já está utilizando o Debian Buster, para obter este pacote de atualizações, basta atualizar pelo terminal, através do _apt_. A quantidade de pacotes a serem atualizados depende dos seus hábitos de usuário. Por exemplo, se você tem o costume de atualizar o sistema com frequência, provavelmente serão poucos pacotes à atualizar. Caso contrário, serão bastante pacotes.  
@@ -24,38 +25,32 @@ Se você já está utilizando o Debian Buster, para obter este pacote de atualiz
 Insira o comando abaixo para atualizar a lista de pacotes.  
   
 
- sudo apt update
+`sudo apt update`
 
   
 Com o comando abaixo você irá instalar as atualizações disponíveis.  
   
 
- sudo apt full-upgrade
+`sudo apt full-upgrade`
 
   
 Aguarde o fim da instalação e seu sistema estará atualizado e com todas as correções de segurança.  
   
 Se não utiliza o Debian, mas ficou interessado, instale através da imagem ISO de instalação, que já está atualizada para a versão 10.5. Download abaixo:  
   
+| | amd64 (Gnome) |
+:------: | :------: | :------:
+[ Live](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-gnome.iso) | [ Torrent](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-gnome.iso.torrent) | [ Mais...](https://www.debian.org/distrib/)
 
-Debian Buster 10.5 amd64 _(Gnome)_
 
-[ Live](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-gnome.iso)
-
-[ Torrent](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-gnome.iso.torrent)
-
-[Mais...](https://www.debian.org/distrib/)
-
-  
-
-### Pacotes atualizados
+## Pacotes atualizados
 
   
 Segundo o que foi publicado no anúncio [https://www.debian.org/News/2020/20200801](https://www.debian.org/News/2020/20200801) a lista de pacotes atualizados é a que está mostrada abaixo:  
   
-Todas as correções  
-```
+Todas as correções:  
 
+~~~
 Package
 
                
@@ -670,8 +665,8 @@ Security fix \[CVE-2019-13453\]
 
   
 
-```Atualizações de segurança  
-```
+Atualizações de segurança  
+
   
  
 Advisory ID
@@ -1054,8 +1049,8 @@ Package
 
   
 
-```Pacotes removidos  
-```
+Pacotes removidos  
+
   
  
 Package
@@ -1093,7 +1088,4 @@ Security issues; unsupportable
               
 
 Incompatible with newer Firefox ESR versions
-
-  
-
-```
+~~~

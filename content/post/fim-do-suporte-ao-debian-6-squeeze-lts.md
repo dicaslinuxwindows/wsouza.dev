@@ -8,6 +8,9 @@ categories:
 ---
 
 No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.  
+
+<!--more-->
+
 A partir desta data não haverá mais suporte de segurança, ou seja, o sistema não receberá mais atualizações de segurança. O Debian Squeeze foi lançado em 2011 e recebeu suporte de 5 anos.  
 A próxima versão LTS será o Debian 7, conhecido como Wheezy, lançado em 2013, e hoje chamado de oldstable. O Debian Wheezy terá suporte e segurança até maio de 2018 e, provavelmente será substituído pelo Debian 8.0 (Jessie), lançado em 2015, sendo a versão stable do momento.
 

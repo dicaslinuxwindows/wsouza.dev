@@ -9,6 +9,8 @@ categories:
 
 Antes da portabilidade era muito fácil saber de qual operadora era um telefone fixo ou um celular, mas após a portabilidade ficou difícil saber. Quando queremos aproveitar as promoções de uma operadora muitas vezes ficamos com medo de ligar para um número e este número ser da operadora Y e o seu é da operadora X e, se nos perdemos no tempo da ligação, os créditos acabarão rapidamente.  
 
+<!--more-->
+
 Mas existem algumas soluções que nos permitem descobrir de qual operadora é o telefone que pretendemos ligar e, uma destas soluções foi disponibilizada pela ABR Telecom (Associação Brasileira de Recursos em Comunicações), entidade administradora da portabilidade numérica. É uma página de internet onde você deve colocar o número de telefone (com DDD) , colocar as letras que aparecem, clicar em consultar e embaixo aparece em qual operadora o número está vinculado na data atual.  
 _Ver imagem_.
 

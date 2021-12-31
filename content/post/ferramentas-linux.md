@@ -11,6 +11,10 @@ tags:
 
 Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.
 
+<!--more-->
+
+[Instalando o VirtualBox em qualquer distribuição Linux](https://info.wsouza.com.br//2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html) - Como instalar o VirtualBox em qualquer distribuição Linux.
+
 [3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux](https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html) - Como criar uma Live USB utilizando algum sistema Linux.  
   
 [Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados](https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html) - Instalação do JAVA Oracle 14 e posteriores no Debian, Ubuntu e sistemas derivados.  

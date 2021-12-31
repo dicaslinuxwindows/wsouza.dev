@@ -11,11 +11,10 @@ tags:
 
 ---
 
-A partir da versão 2.12.303 do WhatsApp para Android permite que você crie um backup privado do seu histórico de conversas, mensagens de voz, vídeos e imagens no Google Drive, função ideal para quem deseja ter um backup de seus dados em caso de perda ou mesmo troca do smartphone  
+A partir da versão 2.12.303 do WhatsApp para Android permite que você crie um backup privado do seu histórico de conversas, mensagens de voz, vídeos e imagens no Google Drive, função ideal para quem deseja ter um backup de seus dados em caso de perda ou mesmo troca do smartphone . 
   
 
-[![WhatsApp integrado ao Google Drive ](https://3.bp.blogspot.com/-flyzizd4sDQ/VhXF13NmEKI/AAAAAAAAADU/yAY60fW8zQg/s320/whatsapp-gdrive.jpg "WhatsApp integrado ao Google Drive ")](http://3.bp.blogspot.com/-flyzizd4sDQ/VhXF13NmEKI/AAAAAAAAADU/yAY60fW8zQg/s1600/whatsapp-gdrive.jpg)
-
+<!--more-->
   
 Segundo o blog do Google Brasil, a função estará disponível para todos os usuários ao longo dos próximos meses, mas os mais impacientes já podem baixar diretamente do site do ofcial em [http://www.whatsapp.com/android/](http://www.whatsapp.com/android/).  
   

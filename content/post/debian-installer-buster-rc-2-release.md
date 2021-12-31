@@ -11,12 +11,14 @@ tags:
 
 Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.
 
-### Debian
+<!--more-->
+
+## Debian
 
 [Debian - Curiosidades, informações, versões e ciclo de vida.](https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html)  
   
 
-### Debian Buster RC2
+## Debian Buster RC2
 
 Release candidate é uma das fases antes do lançamento de um software. É quando ele já está praticamente pronto para ser colocado no mercado, mas ainda pendente de alguma inclusão/alteração e podendo possuir alguns bugs de pequeno impacto. Nota: Tratando-se de Debian pode acreditar que muitos testes já foram realizados, pois a política do Debian prevê que o sistema só é lançado quando está totalmente pronto.  
 O Buster RC2 lançado é o instalador do sistema - a _ISO_ de instalação pronta - e traz várias melhorias em relação ao RC anterior. Veja a [lista](https://lists.debian.org/debian-devel-announce/2019/06/msg00005.html) _(em inglês)_ com todas s alterações e, se desejar testar o RC2, seguem os links para download e escolha a opção qua mais lhe agradar:  

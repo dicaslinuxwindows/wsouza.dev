@@ -13,12 +13,9 @@ tags:
 
 Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.
 
-  
-  
-  
-  
+<!--more-->
 
-### Atualizar para o W10. Sim ou não?
+## Atualizar para o W10. Sim ou não?
 
   
 O suporte do W7 acabou em 14 de janeiro de 2020, conforme [foi mostrado na matéria anterior](https://info.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html). Muita gente ainda permanece com o W7 por vários motivos, entre estes está o medo de não se adaptar ao W10 ou não possuir um hardware que suporte o sistema, ou ainda não poder obter uma licença do W10, que custa R$ 730,00 _(Home)_ e R$ 1099,00 _(Pro)_.  
@@ -41,10 +38,9 @@ A imagem abaixo mostra o W7 ativado e que será atualizado no processo. _(Depois
   
 
 [![Atualizando o Windows 7 para o Windows 10 gratuitamente - Dicas Linux e Windows](https://4.bp.blogspot.com/-XxFuzTDGf3Y/XkYWqetJXtI/AAAAAAAAN7Y/IZxfcyXkhmYwl3Gp9yolEjaCmh17uFTlwCNcBGAsYHQ/s640/00.png "Atualizando o Windows 7 para o Windows 10 gratuitamente - Dicas Linux e Windows")](https://4.bp.blogspot.com/-XxFuzTDGf3Y/XkYWqetJXtI/AAAAAAAAN7Y/IZxfcyXkhmYwl3Gp9yolEjaCmh17uFTlwCNcBGAsYHQ/s1600/00.png)
+ 
 
-  
-
-### Como devo fazer para atualizar meu sistema?
+## Como devo fazer para atualizar meu sistema?
 
 *   Acesse, **a partir do W7**, o site de [download da ferramenta](https://www.microsoft.com/pt-br/software-download/windows10?ranMID=43674&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-dNM0_6BCl7IsYgp_bouV1w&epi=je6NUbpObpQ-dNM0_6BCl7IsYgp_bouV1w&irgwc=1&OCID=AID2000142_aff_7795_1243925&tduid=(ir__ukrhtqmlh9kft2gykk0sohzjx22xlugj0ywpggd100)(7795)(1243925)(je6NUbpObpQ-dNM0_6BCl7IsYgp_bouV1w)()&irclickid=_ukrhtqmlh9kft2gykk0sohzjx22xlugj0ywpggd100) e clique em "Baixar a ferramenta agora".
 *   Após o download, execute o arquivo que foi baixado. O nome do arquivo será algo parecido com "MediaCreationTool1909".
@@ -87,8 +83,7 @@ A imagem abaixo mostra o W7 ativado e que será atualizado no processo. _(Depois
 [![Atualizando o Windows 7 para o Windows 10 gratuitamente - Dicas Linux e Windows](https://1.bp.blogspot.com/-3qeau47BY1s/XkYI4rsS4VI/AAAAAAAAN6o/SYkwQhPqkgkF5vOakZT2IXrWfQMuVwZwwCNcBGAsYHQ/s640/23.png "Atualizando o Windows 7 para o Windows 10 gratuitamente - Dicas Linux e Windows")](https://1.bp.blogspot.com/-3qeau47BY1s/XkYI4rsS4VI/AAAAAAAAN6o/SYkwQhPqkgkF5vOakZT2IXrWfQMuVwZwwCNcBGAsYHQ/s1600/23.png)
 
   
-
-### Atualizei, mas não gostei. Como faço para voltar ao W7?
+## Atualizei, mas não gostei. Como faço para voltar ao W7?
 
   
 Se, por algum motivo, desejar voltar ao W7 será possível através da restauração do sistema. Mas tem um detalhe: Esta opção fica disponível por 10 dias apenas, após não será possível retornar _(a menos que instale o W7 do zero, obviamente)_.  
@@ -98,7 +93,7 @@ Se, por algum motivo, desejar voltar ao W7 será possível através da restaura�
 
   
 
-### Considerações finais
+## Considerações finais
 
   
 Se você ficou interessado na atualização recomendo que não perca tempo para fazê-la, pois não se sabe até quando a Microsoft deixará a ferramenta disponível.  

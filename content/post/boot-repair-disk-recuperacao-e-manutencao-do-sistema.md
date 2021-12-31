@@ -12,16 +12,17 @@ tags:
 
 Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.
 
+<!--more-->
   
 
-#### 1 - Introdução
+## Introdução
 
 Creio que quase todo mundo, enquanto usuário de sistemas GNU/Linux, já deve ter passado por algum aperto perder o gerenciador de inicialização _(GRUB)_ ao atualizar ou instalar um novo sistema para trabalhar em Dual Boot, ou tentando remover versões antigas do Kernel. Só quem já passou por isso sabe o quão é chato, e, não sabendo a maneira correta de resolver, pode causar uma grande quantidade de trabalho levando até à reinstalação do sistema operacional.  
 O Boot-Repair-Disk _(Boot-Repair)_ evita todos estes transtornos, pois fornece ferramentas de recuperação do GRUB.
 
   
 
-#### 2 - Como obter o Boot-Repair
+## Como obter o Boot-Repair
 
 A melhor forma de utilizar o Boot-Repair é a partir de um Live CD ou Pendrive inicializável, pois se você perdeu o acesso ao GRUB, não terá como acessar o sistema operacional instalado na sua máquina. As imagens para gravar no CD ou Pendrive podem ser obtidas nos links abaixo, de acordo com seu processador.  
   
@@ -32,7 +33,7 @@ Grave a imagem baixada num CD ou Pendrive _(Para gravar num pendrive, utilize o 
 
   
 
-#### 3 - Recuperando o GRUB
+## Recuperando o GRUB
 
 Ao iniciar o computador, já com o CD no drive ou pendrive inserido, escolha o idioma e ao terminar o Boot, será mostrada a tela abaixo. Aguarde a finalização.  
   
@@ -81,7 +82,7 @@ Terminado  o processo, reinicie o sistema e o GRUB estará recuperado, como pod
 
   
 
-#### 4 - Ferramentas de Manutenção de Sistema
+## Ferramentas de Manutenção de Sistema
 
 Além de possibilitar a recuperação do GRUB, o Boot-Repair possui outras ferramentas que podem ser úteis para manipular partições [_(Gparted)_](https://info.wsouza.com.br/2018/07/ferramentas-linux-2-gparted-particionador-grafico.html), diagnosticar problemas, recuperar sistemas operacionais ou mesmo para obter informações sobre o computador, como podemos ver na imagem abaixo.  
   
@@ -108,6 +109,6 @@ Ferramenta para diagnosticar a inicialização do computador. Cria um arquivo de
 
   
 
-#### 5 - Considerações finais
+## Considerações finais
 
 É indispensável ter em mãos este conjunto de ferramentas pois, a qualquer momento, podemos ser surpreendidos com algum problema.

@@ -11,10 +11,12 @@ tags:
 
 Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.
 
+<!--more-->
+
 O Mozilla Firefox ainda é o segundo navegador mais utilizado no mundo, porém, esta vice liderança está ameaçada pelo Microsoft Edge _(e pode ser que já tenha sido perdida)_. Paralelamente aos acontecimentos, a fundação Mozilla continua trabalhando nas atualizações com correções e melhorias, e chega agora na versão 80.  
   
 
-### Novidades
+## Novidades
 
   
 
@@ -23,7 +25,7 @@ O Mozilla Firefox ainda é o segundo navegador mais utilizado no mundo, porém, 
 
   
 
-### Bugs e correções de segurança
+## Bugs e correções de segurança
 
   
 Nesta versão, vários bugs foram corrigidos:  
@@ -37,8 +39,7 @@ Nesta versão, vários bugs foram corrigidos:
   
 Segue abaixo a lista de correções de segurança:  
   
-```
-`  
+~~~ 
 Vulnerabilidades de segurança corrigidas no Firefox 80  
 Anunciado  
 25 de agosto de 2020  
@@ -146,22 +147,21 @@ Impacto
 Alto  
 Descrição  
 Os desenvolvedores da Mozilla, Jason Kratzer, Christian Holler, Byron Campen e Tyson Smith relataram bugs de segurança de memória presentes no Firefox 79 e Firefox ESR 78.1. Alguns desses bugs mostraram evidências de corrupção de memória e presumimos que, com esforço suficiente, alguns deles poderiam ter sido explorados para executar código arbitrário.  
-`  
+~~~
 
-```  
-
-### Download e atualização
+## Download e atualização
 
   
 No Ubuntu, Linux Mint e Fedora já é possível baixar o Firefox 80 diretamente pela atualização do próprio sistema, via repositório. No Debian não tem essa possibilidade, pois a mesma conta com o Firefox-ESR em seu repositório, e este está na versão 68.  
 Usuários do Windows, ou usuários Linux que que desejam instalar o pacote no formato [Flatpak](https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html), podem baixar nos links abaixo:  
   
-
+| Firefox 80 |
+:------: |:------:
 [ Windows](https://www.mozilla.org/firefox/download/thanks/) | [ Flatpak](https://flathub.org/apps/details/org.mozilla.firefox)
 
   
 
-### Referências
+## Referências
 
   
 [OMG! Ubuntu](https://www.omgubuntu.co.uk/2020/08/firefox-80-release-linux-gpu-acceleration/) e [Notas de lançamento do Firefox 80](https://www.mozilla.org/en-US/firefox/80.0/releasenotes/)

@@ -12,37 +12,29 @@ tags:
 
 Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.
 
-### Debian Buster
+<!--more-->
+
+## Debian Buster
 
   
 O Buster é a 10º versão do sistema operacional Debian e foi lançado no dia 06/07/2019, mais detalhes sobre seu lançamento em [Debian Buster é lançado oficialmente.](https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html)  
   
 
-### Download
+## Download
 
   
 Utilizarei como exemplo um Live CD com a versão padrão, que vem com a interface Gnome e pode ser baixado num dos links abaixo:  
   
 
-64 Bits _(amd64)_
+| | Download|
+:------: | :------: | :------:
+| | 64 Bits (amd64)|
+[ ISO](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.0.0-amd64-gnome.iso) | [ Torrent](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.0.0-i386-gnome.iso.torrent) | [Mais...](https://cdimage.debian.org/debian-cd/current-live/amd64/)
+| | 32 Bits (i386)|
+[ ISO](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.0.0-i386-gnome.iso) | [ Torrent](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.0.0-i386-gnome.iso.torrent) | [Mais...](https://cdimage.debian.org/debian-cd/current-live/i386/)
 
-[ ISO](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.0.0-amd64-gnome.isoo)
 
-[ Torrent](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.0.0-i386-gnome.iso.torrent)
-
-[Mais...](https://cdimage.debian.org/debian-cd/current-live/amd64/)
-
-32 Bits _(i386)_
-
-[ ISO](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.0.0-i386-gnome.iso)
-
-[ Torrent](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.0.0-i386-gnome.iso.torrent)
-
-[Mais...](https://cdimage.debian.org/debian-cd/current-live/i386/)
-
-  
-
-### Instalação
+## Instalação
 
   
 Após o download grave a ISO num CD/DVD ou Pendrive Bootável _(Utilizando o Yumi, Unetbootin, Universal USB Installer, Criador de Discos de Inicialização do Ubuntu...)_ .  
@@ -269,7 +261,7 @@ Após o login, enfim  temos o Debian Buster rodando normalmente.
 
   
 
-### Notas
+## Notas
 
 *   Utilizei uma configuração modesta de máquina virtual,pois o propósito era apenas de mostrar a instalação. Por este motivo a arquitetura de sistema utilizada como exemplo foi a de 32 bits
 *   Um detalhe importante que não mencionei: Neste caso, como estou utilizando uma máquina virtual, utilizei o disco _sda_ vazio e coloquei um disco _sdc_ que já tinha o Windows 7 instalado. Portanto: O Windows 7 não está no mesmo disco e o _sdc_ não é uma partição. Caso você possua apenas um disco e deseje separar os arquivos de usuário e um sistema operacional já instalado sugiro que primeiro faça numa máquina virtual para depois testar em seu dispositivo de uso diário, sob o risco de perder os dados nele contidos. A diferença está na configuração da máquina virtual para receber o sistema. Para particionar um disco veja [GParted, Particionador Gráfico](https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html).

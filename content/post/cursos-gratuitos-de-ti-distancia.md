@@ -8,7 +8,10 @@ categories:
 ---
 
 Esta dica é para quem te interesse em fazer algum curso na área de TI mas anda meio sem grana. São alguns cursos totalmente gratuitos oferecidos na modalidade "à distância".  
-  
+ 
+<!--more-->
+
+ 
 No site [www.brasilmaisti.com.br](http://www.brasilmaisti.com.br/) podemos encontrar cursos de lógica de programação e algoritmos em várias linguagens de programação, cursos de projetos de software, redes entre outros, ideal para alunos que estão entrando em faculdades de TI, ou para quem tem interesse de entrar, ou mesmo para estudantes que precisam aprimorar os conhecimentos e/ou conseguir pontos para atividades complementares.  
 Para realizar um destes cursos basta fazer um cadastro simples e escolher quais deseja fazer. Segue uma lista dos cursos que estão com inscrições abertas: [www.brasilmaisti.com.br/index.php/pt/realize/cursos](http://www.brasilmaisti.com.br/index.php/pt/realize/cursos/)
 

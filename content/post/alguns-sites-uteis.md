@@ -7,7 +7,9 @@ categories:
 - Dicas
 ---
 
-Hoje, trago uma dica com alguns sites de utilidade pública que, em algum momento, podem ser muito úteis para nos ajudar com diferentes tipos de serviços.  
+Hoje trago uma dica com alguns sites de utilidade pública que, em algum momento, podem ser muito úteis para nos ajudar com diferentes tipos de serviços.
+
+<!--more-->  
 
 [Reclame Aqui](http://www.reclameaqui.com.br/) -  É um serviço totalmente gratuito que  permite que consumidores registrem reclamações geralmente relacionadas à compra, venda, atendimentos prestados por empresas de produtos e serviços, mas também é possível reclamar de serviços públicos. Várias empresas estão cadastradas no site, o que facilita a comunicação entre o consumidor e a empresa. Também é possível ver um ranking das empresas mais e menos reclamadas, das que mais resolvem os problemas, das melhores e piores. Este ranking é gerado automaticamente  de acordo com a reputação alcançada.  
 O funcionamento é simples, o usuário faz um cadastro, faz sua reclamação e esta reclamação é enviada à empresa envolvida junto com os dados do usuário que reclamou. Os dados deste usuário ficam visíves somente para a empresa envolvida, enquanto a reclamação pode ser vista por todos. No final mostra se a empresa atendeu à relamação ou não, e se resolveu ou não.  

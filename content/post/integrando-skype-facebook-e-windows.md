@@ -10,6 +10,9 @@ tags:
 ---
 
 Nesta semana foi divulgado que a Microsoft encerrará o Windows Live Messenger (WLM) em 15 de Março de 2013 (Ler novidades no final do post). Desde que os primeiros anúncios foram feitos, em meados do ano passado, muitos usuários do Windows Live Messenger (antigo Msn Messenger) ficaram preocupados, com medo de perder seus contatos.  
+
+<!--more-->
+
 Isto não irá acontecer, pois a rede do Windows Live Messenger continuará funcionando, o que irá ocorrer é apenas o fim do software WLM, e ainda poderemos nos conectar utilizando outros softwares como o Pidgin, Amsn, Ebuddy... Mas o usuário que gosta dos softwares da Microsoft não ficará órfão de um cliente de bate papo capaz de conectar-se e utilizar os contatos do WLM já que a Microsoft havia comprado o Skype, e quem possui uma conta Microsoft (a mesma que utilizava para conectar-se ao WLM, Xbox, Windows Phone, Hotmail, Outlook.com) poderá utilizar o Skype para bater papo com seus contatos normalmente e ainda poderá integrar a conta do Facebook e utilizar o Skype para bater papo nas 3 redes (Skype, Facebook e WLM).  
 O objetivo desta dica é mostrar como se faz esta migração/integração de serviços e é um processo bem simples.O primeiro passo é [baixar o Skype para Windows](http://www.skype.com/intl/pt-br/get-skype/on-your-computer/windows/downloading/). Instale o programa e ao abrir surgirá a seguinte janela:  
 
@@ -49,7 +52,7 @@ Ainda em tempo: Para mostrar todos os contatos que estão on line das 3 redes fa
 
 [![integrar windows live messenger e skype](https://4.bp.blogspot.com/-hgsLwt2LiAI/UhFa72CaiQI/AAAAAAAAAYo/sueYkYHxN-A/s640/skype08.png "integrar windows live messenger e skype")](http://4.bp.blogspot.com/-hgsLwt2LiAI/UhFa72CaiQI/AAAAAAAAAYo/sueYkYHxN-A/s1600/skype08.png)
 
-### Últimas notícias
+#### Últimas notícias
 
   
 A Microsoft anunciou que os usuários brasileiros serão os últimos forçados a atualizar para o Skype. O processo de atualização iniciará em 8 de abril de 2013 e a última fase iniciará em 30 de abril de 2013 com os usuários do Brasil.  

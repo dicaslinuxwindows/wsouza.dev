@@ -5,9 +5,13 @@ draft: false
 url: /2020/10/lancamento-fedora-33.html
 categories:
 - Fedora
+tags:
+- Fedora 33
 ---
 
 No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.
+
+<!--more-->
 
 > _"Hoje, estou animado para compartilhar os resultados do trabalho árduo de milhares de colaboradores para o Projeto Fedora: nosso último lançamento, Fedora 33, está aqui! Este é um grande lançamento com muita mudança, mas acredito que todo esse trabalho também o tornará confortável, cumprindo nosso objetivo de trazer-lhe o mais recente software estável, poderoso e robusto de código livre e de código aberto em muitas ofertas fáceis de usar..."_
 
@@ -16,7 +20,7 @@ O anúncio acima foi publicado na [Fedora Magazine](https://fedoramagazine.org/a
 Conforme publicado na matéria [Fedora 33 Beta](https://info.wsouza.com.br/2020/10/fedora-33-beta.html), sabíamos que ainda neste mês seria lançado oficialmente o Fedora 33. A princípio seria no dia 21/10/2020, porém, acabou saindo no dia 27/10/2020.  
   
 
-### Notas de lançamento
+## Notas de lançamento
 
   
 Conforme adiantado na matéria que foi tratado da versão beta, o Fedora 33 viria com a nova versão do GNOME e com o sistema de arquivos BTRFS ativado como padrão.  
@@ -39,23 +43,15 @@ Além da confirmação destas duas situações, temos:
 
   
 
-### Download e instalação
+## Download e instalação
 
   
 Os links abaixo são do Fedora Workstation, que é a versão padrão e vem com ambiente GNOME. _Live_ é o modo de download onde a imagem baixada ser executada diretamente de um pendrive ou DVD, sem a necessidade de instalação. Ainda assim é possível instalar após o teste. _Netinstall_ é o modo de download onde a imagem baixada é um pouco menor, podendo caber num CD, ou pendrive. Tudo o que for necessário para a instalação será baixado no momento da mesma, portanto, você precisa estar conectado à internet. _Torrent_ é a maneira mais rápida de baixar a imagem Live.  
   
 
-Fedora 33 Wokstation X86\_64
-
-[ Live](https://download.fedoraproject.org/pub/fedora/linux/releases/33/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-33-1.2.iso)
-
-[ Netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/33/Server/x86_64/iso/Fedora-Server-netinst-x86_64-33-1.2.iso)
-
-[ Torrent](https://torrent.fedoraproject.org/torrents/Fedora-Workstation-Live-x86_64-33.torrent)
-
-[Mais...](https://alt.fedoraproject.org/)
-
-  
+| | Fedora 33 Wokstation X86-64 | |
+:------: |:------: | :------: | :------:
+[ Live](https://download.fedoraproject.org/pub/fedora/linux/releases/33/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-33-1.2.iso) | [ Netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/33/Server/x86_64/iso/Fedora-Server-netinst-x86_64-33-1.2.iso) | [ Torrent](https://torrent.fedoraproject.org/torrents/Fedora-Workstation-Live-x86_64-33.torrent) | [Mais...](https://alt.fedoraproject.org/)  
 
 #### Fedora Spins
 
@@ -71,52 +67,36 @@ Fedora Spins são o equivalente aos Flavours do Ubuntu, ou seja, são os "sabore
 [ Fedora 33 SOAS](https://spins.fedoraproject.org/pt_BR/soas/)  
   
 
-### Atualizando a partir do Fedora 32
+## Atualizando a partir do Fedora 32
 
   
 A sequência abaixo mostra como atualizar, por linha de comando e sem a necessidade de formatação.  
   
-1 - Execute o comando abaixo.  
+1. Execute o comando abaixo.  
   
+`sudo dnf upgrade --refresh`
 
+2. Reinicie o computador. Após reiniciar, instale o plugin de atualização.  
   
-
- sudo dnf upgrade --refresh
-
-  
-2 - Reinicie o computador. Após reiniciar, instale o plugin de atualização.  
-  
+`sudo dnf install dnf-plugin-system-upgrade`
 
   
-
- sudo dnf install dnf-plugin-system-upgrade
-
+3. Baixe os pacotes atualizados. Este processo pode demorar bastante, dependendo da velocidade da conexão com a internet.  
   
-3 - Baixe os pacotes atualizados. Este processo pode demorar bastante, dependendo da velocidade da conexão com a internet.  
-  
+`sudo dnf system-upgrade download --refresh --releasever=33`
 
-  
+4. O comando abaixo vai reiniciar o computador novamente. Após este processo o sistema ficará na tela de atualização e este processo poderá demorar. Seja paciente e aguarde.  
 
- sudo dnf system-upgrade download --refresh --releasever=33
-
-  
-4 - O comando abaixo vai reiniciar o computador novamente. Após este processo o sistema ficará na tela de atualização e este processo poderá demorar. Seja paciente e aguarde.  
-  
-
-  
-
- sudo dnf system-upgrade reboot
-
+`sudo dnf system-upgrade reboot`
   
 Ao reiniciar, o Fedora 33 já estará instalado.  
   
 **Fonte:** [https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/](https://docs.fedoraproject.org/en-US/quick-docs/dnf-system-upgrade/)  
   
 
-### Screenshots
+## Screenshots
 
   
-
 [![Lançamento Fedora 33 - Dicas Linux e Windows](https://1.bp.blogspot.com/-oucTH9vspG4/X5mVZWe2h4I/AAAAAAAAQtM/XnUfzwNbhaIqoDq6880GLla5n7kDt2sRQCNcBGAsYHQ/s600/01.png "Lançamento Fedora 33 - Dicas Linux e Windows")](https://1.bp.blogspot.com/-oucTH9vspG4/X5mVZWe2h4I/AAAAAAAAQtM/XnUfzwNbhaIqoDq6880GLla5n7kDt2sRQCNcBGAsYHQ/s1366/01.png)
 
 [![Lançamento Fedora 33 - Dicas Linux e Windows](https://1.bp.blogspot.com/-moM2NhlTMOI/X5mVZIuYqFI/AAAAAAAAQtE/05o6-MvtXvIWtgh6k7MPJ3BwAjNFo_9XgCNcBGAsYHQ/s600/02.png "Lançamento Fedora 33 - Dicas Linux e Windows")](https://1.bp.blogspot.com/-moM2NhlTMOI/X5mVZIuYqFI/AAAAAAAAQtE/05o6-MvtXvIWtgh6k7MPJ3BwAjNFo_9XgCNcBGAsYHQ/s1366/02.png)

@@ -5,10 +5,13 @@ draft: false
 url: /2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html
 categories: 
 - Ubuntu
+tags:
+- Ubuntu 32 bits
 ---
 
 Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.
 
+<!--more-->
   
 Na semana passada foi anunciado que o Ubuntu não teria suporte para pacotes na arquitetura 32 bits (i386, x86), conforme divulgado em [Fim do Ubuntu 32bits](https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html).  
 Porém, devido à pressões da comunidade, usuários, desenvolvedores e "parceiros", a empresa [soltou um comunicado oficial](https://blog.ubuntu.com/2019/06/24/statement-on-32-bit-i386-packages-for-ubuntu-19-10-and-20-04-lts) informando que a história não será bem assim.  
@@ -18,9 +21,8 @@ Mas esta "volta" não será completa . Segundo o que foi divulgado neste comunic
   
 Leia o comunicado na íntegra:  
   
-  
-
-_(Traduzido pelo Google Tradutor)_  
+**(Traduzido pelo Google Tradutor)**
+>_  
 _Declaração sobre pacotes i386 de 32 bits para o Ubuntu 19.10 e 20.04 LTS Canonical em 24 de junho de 2019 Tags: i386, Ubuntu_  
 _Graças à enorme quantidade de feedback deste fim de semana dos gamers, do Ubuntu Studio e da comunidade WINE, vamos mudar nosso plano e construir pacotes i386 de 32 bits selecionados para o Ubuntu 19.10 e 20.04 LTS._  
 _Vamos colocar em prática um processo de comunidade para determinar quais pacotes de 32 bits são necessários para suportar software legado, e podemos adicionar a essa lista pós-lançamento se perdermos algo que é necessário._  

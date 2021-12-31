@@ -11,9 +11,8 @@ tags:
 ---
 
 Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:
-
-  
-  
+ 
+<!--more-->
 
 Para criar este pendrive utilizaremos o Yumi, [disponível aqui](http://www.pendrivelinux.com/yumi-multiboot-usb-creator/), **apenas para Windows**. Se precisa criar uma Live USB e está utilizado um sistema Linux, veja como fazer em [3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux](https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html).  
 

@@ -13,12 +13,13 @@ tags:
 
 Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.
 
+<!--more-->
 
 O recurso de gravação de tela é muito utilizado por usuários que querem compartilhar tutoriais sobre aplicativos e jogos.  
 Quando falamos de gravação de tela existem várias opções de softwares, aplicativos. O VLC é um software que muitos usuários já utilizam para assistir vídeos e ouvir músicas mas ele é um poderoso software de mídia que inclui funções de gravação de vídeo, como a de gravar a tela do PC. É claro que existem softwares específicos e com mais recursos, mas o VLC é uma opção para quem deseja algo básico.  
   
 
-### Gravando a tela
+## Gravando a tela
 
 Abra o VLC e escolha no menu a opção _"Abrir Dispositivo de Captura_", conforme a imagem abaixo.  
   
@@ -72,13 +73,13 @@ Deixe a tela do VLC aberta em segundo plano e quando quiser interromper a grava�
 
 [![Como gravar a tela utilizando o VLC - Dicas Linux e Windows](https://2.bp.blogspot.com/-uHrJUtvkkKs/XU5U9gtLOeI/AAAAAAAAL9g/uYfspptxVXQ5a_r0HqKPP1wHCel-vvPgACLcBGAs/s1600/008.png "Como gravar a tela utilizando o VLC - Dicas Linux e Windows")](https://2.bp.blogspot.com/-uHrJUtvkkKs/XU5U9gtLOeI/AAAAAAAAL9g/uYfspptxVXQ5a_r0HqKPP1wHCel-vvPgACLcBGAs/s1600/008.png)
 
-### Obtendo o VLC
+## Obtendo o VLC
 
 O VLC Media Player está disponível para Windows e Linux e outras plataformas, inclusive em algumas distribuições Linux já vem instalado por padrão.  
 Para obtê-lo acesse [https://www.videolan.org/vlc/#download](https://www.videolan.org/vlc/#download) e escolha a opção referente ao seu sistema operacional. Você pode procurar no gerenciador de aplicativos da sua Distribuição Linux ou, se estiver utilizando Debian, Linux Mint ou Ubuntu instale com o comando **sudo apt install vlc**  
   
 
-### Notas
+## Notas
 
 1.  Esta dica foi testada no Windows e no Debian.
 2.  Veja no vídeo abaixo um pequeno exemplo de uma tela gravada pelo VLC.

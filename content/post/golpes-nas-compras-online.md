@@ -8,6 +8,8 @@ categories:
 ---
 
 Quando queremos comprar algum produto pelo internet devemos ficar muito atentos, pois estamos sujeitos à diversos tipos de golpe. Veja a seguir alguns exemplos.  
+
+<!--more-->
   
 Na última semana tenho percebido que no facebook há uma grande quantidade de postagens com ofertas inacreditáveis de aparelhos eletrônicos, aparentemente de grandes redes de lojas como Walmart, Ponto Frio e Americanas, entre outras.  
 Nem precisa de muito para perceber que trata-se de golpe.

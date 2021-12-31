@@ -9,7 +9,8 @@ tags:
 - Ccleaner
 ---
 
-Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.  
+Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.
+<!--more-->
   
 Um destes programas é o CCleaner, um utilitário gratuito que além de fazer a limpeza do registro também limpa os arquivos temporários que são dispensáveis e só servem para ocupar espaço no seu disco. Aqui mostraremos algumas funcionalidades importantes que com certeza vão otimizar o uso do seu computador com Windows.
 

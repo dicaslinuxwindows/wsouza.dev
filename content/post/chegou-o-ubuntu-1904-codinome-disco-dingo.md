@@ -12,14 +12,15 @@ tags:
 
 No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.
 
+<!--more-->
 
-### Sobre o Ubuntu
+## Sobre o Ubuntu
 
 O Ubuntu é desenvolvido por uma empresa chamada Canonical e é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux. Sua primeira versão foi lançada em 2004 e agora chega na versão 19.04 e terá suporte até janeiro de 2020. Saiba mais sobre o Ubuntu, seu suporte e ciclo de vida na matéria: [Ubuntu - Como funciona a política de seu ciclo de vida](https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html).
 
   
 
-### O que vem de novidades?
+## O que vem de novidades?
 
 Esta versão do Ubuntu é uma das 3 versões intermediárias lançadas entre uma versão LTS. Nestas versões são incluídos os softwares mais recentes e, de certa forma, funcionam como teste para o que será ou não será lançado na versão LTS. Dentre as novidades que chegam com o Ubuntu Disco Dingo estão:  
 
@@ -35,7 +36,7 @@ Esta versão do Ubuntu é uma das 3 versões intermediárias lançadas entre uma
 
   
 
-### Como obter o Ubuntu Disco Dingo?
+## Como obter o Ubuntu Disco Dingo?
 
 Há duas formas de obter o Ubuntu Disco Dingo: Por meio de atualização ou instalando do zero.  
 Para atualizar, deve-se estar utilizando uma versão anterior e utilizar o próprio atualizador do sistema.  
@@ -46,7 +47,7 @@ Também é possível testar pelo CD/DVD ou pendrive, sem necessidade de instala�
 
   
 
-### Links para download
+## Links para download
 
 Veja nos links abaixo como obter ISOS com outros todos os "sabores" _(interfaces)_ disponíveis:  
 [Ubuntu](https://www.ubuntu.com/download/desktop/thank-you?country=BR&version=19.04&architecture=amd64), versão padrão, com a interface Gnome.  
@@ -57,7 +58,7 @@ Veja nos links abaixo como obter ISOS com outros todos os "sabores" _(interfaces
 
   
 
-### Screenshots
+## Screenshots
 
 Como eu já tinha a versão 18.10 instalada, com a interface Lubuntu, apenas atualizei o sistema. Portanto, as telas abaixo são do Lubuntu, com a bela interface LXQT.  
   

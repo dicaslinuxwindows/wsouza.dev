@@ -5,12 +5,11 @@ draft: false
 url: /2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html
 categories:
 - Ubuntu
-tags: 
 ---
 
 Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.
 
-
+<!--more-->
 
 Uma das coisas mais legais do Ubuntu é o visual, e boa parte desta beleza visual deve-se às suas fontes.  
 Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como instalar em dois passos.  
@@ -19,18 +18,16 @@ Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como
 Abra o terminal e insira o comando:  
   
 
- wget -O ubuntufonts.tar.gz https://www.dropbox.com/s/ge12zkzsosfsc24/ubuntufonts.tar.gz?dl=1
+`wget -O ubuntufonts.tar.gz https://www.dropbox.com/s/ge12zkzsosfsc24/ubuntufonts.tar.gz?dl=1`
 
   
 ## 2º passo
 Ainda no terminal, primeiramente vamos criar a pasta _ubuntu-font_ dentro da pasta de fontes do sistema. Depois vamos descompactar o arquivo gerado anteriormente e movê-lo para a pasta criada.  
   
 
- sudo mkdir /usr/share/fonts/ubuntu-font/
+`sudo mkdir /usr/share/fonts/ubuntu-font/`
 
-  
-
- sudo tar -vzxf ubuntufonts.tar.gz -C /usr/share/fonts/ubuntu-font/
+`sudo tar -vzxf ubuntufonts.tar.gz -C /usr/share/fonts/ubuntu-font/`
 
   
 Pronto. As fontes estão instaladas.  
@@ -58,7 +55,8 @@ E deixe configurado como a imagem abaixo
 
 Se a ferramenta não estiver instalada instale-a:  
   
-sudo apt install gnome-tweak-tool  
+`sudo apt install gnome-tweak-tool`
+  
 No MATE a alteração é feita acessando o menu Aparência >> Fontes  
 Deixe como está na imagem abaixo, variando o tamanho da fonte de acordo com seu gosto.  
   

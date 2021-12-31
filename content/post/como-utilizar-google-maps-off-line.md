@@ -6,12 +6,14 @@ url: /2015/12/como-utilizar-google-maps-off-line.html
 categories:
 - Dicas
 - Android
-tags: 
-- Google Maps
-
 ---
 
-Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Funciona assim: O usuário pode baixar uma área do mapa para visualizar quando estiver sem conexão com a internet. Esta área baixada pode ser um bairro, cidade, estado, país, etc.. Quanto maior a área selecionada, maior será o tamanho do arquivo a ser baixado. Desta maneira o Google Maps pode ser utilizado com um navegador GPS, tornando-se um GPS off-line, muito útil para quem possui plano de dados limitado.  
+Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Veja mais detalhes na dica abaixo.
+ 
+<!--more-->
+
+
+Funciona assim: O usuário pode baixar uma área do mapa para visualizar quando estiver sem conexão com a internet. Esta área baixada pode ser um bairro, cidade, estado, país, etc.. Quanto maior a área selecionada, maior será o tamanho do arquivo a ser baixado. Desta maneira o Google Maps pode ser utilizado com um navegador GPS, tornando-se um GPS off-line, muito útil para quem possui plano de dados limitado.  
 Abaixo explicarei como baixar e utilizar o maps off-line.  
 
   

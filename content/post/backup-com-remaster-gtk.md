@@ -9,15 +9,14 @@ tags:
 - Remaster
 - Ferramentas Linux
 ---
-
   
 
 Iniciarei uma série de postagens sobre algumas ferramentas Linux.  
 E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
 
-  
+<!--more-->  
 
-#### 1 - O que é o Remaster-GTK?
+## O que é o Remaster-GTK?
 
   
 
@@ -26,7 +25,7 @@ No Remaster há versões para Debian e Ubuntu e a dica a seguir será mostrada c
 
   
 
-#### 2 - Instalação
+## Instalação
 
   
 
@@ -34,7 +33,7 @@ Baixe o Remaster Debian, e siga os passos para a instalação em: [https://linux
 
   
 
-#### 3 - Configuração e utilização
+## Configuração e utilização
 
   
 
@@ -42,7 +41,7 @@ Após instalado, você pode encontrá-lo no menu ou, se preferir, no terminal ex
 
   
 
-sudo remaster-gtk
+`sudo remaster-gtk`
 
   
 
@@ -110,8 +109,7 @@ Caso deseje apagar os arquivos gerados, utilize a opção Clear. **Mas cuidado!!
 [![Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows](https://2.bp.blogspot.com/-4O_0GBz3IVk/W00q4x-Z3qI/AAAAAAAAIkw/PKtwThUSWcERrnyrfSGCuVpp5EPAIvsSQCLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-27-00.png "Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows")](https://2.bp.blogspot.com/-4O_0GBz3IVk/W00q4x-Z3qI/AAAAAAAAIkw/PKtwThUSWcERrnyrfSGCuVpp5EPAIvsSQCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-27-00.png)
 
   
-
-#### 4 - Considerações finais.
+## Considerações finais
 
   
 

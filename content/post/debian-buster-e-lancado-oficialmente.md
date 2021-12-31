@@ -11,15 +11,16 @@ tags:
 
 O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.
 
+<!--more-->
 
-### Debian
+## Debian
 
   
 Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch  e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (_cachorro do  Andy, do filme Toy Story)_, que passa a ser a versão estável.  
 Para entender como funciona, e para mais informações sobre o Debian leia: [Debian - Curiosidades, informações, versões e ciclo de vida](https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html)  
   
 
-### Novidades e notas de lançamento
+## Novidades e notas de lançamento
 
   
 Conforme adiantado em matérias anteriores, O Debian Buster vem com algumas diferença em relação à seu antecessor. Algumas diferenças são naturais, relativas à atualizações de pacotes. Já outras são um pouco mais, digamos, radicais se comparado com a maneira que o Debian é trabalhado. Veja alguns exemplos:  
@@ -42,7 +43,7 @@ Outras novidades que chegam com o Buster:
 
   
 
-#### Notas de Lançamento
+## Notas de Lançamento
 
   
 
@@ -59,89 +60,27 @@ Outras novidades que chegam com o Buster:
 
   
 
-### Download
+## Download
 
   
-Para obter o Debian Buster faça o download da imagem Live que mais lhe agrade nos links abaixo _(em 64 bits):_  
+Para obter o Debian Buster faça o download da imagem Live que mais lhe agrade nos links abaixo:  
   
 
-amd64
-
-[ Gnome](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-gnome.iso)
-
-[ Plasma](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-kde.iso)
-
-[ XFCE](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce.iso)
-
-[ Mate](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-mate.iso)
-
-[ LXDE](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-lxde.iso)
-
-[ LXQT](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-lxqt.iso)
-
-[ Cinnamon](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-cinnamon.iso)
-
-[ Netinst](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.5.0-amd64-netinst.iso)
-
-i386
-
-[ Gnome](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-gnome.iso)
-
-[ Plasma](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-kde.iso)
-
-[ XFCE](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-xfce.iso)
-
-[ Mate](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-mate.iso)
-
-[ LXDE](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-lxde.iso)
-
-[ LXQT](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-lxqt.iso)
-
-[ Cinnamon](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-cinnamon.iso)
-
-[ Netinst](https://cdimage.debian.org/debian-cd/current/i386/iso-cd/debian-10.5.0-i386-netinst.iso)
-
-amd64 _(Torrent)_
-
-[ Gnome](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-gnome.iso.torrent)
-
-[ Plasma](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-kde.iso.torrent)
-
-[ XFCE](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-xfce.iso.torrent)
-
-[ Mate](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-mate.iso.torrent)
-
-[ LXDE](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-lxde.iso.torrent)
-
-[ LXQT](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-lxqt.iso.torrent)
-
-[ Cinnamon](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-cinnamon.iso.torrent)
-
-[ Netinst](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-standard.iso.torrent)
-
-i386 _(Torrent)_
-
-[ Gnome](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-gnome.iso.torrent)
-
-[ Plasma](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-kde.iso.torrent)
-
-[ XFCE](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-xfce.iso.torrent)
-
-[ Mate](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-mate.iso.torrent)
-
-[ LXDE](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-lxde.iso.torrent)
-
-[ LXQT](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-lxqt.iso.torrent)
-
-[ Cinnamon](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-cinnamon.iso.torrent)
-
-[ Netinst](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-standard.iso.torrent)
-
+| | | | Download| | | |
+:------: | :------: | :------: | :------: | :------: | :------: | :------: | :------:
+| | | | amd64| | | |
+[ Gnome](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-gnome.iso)| [ Plasma](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-kde.iso)| [ XFCE](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce.iso)|[ Mate](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-mate.iso)|[ LXDE](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-lxde.iso)|[ LXQT](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-lxqt.iso)|[ Cinnamon](https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-cinnamon.iso)|[ Netinst](https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-10.5.0-amd64-netinst.iso)
+| | | | i386| | | |
+[ Gnome](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-gnome.iso)| [ Plasma](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-kde.iso)| [ XFCE](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-xfce.iso)|[ Mate](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-mate.iso)|[ LXDE](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-lxde.iso)|[ LXQT](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-lxqt.iso)|[ Cinnamon](https://cdimage.debian.org/debian-cd/current-live/i386/iso-hybrid/debian-live-10.5.0-i386-cinnamon.iso)|[ Netinst](https://cdimage.debian.org/debian-cd/current/i386/iso-cd/debian-10.5.0-i386-netinst.iso)
+| | | | amd64 (Torrent)| | | |
+[ Gnome](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-gnome.iso.torrent)| [ Plasma](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-kde.iso.torrent)| [ XFCE](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-xfce.iso.torrent)|[ Mate](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-mate.iso.torrent)|[ LXDE](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-lxde.iso.torrent)|[ LXQT](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-lxqt.iso.torrent)|[ Cinnamon](https://cdimage.debian.org/debian-cd/current-live/amd64/bt-hybrid/debian-live-10.5.0-amd64-cinnamon.iso.torrent)|[ Netinst](https://cdimage.debian.org/debian-cd/current/amd64/bt-hybrid/debian-live-10.5.0-amd64-standard.iso.torrent)
+| | | | i386 (Torrent)| | | |
+[ Gnome](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-gnome.iso.torrent)| [ Plasma](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-kde.iso.torrent)| [ XFCE](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-xfce.iso.torrent)|[ Mate](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-mate.iso.torrent)|[ LXDE](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-lxde.iso.torrent)|[ LXQT](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-lxqt.iso.torrent)|[ Cinnamon](https://cdimage.debian.org/debian-cd/current-live/i386/bt-hybrid/debian-live-10.5.0-i386-cinnamon.iso.torrent)|[ Netinst](https://cdimage.debian.org/debian-cd/current/i386/bt-hybrid/debian-live-10.5.0-i386-standard.iso.torrent)
   
 Mais informações em [www.debian.org/distrib/](https://www.debian.org/distrib/).  
   
 
-### Instalação
+## Instalação
 
   
 Veja algumas maneiras de instalar o Debian Buster em seu dispositivo:  

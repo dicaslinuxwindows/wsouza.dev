@@ -7,7 +7,9 @@ categories:
 - Tutoriais
 ---
 
-[FlashGot](https://draft.blogger.com/flashgot.net/%E2%80%8E) é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. _O Flashgot não funciona no Firefox Quantum._  
+[FlashGot](https://draft.blogger.com/flashgot.net/%E2%80%8E) é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. _O Flashgot não funciona no Firefox Quantum.
+
+<!--more-->_  
   
 Uma função muito interessante do FlashGot é permitir o download direto de vídeos de sites como Youtube e outros sites de vídeos e músicas. Para isto basta prestar atenção no disquete que parece na barra de extensões do Firefox e, clicando lá abrirá uma janelinha para baixar o(s) arquivo(s) desejado(s).
 

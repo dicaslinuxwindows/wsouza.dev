@@ -10,6 +10,9 @@ tags:
 ---
 
 A dica de hoje vai para você, que está cansado de ver aquelas propagandas ou anúncios chatos em sites que você está navegando. Existe uma solução para resolver este problema em quase 100% (em alguns casos resolve 100% mesmo), o nome desta solução é Adblock Plus, uma extensão do Firefox e Google Chrome que, praticamente sem qualquer configuração adicional já deixa sua navegação livre de propagandas indesejadas.  
+
+<!--more-->
+
 Através de filtros pré-configurados ela permite que sejam bloqueados frames, adwares, banners, propagandas no Youtube, Gmail e Facebook e diversos outros tipos de propagandas invasivas. Também permite o bloqueio de alguns objetos em Flash e Java. Além dos filtros pré - configurados ela também permite o bloqueio para objetos que os filtros pré - configurados não foram capazes de bloquear (basta clicar com o botão direito em cima do objeto que deseja bloquear e escolher a opção de bloqueio) e também é possível ser ativada ou desativada para um site inteiro.
 
 O Adblock Plus é uma extensão indispensável para quem deseja uma visualização mais limpa e tranquila onde você pode aproveitar somente o conteúdo mais importante do site.

@@ -11,15 +11,16 @@ tags:
 
 Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.
 
+<!--more-->
 
-### Hirsute Hippo
+## Hirsute Hippo
 
   
 Como citado nas matérias anteriores sobre a versão 21.04, o nome Hirsute Hippo significa "Hipopótamo Peludo".  
 Esta será a segunda de 3 versões intermediárias que são lançadas entre cada versão LTS _(a primeira foi a 20.10 e a próxima será a 21.10)._ É uma versão estável e seu suporte terá duração de 9 meses, durando até janeiro de 2022, conforme o [ciclo de vida das versões do Ubuntu](https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html).  
   
 
-### Novidades
+## Novidades
 
   
 Não houve grandes mudanças em relação ao seu antecessor e algumas já foram adiantadas em matérias anteriores. Mas, de qualquer forma, algumas das principais novidades são:  
@@ -34,22 +35,15 @@ Não houve grandes mudanças em relação ao seu antecessor e algumas já foram 
 *   NetworkManager 1.30;
 *   Samba 4.13.3
 *   A integração do Active Directory foi melhorada.
+ 
 
-  
+## Download
 
-### Download
-
-  
 Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu e de alguns dos seus _"flavours" ou "sabores"_ oficiais. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha o "sabor" de sua preferência e faça o download.  
-  
 
-Ubuntu 21.04 - Hirsute Hippo
-
-[ Live](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso)
-[ Torrent](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso.torrent)
-[ Mais...](https://ubuntu.com/download)
-
-  
+| | Ubuntu 21.04 - Hirsute Hippo |
+:------: | :------: | :------:
+[ Live](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso) | [ Torrent](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso.torrent) | [ Mais...](https://ubuntu.com/download)
 
 #### Flavours:
 
@@ -63,40 +57,21 @@ Ubuntu 21.04 - Hirsute Hippo
 [ Ubuntu Budgie 21.04](https://ubuntubudgie.org/downloads/)  
   
 
-### Instalação ou atualização
-
-  
+## Instalação ou atualização
 
 #### Atualizar a partir do Ubuntu 20.10 - Groovy Gorilla
 
   
 Se você está utilizando atualmente a versão anterior, o Ubuntu 20.10 você pode atualizar para o Hirsute Hippo através da atualização do sistema, ou pelo terminal, que é o que será mostrado a seguir. Siga os passos abaixo:  
   
+*   Para ter certeza que a versão atual está com as atualizações mais recentes instaladas, no terminal, execute:
 
-*   Para ter certeza que a versão atual está com as atualizações mais recentes instaladas, no terminal, execute os comandos:
+`sudo apt update &&sudo apt upgrade`
 
-  
-
-  
-
-##### sudo apt update
-
-  
-  
-
-  
-
-##### sudo apt upgrade
-
-  
 
 *   Após atualizar, execute:
 
-  
-
-  
-
-#####  sudo do-release-upgrade -d
+`sudo do-release-upgrade -d`
 
   
 O comando anterior vai:  
@@ -110,15 +85,10 @@ O comando anterior vai:
 2.  Se não confirmar pode ser que seja preciso alterar os repositórios manualmente de _hirsute_ para _groovy_.  
     Neste caso, utilize o editor de texto que preferir _(joe gedit, kate, nano, vim, pluma...)_, e abra o arquivo sources.list com o comando abaixo:
 
-  
+`sudo joe /etc/apt/sources.list`
 
-#####  sudo _joe_ /etc/apt/sources.list
-
-  
 
 *   No arquivo aberto, faça as alterações solicitadas e salve o arquivo.
-
-  
 
 #### Executando a imagem _ISO_ num pendrive e instalando do zero
 
@@ -127,4 +97,4 @@ Primeiramente é necessário gravar num pendrive a imagem ISO baixada anteriorme
   
 O vídeo abaixo mostra o Hirsute Hippo sendo executado via pendrive e sendo instalado numa máquina sem outro sistema operacional instalado.
 
-[![Assista ao vídeo](https://img.youtube.com/vi/T-DW9jioJac/maxresdefault.jpg)](https://www.youtube.com/embed/T-DW9jioJac)
+[![Watch the video](https://img.youtube.com/vi/T-DW9jioJac/maxresdefault.jpg)](https://www.youtube.com/embed/T-DW9jioJac)

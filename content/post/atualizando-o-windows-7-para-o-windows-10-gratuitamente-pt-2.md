@@ -13,15 +13,13 @@ tags:
 
 Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.
 
-  
-  
-  
+<!--more--> 
 
 Na matéria anterior mostrei como atualizar o W7 para o W10 utilizando a ferramenta de atualização da Microsoft. A tal ferramenta dá 2 opções de atualização, sendo a primeira forma a que mostrei na matéria anterior, onde o W10 é baixado e instalado automaticamente no dispositivo onde estava instalado o W7. Nesta matéria vou mostrar a segunda opção oferecida pela ferramenta, que é a possibilidade da criação de uma mídia de instalação, sendo em DVD ou Pendrive, que possibilitará a instalação num outro dispositivo do W10 atualizado com a licença que pertencia ao W7.  
 Como esta matéria é uma continuação direta da [Atualizando o Windows 7 para o Windows 10 gratuitamente - Parte 1](https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html), serei mais objetivo em mostrar a criação da mídia.  
   
 
-### Como criar a mídia de instalação.
+## Como criar a mídia de instalação.
 
 *   Acesse, a partir do W7, o site de [download da ferramenta](https://www.microsoft.com/pt-br/software-download/windows10?ranMID=43674&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-dNM0_6BCl7IsYgp_bouV1w&epi=je6NUbpObpQ-dNM0_6BCl7IsYgp_bouV1w&irgwc=1&OCID=AID2000142_aff_7795_1243925&tduid=(ir__ukrhtqmlh9kft2gykk0sohzjx22xlugj0ywpggd100)(7795)(1243925)(je6NUbpObpQ-dNM0_6BCl7IsYgp_bouV1w)()&irclickid=_ukrhtqmlh9kft2gykk0sohzjx22xlugj0ywpggd100) e clique em Baixar a ferramenta agora.
 *   Após o download, execute o arquivo que foi baixado. O nome do arquivo será algo parecido com "MediaCreationTool1909".
@@ -50,9 +48,8 @@ Como esta matéria é uma continuação direta da [Atualizando o Windows 7 para 
 
 [![Atualizando o Windows 7 para o Windows 10 gratuitamente - Dicas Linux e Windows](https://4.bp.blogspot.com/-Ktmn6YYqr3I/XkYlZu2VZWI/AAAAAAAAN8Q/N-pGDhkL9bsd5YnyGkYq1N7yEFdypvQCACNcBGAsYHQ/s640/12.png "Atualizando o Windows 7 para o Windows 10 gratuitamente - Dicas Linux e Windows")](https://4.bp.blogspot.com/-Ktmn6YYqr3I/XkYlZu2VZWI/AAAAAAAAN8Q/N-pGDhkL9bsd5YnyGkYq1N7yEFdypvQCACNcBGAsYHQ/s1600/12.png)
 
-  
 
-### Instalando o sistema
+## Instalando o sistema
 
   
 Para instalar o sistema a partir da mídia criada deve-se prestar atenção em alguns detalhes:  
@@ -61,9 +58,7 @@ Para instalar o sistema a partir da mídia criada deve-se prestar atenção em a
 2.  A mídia gerada dá a opção de escolha da versão a ser instalada. As versões disponíveis são: _Home, Home Single Language, Education e Pro_. Recomendo a instalação da versão Pro.
 3.  O instalador também dá a opção de atualização ou apenas instalação. Para escolher a opção de atualização deve -se ter uma versão do W7 instalada no dispositivo, desta forma serão mantidas as configurações pessoais e aplicativos. Mas se estiver instalando num dispositivo novo escolha a opção "Personalizada".
 
-  
-
-### Considerações finais
+## Considerações finais
 
   
 Provavelmente a mídia gerada permitirá a utilização da licença em apenas um dispositivo, portanto, certifique-se de instalar o sistema no dispositivo que você pretende efetivamente utilizá-lo, sob risco de não conseguir ativar a licença num outro dispositivo.

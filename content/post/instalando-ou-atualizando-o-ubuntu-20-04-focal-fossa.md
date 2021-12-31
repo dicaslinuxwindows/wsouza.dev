@@ -11,6 +11,8 @@ tags:
 
 Após o [lançamento oficial do Ubuntu 20.04](https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html) vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
 
+<!--more-->
+
 Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:  
 
 *   Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal;
@@ -18,9 +20,8 @@ Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nes
 *   Instalar em uma máquina virtual;
 *   Executar em modo live.
 
-  
 
-### Atualizar a partir do Ubuntu 18.04 ou 19.10
+## Atualizar a partir do Ubuntu 18.04 ou 19.10
 
   
 Se você está utilizando atualmente o Ubuntu 18.04 _(Bionic Beaver)_ ou o Ubuntu 19.10 _(Eoan Ermine)_ você pode atualizar diretamente - mantendo os arquivos e configurações - seguindo os passos abaixo:  
@@ -28,10 +29,8 @@ Se você está utilizando atualmente o Ubuntu 18.04 _(Bionic Beaver)_ ou o Ubunt
 
 *   Tenha certeza que o a versão atual está com as últimas atualizações. No terminal, faça:
 
-  
-
- sudo apt update  
- sudo apt upgrade
+`sudo apt update`
+`sudo apt upgrade`
 
   
 
@@ -39,7 +38,7 @@ Se você está utilizando atualmente o Ubuntu 18.04 _(Bionic Beaver)_ ou o Ubunt
 
   
 
- sudo do-release-upgrade -d
+`sudo do-release-upgrade -d`
 
   
 O comando anterior vai:  
@@ -53,7 +52,7 @@ O comando anterior vai:
 2.  Caso não confirme _(N)_, pode ser que seja preciso alterar os repositórios manualmente de **focal para bionic** _(se você estava no 18.04)_ ou de **focal para eoan** _(se estava no 19.10)_. Nos testes que realizei não ocorreram problemas quando não confirmei a atualização.  
     Mas, caso ocorram problemas, utilize o editor de texto que preferir _(joe gedit, kate, nano, vi, pluma...)_, e abra o arquivo sources.list com o comando abaixo:
 
- sudo _joe_ /etc/apt/sources.list
+`sudo _joe_ /etc/apt/sources.list`
 
   
 
@@ -61,81 +60,23 @@ O comando anterior vai:
 
   
 
-### Download da ISO
+## Download da ISO
 
   
-Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu e de alguns dos seus _"flavours" ou "sabores"_ oficiais. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha a de sua preferência, grave num DVD ou Pendrive e desfrute .  
+Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu e de alguns dos seus _"flavours" ou "sabores"_ oficiais. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha a de sua preferência, grave num DVD ou Pendrive e desfrute.  
   
-  
+| | Focal Fossa | |
+:------: |:------: | :------: | :------:
+Ubuntu | [ Live](https://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso) | [ Torrent](http://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso.torrent) | [Mais...](https://ubuntu.com/download)  
+Kubuntu | [ Live](http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso.torrent) | [Mais...](https://kubuntu.org/getkubuntu/)
+Xubuntu | [ Live](http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso.torrent) | [Mais...](https://xubuntu.org/download)
+Ubuntu Mate | [ Live](http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso.torrent) | [Mais...](https://ubuntu-mate.org/download/)
+Lubuntu | [ Live](http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.torrent) | [Mais...](https://lubuntu.me/downloads/)
+Ubuntu Kylin | [ Live](http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso.torrent) | [Mais...](https://www.ubuntukylin.com/downloads/show.php?id=451&lang=en)
+Ubuntu Studio | [ Live](http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso.torrent) | [Mais...](https://ubuntustudio.org/download/)
+Ubuntu Budgie | [ Live](http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso.torrent) | [Mais...](https://ubuntubudgie.org/downloads/)
 
-Ubuntu
-
-[ Live](https://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso)
-
-[ Torrent](http://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso.torrent)
-
-[Mais...](https://ubuntu.com/download)
-
-Kubuntu
-
-[ Live](http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso)
-
-[ Torrent](http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso.torrent)
-
-[Mais...](https://kubuntu.org/getkubuntu/)
-
-Xubuntu
-
-[ Live](http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso)
-
-[ Torrent](http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso.torrent)
-
-[Mais...](https://xubuntu.org/download)
-
-Ubuntu Mate
-
-[ Live](http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso)
-
-[ Torrent](http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso.torrent)
-
-[Mais...](https://ubuntu-mate.org/download/)
-
-Lubuntu
-
-[ Live](http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso)
-
-[ Torrent](http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.torrent)
-
-[Mais...](https://lubuntu.me/downloads/)
-
-Ubuntu Kylin
-
-[ Live](http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso)
-
-[ Torrent](http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso.torrent)
-
-[Mais...](https://www.ubuntukylin.com/downloads/show.php?id=451&lang=en)
-
-Ubuntu Studio
-
-[ Live](http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso)
-
-[ Torrent](http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso.torrent)
-
-[Mais...](https://ubuntustudio.org/download/)
-
-Ubuntu Budgie
-
-[ Live](http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso)
-
-[ Torrent](http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso.torrent)
-
-[Mais...](https://ubuntubudgie.org/downloads/)
-
-  
-  
-
-### Executar em modo live
+## Executar em modo live
 
   
 Essa opção permite utilizar o Ubuntu sem precisar instalar. O sistema é executado pelo Pendrive/DVD e "descarregado" na memória RAM.  
@@ -156,21 +97,18 @@ Essa opção permite utilizar o Ubuntu sem precisar instalar. O sistema é execu
 
   
 
-### Instalar com um Live DVD/USB
+## Instalar com um Live DVD/USB
 
   
 
 *   O vídeo abaixo mostra a instalação normal do Ubuntu num computador que não possui nenhum outro sistema, ou seja, sem dual boot e aproveitando o disco todo com particionamento automático. No vídeo a instalação foi iniciada após entrar no modo live, mas a instalação também pode ser iniciada sem entrar no live. Para isto, basta escolher a opção "Instalar o Ubuntu", mostrada no menu que aparece ao iniciar.
 
-  
-
-  
-
 *   Já no vídeo abaixo, foi utilizada a instalação lado a lado com o Windows 10, ou seja, o Ubuntu e Windows 10 instalados no mesmo disco, em **dual boot**. Neste tipo de instalação, o instalador do Ubuntu cria uma partição a partir do espaço vazio no disco e separa a partição do Windows. Após, ocorre a instalação do Ubuntu.
 
+[![Watch the video](https://img.youtube.com/vi/pZm-xxZbLRI/maxresdefault.jpg)](https://www.youtube.com/embed/pZm-xxZbLRI)
   
 
-### Instalar em uma Máquina Virtual
+## Instalar em uma Máquina Virtual
 
   
 Se deseja instalar o Focal Fossa, mas nunca fez antes e tem medo de comprometer seus arquivos, tente [instalar o sistema em uma máquina virtual](https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html).

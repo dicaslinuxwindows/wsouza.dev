@@ -11,7 +11,9 @@ tags:
 
 Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.
 
-### Fedora
+<!--more-->
+
+## Fedora
 
   
 É a primeira vez que falo alguma coisa sobre o Fedora aqui no blog. Como de costume, só falo aqui sobre sistemas e aplicativos que utilizo, e o motivo de nunca ter falado sobre o Fedora era exatamente por nunca tê-lo utilizado. Esta situação mudou há alguns meses, quando resolvi instalar a versão 32 por curiosidade.  
@@ -27,7 +29,7 @@ Alguns pontos a destacar:
 
   
 
-### Fedora 33 Beta
+## Fedora 33 Beta
 
   
 Após uma breve introdução, vamos ao motivo principal desta matéria, que é o lançamento do beta da versão 33. Ainda neste mês será lançada a versão final, provavelmente no dia 20/10/2020. Porém, quem se interessar já pode baixar e instalar a versão beta. Seguem alguns destaques desta versão:  
@@ -42,31 +44,25 @@ Após uma breve introdução, vamos ao motivo principal desta matéria, que é o
 
   
 
-#### Download
+## Download
 
   
 Baixe e instale o Fedora 33 Beta. Note que é uma versão de testes, sujeita à bugs. Se você instalar esta versão, não será necessário um novo download quando a versão final for lançada, pois basta manter esta versão atualizada. Os links abaixo apontam para a versão Workstation e uma instalação de rede, Netinstall.  
   
 
-Fedora 33 Beta
 
-[ Workstation](https://download.fedoraproject.org/pub/fedora/linux/releases/test/33_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-33_Beta-1.3.iso)
+ |Fedora 33 Beta | |
+:------: | :------: | :------:
+[ Workstation](https://download.fedoraproject.org/pub/fedora/linux/releases/test/33_Beta/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-33_Beta-1.3.iso) | [ Netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/test/33_Beta/Everything/x86_64/iso/Fedora-Everything-netinst-x86_64-33_Beta-1.3.iso) | [Mais...](https://getfedora.org/workstation/download/)
 
-[ Netinstall](https://download.fedoraproject.org/pub/fedora/linux/releases/test/33_Beta/Everything/x86_64/iso/Fedora-Everything-netinst-x86_64-33_Beta-1.3.iso)
-
-[Mais...](https://getfedora.org/workstation/download/)
-
-  
-
-#### Fedora 33 em funcionamento
+## Fedora 33 em funcionamento
 
   
 O vídeo abaixo mostra o Fedora 33 Beta em funcionamento:  
   
-[video](https://www.youtube.com/embed/VjrA-95GH-I)
   
-
-### Considerações finais
+[![Watch the video](https://img.youtube.com/vi/VjrA-95GH-I.jpg)](https://www.youtube.com/embed/VjrA-95GH-I)
+## Considerações finais
 
   
 Meu primeiro contato com o "mundo Linux" foi lá em 2004/2005 com o antigo Conectiva Linux, que utilizava pacotes _.rpm_. Este contato durou muito pouco tempo e depois passei a utilizar apenas distribuições baseadas no Debian. Para que está acostumado com os pacotes _.deb_ e comando _apt_, pode ser um pouco estranho no começo, mas nada demais. Confesso que a experiência vem sendo bem interessante e pretendo falar mais vezes por aqui sobre o Fedora.

@@ -10,9 +10,9 @@ tags:
 ---
 
 Você sabia que a internet possui um arquivo? Sim, existe um site que registra as páginas iniciais de vários sites na internet desde 2006 e também registra outros tipos de conteúdo relacionados com a internet.  
-  
-  
-  
+
+<!--more-->
+
 O Internet Archive: Wayback Machine é um arquivo da internet. Nele podemos acessar as páginas principais de vários sites em várias épocas. O endereço é [http://archive.org/web/web.php](http://archive.org/web/web.php) e sua utilização é simples, basta digitar o endereço do site e clicar em "Take me back" depois é só navegar. É interessante ver como portais ou sites, que são gigantes hoje em dia, eram por volta do ano 2000.  
 Vejamos um exemplo:  
 Quem lembra de uma das primeiras "caras" do google.com?  

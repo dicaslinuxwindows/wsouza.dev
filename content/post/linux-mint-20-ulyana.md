@@ -9,11 +9,12 @@ categories:
 
 Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.
 
+<!--more-->
 
 Quando se trata de distribuições baseadas no Kernel Linux, geralmente tenho o hábito de falar e utilizar como exemplo o Debian e Ubuntu, pois são as distribuições que geralmente utilizo. Como a ideia principal do blog é falar sobre assuntos e situações que encontro no dia-a-dia como usuário, acabo não tendo muito o que falar sobre outras distribuições. O Linux Mint é uma das poucas distribuições que eu já citei aqui, ou fiz alguma matéria em que havia alguma dica que se encaixava para ela. Mas esta matéria será a primeira dedicada ao Mint e por este motivo, vou fazer uma breve apresentação da mesma aqui no blog _(por mais que muitos dos leitores já a conheçam, ou tenham ouvido falar nela)_.  
   
 
-### Sobre o Linux Mint
+## Sobre o Linux Mint
 
   
 O Linux Mint é uma distribuição Irlandesa com projeto concebido por Clément Lefèbvre, baseada no Ubuntu e desenvolvida pelo Linux Mint Team. Sua primeira versão foi lançada em 2006 e desde 2008 cada versão é baseada na versão LTS do Ubuntu, ou seja, as versões teoricamente podem ser lançadas a cada 2 anos. O suporte de cada versão dura 5 anos.  
@@ -21,7 +22,7 @@ O Linux Mint é uma distribuição Irlandesa com projeto concebido por Clément 
 Assim como o Debian e Ubuntu, cada versão do Linux Mint possui um codinome, sendo sempre um nome de mulher. Além da versão baseada no Ubuntu possui uma versão baseada no Debian, chamada de Linux Mint Debian Edition, ou LMDE.  
   
 
-### Linux Mint 20 - Previsão de lançamento e destaques
+## Linux Mint 20 - Previsão de lançamento e destaques
 
   
 
@@ -35,7 +36,7 @@ Assim como o Debian e Ubuntu, cada versão do Linux Mint possui um codinome, sen
 
   
 
-### Considerações finais
+## Considerações finais
 
   
 Para mais novidades sobre o Linux Mint Ulyana vamos ter que aguardar as próximas semanas, principalmente a partir do lançamento do Ubuntu 20.04.  
