@@ -5,6 +5,7 @@ draft: false
 url: /2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html
 categories: 
 - Tutoriais
+socialshare: true
 ---
 
 Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.  

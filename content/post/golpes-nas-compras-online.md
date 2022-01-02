@@ -5,6 +5,7 @@ draft: false
 url: /2017/03/golpes-nas-compras-online.html
 categories: 
 - Dicas
+socialshare: true
 ---
 
 Quando queremos comprar algum produto pelo internet devemos ficar muito atentos, pois estamos sujeitos à diversos tipos de golpe. Veja a seguir alguns exemplos.  

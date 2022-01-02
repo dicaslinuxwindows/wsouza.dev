@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 20.04
+socialshare: true
 ---
 
 Saiu oficialmente a nova versão de uma das distribuições Linux mais populares, o Ubuntu em sua versão 20.04 LTS, com suporte de longo prazo. Veja nesta matéria as notas de lançamento.

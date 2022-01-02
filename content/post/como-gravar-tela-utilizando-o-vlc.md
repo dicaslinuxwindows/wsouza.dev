@@ -9,6 +9,7 @@ categories:
 - Windows
 tags: 
 - VLC
+socialshare: true
 ---
 
 Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.

@@ -10,6 +10,7 @@ categories:
 - Ubuntu
 tags: 
 - Microsoft Edge
+socialshare: true
 ---
 
 A Microsoft liberou o seu navegador para Linux, o Microsoft Edge, para download no canal de desenvolvedores. Mais detalhes na matéria a seguir.

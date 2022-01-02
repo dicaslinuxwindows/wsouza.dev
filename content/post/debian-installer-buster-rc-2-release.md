@@ -7,6 +7,7 @@ categories:
 - Debian
 tags: 
 - Debian Buster
+socialshare: true
 ---
 
 Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.

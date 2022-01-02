@@ -8,6 +8,7 @@ categories:
 - Windows
 tags: 
 - Paint
+socialshare: true
 ---
 
 Conheça o JSPaint, um site web que traz a experiência do uso do MS Paint Clássico. Aparentemente todas as funções presentes no aplicativo clássico estão disponíveis e o JSPaint ainda apresenta algumas funções extras. A seguir vamos conhecer um pouco mais sobre o JSPaint. 

@@ -10,6 +10,7 @@ categories:
 - Ubuntu
 tags: 
 - GNOME
+socialshare: true
 ---
 
 Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.

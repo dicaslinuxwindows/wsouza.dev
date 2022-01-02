@@ -5,6 +5,7 @@ draft: false
 url: /2013/04/descobrir-telefone.html
 categories: 
 - Dicas
+socialshare: true
 ---
 
 Antes da portabilidade era muito fácil saber de qual operadora era um telefone fixo ou um celular, mas após a portabilidade ficou difícil saber. Quando queremos aproveitar as promoções de uma operadora muitas vezes ficamos com medo de ligar para um número e este número ser da operadora Y e o seu é da operadora X e, se nos perdemos no tempo da ligação, os créditos acabarão rapidamente.  

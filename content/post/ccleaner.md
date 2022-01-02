@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Ccleaner
+socialshare: true
 ---
 
 Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.

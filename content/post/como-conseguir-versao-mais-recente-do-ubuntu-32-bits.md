@@ -8,6 +8,7 @@ categories:
 - Tutoriais
 tags:
 - Ubuntu 32 bits
+socialshare: true
 ---
 
 As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para "rodar" as últimas versões do Ubuntu em 32 bits?  

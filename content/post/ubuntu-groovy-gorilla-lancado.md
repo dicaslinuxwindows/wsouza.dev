@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 20.10
+socialshare: true
 ---
 
 Os desenvolvedores do Ubuntu anunciam o lançamento do Ubuntu 20.10 Groovy Gorilla. Veja a seguir como baixar e instalar.

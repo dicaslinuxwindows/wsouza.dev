@@ -11,6 +11,7 @@ categories:
 - Ubuntu
 tags: 
 - Máquina Virtual
+socialshare: true
 ---
 
 Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.

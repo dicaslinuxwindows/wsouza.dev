@@ -10,6 +10,7 @@ categories:
 - Windows
 tags: 
 - Sis Mirage 3 Graphics
+socialshare: true
 ---
 
 Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.

@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Arquivo da Internet
+socialshare: true
 ---
 
 Você sabia que a internet possui um arquivo? Sim, existe um site que registra as páginas iniciais de vários sites na internet desde 2006 e também registra outros tipos de conteúdo relacionados com a internet.  

@@ -8,6 +8,7 @@ categories:
 tags: 
 - Yaru
 - Libre Office
+socialshare: true
 ---
 
 A mais recente versão do LibreOffice traz uma novidade. Trata-se do tema de ícones Yaru, que foi disponibilizado o LibreOffice. Mais detalhes na matéria abaixo.

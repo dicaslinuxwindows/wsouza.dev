@@ -10,6 +10,7 @@ categories:
 - Linux Mint
 tags: 
 - Yaru
+socialshare: true
 ---
 
 Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.

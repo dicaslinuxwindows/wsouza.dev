@@ -8,6 +8,7 @@ categories:
 tags: 
 - Recuperar Grub
 - Ferramentas Linux
+socialshare: true
 ---
 
 Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.

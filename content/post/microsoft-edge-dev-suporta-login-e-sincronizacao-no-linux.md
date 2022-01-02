@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Microsoft Edge
+socialshare: true
 ---
 
 Em tempo: Na última semana a versão Linux do Microsoft Edge passou a suportar login e sincronização entre dispositivos, algo que ainda não era permitido. Veja nesta matéria como ativar.

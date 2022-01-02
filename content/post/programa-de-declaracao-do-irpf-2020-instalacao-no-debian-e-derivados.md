@@ -7,6 +7,7 @@ categories:
 - Tutoriais
 tags: 
 - IRPF
+socialshare: true
 ---
 
 A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo _.BIN_ e o Java Oracle.

@@ -7,6 +7,7 @@ categories:
 - Windows
 tags: 
 - Windows 8
+socialshare: true
 ---
 
 O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua [política de ciclo de vida](https://support.microsoft.com/pt-br/lifecycle), a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.

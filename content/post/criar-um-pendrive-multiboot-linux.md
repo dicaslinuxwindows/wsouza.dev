@@ -8,6 +8,7 @@ categories:
 - Windows
 tags: 
 - Pendrive Multiboot
+socialshare: true
 ---
 
 Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:

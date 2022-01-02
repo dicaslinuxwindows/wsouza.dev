@@ -6,6 +6,7 @@ url: /2016/11/nunca-mais-perca-seus-contatos-do-celular.html
 categories: 
 - Dicas
 - Android
+socialshare: true
 ---
 
 Não corra risco de perder seus contatos, armazene-os online e mantenha-os sincronizados com seu smartphone. Veremos como é fácil fazer isto utilizando uma conta Google num smartphone Android.  

@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Armazenamento na Nuvem
+socialshare: true
 ---
 
 _Atualizado em 04/11/2014_  

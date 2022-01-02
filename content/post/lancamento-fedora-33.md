@@ -7,6 +7,7 @@ categories:
 - Fedora
 tags:
 - Fedora 33
+socialshare: true
 ---
 
 No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.

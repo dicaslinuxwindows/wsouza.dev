@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags:
 - Ubuntu 32 bits
+socialshare: true
 ---
 
 Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir. 

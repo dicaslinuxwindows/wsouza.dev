@@ -9,6 +9,7 @@ categories:
 - Tutoriais
 tags: 
 - Sis Mirage 3 Graphics
+socialshare: true
 ---
 
 Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que [quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior.](http://info.wsouza.com.br/2013/04/sis-mirage3.html) O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente. Veja a seguir:

@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Firefox
+socialshare: true
 ---
 
 A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.

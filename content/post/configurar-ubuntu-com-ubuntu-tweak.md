@@ -6,6 +6,7 @@ url: /2015/04/configurar-ubuntu-com-ubuntu-tweak.html
 categories: 
 - Dicas
 - Ubuntu
+socialshare: true
 ---
 
 O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.  

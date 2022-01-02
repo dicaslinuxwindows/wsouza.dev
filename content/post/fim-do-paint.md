@@ -8,6 +8,7 @@ categories:
 - Windows
 tags: 
 - Paint
+socialshare: true
 ---
 
 Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer...  

@@ -5,6 +5,7 @@ draft: false
 url: /2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html
 categories:
 - Dicas
+socialshare: true
 ---
 
 Google antecipa o fim do Google+ após um novo vazamento de dados. Quem curte a já considerada finada rede social, terá que se despedir dela antes do que estava previsto inicialmente. Leia mais detalhes a seguir.

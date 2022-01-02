@@ -7,6 +7,7 @@ categories:
 - Debian
 tags: 
 - Debian Bullseye
+socialshare: true
 ---
 
 O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.

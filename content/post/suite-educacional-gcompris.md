@@ -7,6 +7,7 @@ tags:
 - GCompris
 categories:
 - Educacional
+socialshare: true
 ---
 
 GCompris é uma suíte educacional que oferece atividades para crianças partir dos 2 anos de idade. Na versão que será apresentada aqui possui mais de 141 atividades.

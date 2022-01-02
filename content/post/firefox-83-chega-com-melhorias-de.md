@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Firefox
+socialshare: true
 ---
 
 Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.

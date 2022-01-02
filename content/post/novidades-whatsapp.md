@@ -8,6 +8,7 @@ categories:
 - Android
 tags: 
 - WhatsApp
+socialshare: true
 ---
 
 Nos últimos dias surgiram algumas notícias sobre o WhatsApp. Mais detalhes a seguir.

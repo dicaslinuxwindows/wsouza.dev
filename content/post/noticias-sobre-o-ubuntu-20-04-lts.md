@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 20.04
+socialshare: true
 ---
 
 O Ubuntu 20.04 LTS será lançado em abril. Nos últimos dias saíram muitas notícias a respeito de seu lançamento. Confira a seguir.

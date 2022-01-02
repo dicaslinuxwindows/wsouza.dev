@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 20.10
+socialshare: true
 ---
 
 

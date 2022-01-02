@@ -3,11 +3,11 @@ title: 'Lançada a 5º atualização do Debian Buster'
 date: 2020-08-01T22:51:00.000-03:00
 draft: false
 url: /2020/08/lancada-5-atualizacao-do-debian-buster.html
-
 categories:
 - Debian
 tags: 
 - Debian Buster
+socialshare: true
 ---
 
 Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.

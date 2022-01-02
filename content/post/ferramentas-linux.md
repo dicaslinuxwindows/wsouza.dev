@@ -7,6 +7,7 @@ categories:
 - Tutoriais
 tags: 
 - Ferramentas Linux
+socialshare: true
 ---
 
 Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.

@@ -8,6 +8,7 @@ categories:
 - Tutoriais
 tags: 
 - Debian Buster
+socialshare: true
 ---
 
 Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.

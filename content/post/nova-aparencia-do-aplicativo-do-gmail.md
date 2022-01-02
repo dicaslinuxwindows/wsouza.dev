@@ -7,6 +7,7 @@ categories:
 - Android
 tags: 
 - Gmail
+socialshare: true
 ---
 
 Em breve o aplicativo do Gmail terá novidades na sua interface. Confira a seguir quais são estas novidades.

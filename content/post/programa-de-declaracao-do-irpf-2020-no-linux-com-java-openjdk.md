@@ -8,6 +8,7 @@ tags:
 - Java
 categories:
 - Tutoriais
+socialshare: true
 ---
 
 Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato _.BIN_, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.  

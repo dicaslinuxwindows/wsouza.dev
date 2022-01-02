@@ -7,6 +7,7 @@ categories:
 - Android
 tags: 
 - WhatsApp
+socialshare: true
 ---
 
 Recentemente o WhatsApp anunciou uma série de medidas que visam mais segurança - diminuindo a chance de golpes - e transparência para o aplicativo.  

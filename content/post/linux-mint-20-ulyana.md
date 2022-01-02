@@ -5,6 +5,7 @@ draft: false
 url: /2020/04/linux-mint-20-ulyana.html
 categories: 
 - Linux Mint
+socialshare: true
 ---
 
 Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.

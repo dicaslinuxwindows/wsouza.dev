@@ -5,6 +5,7 @@ draft: false
 url: /2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html
 categories: 
 - Ubuntu
+socialshare: true
 ---
 
 Saiu o cronograma de lançamentos da próxima versão do Ubuntu, a 16.04 que será chamada de Xenial Xerus (Algo tipo "Esquilo simpático, amistoso").  

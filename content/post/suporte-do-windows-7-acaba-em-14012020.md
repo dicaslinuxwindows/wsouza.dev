@@ -7,6 +7,7 @@ tags:
 - Windows 7
 categories:
 - Windows
+socialshare: true
 ---
 
 Conforme anunciado no ano passado, a Microsoft deixará de fornecer atualizações de segurança gratuitas para o Windows 7 em janeiro de 2020. Saiba mais a seguir.

@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 20.04
+socialshare: true
 ---
 
 Após o [lançamento oficial do Ubuntu 20.04](https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html) vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.

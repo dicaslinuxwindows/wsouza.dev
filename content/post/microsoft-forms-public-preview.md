@@ -5,6 +5,7 @@ draft: false
 url: /2019/01/microsoft-forms-public-preview.html
 categories: 
 - Dicas
+socialshare: true
 ---
 
 Com o Microsoft Forms Public Preview é possível criar formulários e questionários de maneira fácil, prática e com fácil análise de resultados.  

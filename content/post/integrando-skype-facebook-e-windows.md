@@ -7,6 +7,7 @@ categories:
 - Tutoriais
 tags: 
 - Redes Sociais
+socialshare: true
 ---
 
 Nesta semana foi divulgado que a Microsoft encerrará o Windows Live Messenger (WLM) em 15 de Março de 2013 (Ler novidades no final do post). Desde que os primeiros anúncios foram feitos, em meados do ano passado, muitos usuários do Windows Live Messenger (antigo Msn Messenger) ficaram preocupados, com medo de perder seus contatos.  

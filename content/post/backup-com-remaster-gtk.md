@@ -8,6 +8,7 @@ categories:
 tags: 
 - Remaster
 - Ferramentas Linux
+socialshare: true
 ---
   
 

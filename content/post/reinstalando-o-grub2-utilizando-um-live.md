@@ -8,6 +8,7 @@ tags:
 categories:
 - Ubuntu
 - Tutoriais
+socialshare: true
 ---
 
 Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.  

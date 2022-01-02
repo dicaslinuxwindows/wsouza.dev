@@ -9,6 +9,7 @@ categories:
 tags: 
 - Windows 7
 - Windows 10
+socialshare: true
 ---
 
 Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.

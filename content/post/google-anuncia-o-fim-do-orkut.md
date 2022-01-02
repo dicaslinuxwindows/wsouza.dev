@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Redes Sociais
+socialshare: true
 ---
 
 Fim? Mas o Orkut já não estava morto?  

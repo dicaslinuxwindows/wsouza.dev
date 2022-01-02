@@ -9,6 +9,7 @@ categories:
 tags: 
 - Windows 7
 - Windows 10
+socialshare: true
 ---
 
 Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.

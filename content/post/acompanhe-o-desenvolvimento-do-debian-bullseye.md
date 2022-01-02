@@ -7,6 +7,7 @@ categories:
 - Debian
 tags: 
 - Debian Bullseye
+socialshare: true
 ---
 
 O Debian 11, que será chamado de Bullseye, está na "fase" testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.

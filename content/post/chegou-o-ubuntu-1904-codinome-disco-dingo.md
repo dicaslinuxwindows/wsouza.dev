@@ -7,7 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 19.04
-
+socialshare: true
 ---
 
 No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.

@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Microsoft Edge
+socialshare: true
 ---
 
 Depois de um bom tempo sem se pronunciar a respeito do Microsoft Edge para Linux, a Microsoft divulgou uma data de lançamento para uma versão prévia do mesmo. Saiba mais na matéria abaixo.

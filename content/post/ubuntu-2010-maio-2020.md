@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 20.10
+socialshare: true
 ---
 
 O Ubuntu 20.10 já está em desenvolvimento. Veja nesta matéria o que já temos de informações sobre ele até o mês de maio de 2020.

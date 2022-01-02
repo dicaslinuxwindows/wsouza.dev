@@ -8,6 +8,7 @@ categories:
 - Android
 tags: 
 - Firefox
+socialshare: true
 ---
 
 O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.

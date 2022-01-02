@@ -7,6 +7,7 @@ categories:
 - Tutoriais
 tags: 
 - Java
+socialshare: true
 ---
 
 A Oracle acabou de lançar a versão 15 do Java SE. Veja aqui como baixar, instalar e configurar esta versão e as posteriores no Debian, Ubuntu e derivados.

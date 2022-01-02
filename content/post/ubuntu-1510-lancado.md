@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 15.10
+socialshare: true
 ---
 
   

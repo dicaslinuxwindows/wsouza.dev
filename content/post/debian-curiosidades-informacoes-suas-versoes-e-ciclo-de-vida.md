@@ -6,6 +6,7 @@ url: /2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html
 categories:
 - Debian
 - Artigos
+socialshare: true
 ---
 
 Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.

@@ -7,6 +7,7 @@ categories:
 - Fedora
 tags: 
 - Fedora 33
+socialshare: true
 ---
 
 Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.

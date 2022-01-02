@@ -8,6 +8,7 @@ categories:
 - Windows
 tags: 
 - Microsoft Edge
+socialshare: true
 ---
 
 Microsoft anuncia que a nova versão do navegador Edge será baseado no Chromium. Será que o reinado do Google Chrome está ameaçado? Confira os detalhes a seguir.

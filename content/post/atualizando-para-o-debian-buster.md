@@ -8,6 +8,7 @@ categories:
 - Tutoriais
 tags: 
 - Debian Buster
+socialshare: true
 ---
 
 Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.

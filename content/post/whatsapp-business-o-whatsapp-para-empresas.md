@@ -8,7 +8,7 @@ categories:
 - Tutoriais
 tags: 
 - WhatsApp
-
+socialshare: true
 ---
 
 Recentemente foi lançado o WhatsApp Business, uma versão do mensageiro voltado à empresas. Esta versão do mensageiro facilita a interação entre a empresa e o cliente.  

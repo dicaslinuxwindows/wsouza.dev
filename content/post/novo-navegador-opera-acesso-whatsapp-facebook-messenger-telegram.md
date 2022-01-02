@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Redes Sociais
+socialshare: true
 ---
 
 Há pouco tempo foi lançada a nova versão do navegador Opera, a 45. Esta versão traz algumas novidades que tornam o navegador mais interessante ainda, veja a seguir.  

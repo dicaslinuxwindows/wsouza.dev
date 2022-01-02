@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 20.04
+socialshare: true
 ---
 
 No dia 02/04/2020 saiu a versão beta do Ubuntu 20.04 Focal Fossa. Veja nesta matéria o que falta para a versão final e como obter esta versão.

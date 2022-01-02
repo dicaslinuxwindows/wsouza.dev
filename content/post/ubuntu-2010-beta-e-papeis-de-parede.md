@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 20.10
+socialshare: true
 ---
 
 Nos últimos dias foram disponibilizados os papéis de parede oficiais e a versão beta do Ubuntu 20.10 - Groovy Gorilla . Mais detalhes na matéria abaixo.

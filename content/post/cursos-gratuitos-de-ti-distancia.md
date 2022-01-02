@@ -5,6 +5,7 @@ draft: false
 url: /2015/09/cursos-gratuitos-de-ti-distancia.html
 categories: 
 - Dicas
+socialshare: true
 ---
 
 Esta dica é para quem te interesse em fazer algum curso na área de TI mas anda meio sem grana. São alguns cursos totalmente gratuitos oferecidos na modalidade "à distância".  

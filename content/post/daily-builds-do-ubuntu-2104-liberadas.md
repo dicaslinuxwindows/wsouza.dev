@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 21.04
+socialshare: true
 ---
 
 Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.

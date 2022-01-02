@@ -7,6 +7,7 @@ categories:
 - Android
 tags: 
 - Firefox
+socialshare: true
 ---
 
 A Mozilla lançou um novo navegador Firefox, inicialmente disponível apenas para Android. Este navegador promete ser mais rápido que os tradicionais Firefox que estão disponíveis na Play Store. Mais detalhes a seguir.

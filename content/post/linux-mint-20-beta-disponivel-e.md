@@ -5,6 +5,7 @@ draft: false
 url: /2020/06/linux-mint-20-beta-disponivel-e.html
 categories:
 - Linux Mint
+socialshare: true
 ---
 
 A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a "polêmica" sobre o uso dos pacotes Snap do Ubuntu.

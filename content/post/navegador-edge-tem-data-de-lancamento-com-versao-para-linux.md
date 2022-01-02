@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Microsoft Edge
+socialshare: true
 ---
 
 A Microsoft anunciou que o navegador Edge, baseado no código do Chromium, já tem data de lançamento. Além disso a empresa anunciou que haverá versão para Linux. Confira mais detalhes nesta matéria.

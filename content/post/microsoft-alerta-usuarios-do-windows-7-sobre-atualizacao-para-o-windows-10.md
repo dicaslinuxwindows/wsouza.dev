@@ -7,6 +7,7 @@ categories:
 - Windows
 tags: 
 - Windows 7
+socialshare: true
 ---
 
 Você ainda utiliza o Windows 7? Nas próximas semanas a Microsoft vai começar uma campanha para convencer os usuários a migrarem para o Windows 10.

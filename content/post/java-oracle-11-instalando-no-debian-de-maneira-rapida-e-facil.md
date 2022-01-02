@@ -8,6 +8,7 @@ categories:
 - Tutoriais
 tags:
 - Java
+socialshare: true
 ---
 
 A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.

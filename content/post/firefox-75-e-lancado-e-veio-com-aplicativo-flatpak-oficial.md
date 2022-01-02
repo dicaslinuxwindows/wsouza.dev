@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Firefox
+socialshare: true
 ---
 
 O Firefox 75 foi lançado recentemente. Além de trazer algumas melhorias em relação à [versão anterior](https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html), trouxe oficialmente uma versão com aplicativo Flatpak. Mais detalhes a seguir.

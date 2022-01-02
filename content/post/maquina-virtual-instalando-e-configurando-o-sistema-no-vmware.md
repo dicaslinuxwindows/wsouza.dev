@@ -8,6 +8,7 @@ categories:
 tags: 
 - Máquina Virtual
 - Ferramentas Linux
+socialshare: true
 ---
 
 Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do [Máquina Virtual: Instalando e configurando o VMware Player](https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html).  

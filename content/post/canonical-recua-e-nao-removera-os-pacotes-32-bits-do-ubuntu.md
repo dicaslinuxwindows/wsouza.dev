@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags:
 - Ubuntu 32 bits
+socialshare: true
 ---
 
 Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.

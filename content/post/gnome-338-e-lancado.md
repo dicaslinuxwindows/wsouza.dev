@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags:
 - Gnome
+socialshare: true
 ---
 
 O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.

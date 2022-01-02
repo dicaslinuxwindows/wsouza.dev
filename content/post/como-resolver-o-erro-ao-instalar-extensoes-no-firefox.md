@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Firefox
+socialshare: true
 ---
 
 Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.

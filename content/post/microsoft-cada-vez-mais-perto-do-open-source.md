@@ -7,6 +7,7 @@ categories:
 - Artigos
 tags: 
 - Open Source
+socialshare: true
 ---
 
 Nos últimos anos a Microsoft está se aproximando do open source _(software de código aberto, não sendo necessariamente software livre)_. Mas qual seria a real intenção da dona do Windows? O artigo a seguir busca, analisando um pouco da história da Microsoft, tentar entender qual o motivo da aproximação desta gigante com o "mundo" do open source.

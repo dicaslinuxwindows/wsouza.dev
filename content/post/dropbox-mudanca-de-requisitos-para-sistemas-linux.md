@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Armazenamento na Nuvem
+socialshare: true
 ---
 
 Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.

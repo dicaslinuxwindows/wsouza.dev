@@ -8,6 +8,7 @@ categories:
 tags: 
 - GParted
 - Ferramentas Linux
+socialshare: true
 ---
 
 Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.  

@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 19.10
+socialshare: true
 ---
 
 No dia 17 de outubro de 2019 foi lançado o Ubuntu 19.10, chamado de _Eoan Ermine._ Esta é a última versão antes do próximo LTS. Veja aqui o que o _Eoan Ermine_ traz de novidades e como obtê-lo.

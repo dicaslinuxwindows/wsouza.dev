@@ -8,6 +8,7 @@ categories:
 tags: 
 - Ferramentas Linux
 - Webmin
+socialshare: true
 ---
 
 Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.  

@@ -7,6 +7,7 @@ categories:
 - Debian
 tags: 
 - Debian Buster
+socialshare: true
 ---
 
 O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.

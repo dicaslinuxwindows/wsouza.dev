@@ -7,6 +7,7 @@ categories:
 - Tutoriais
 tags: 
 - IRPF
+socialshare: true
 ---
 
 Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.

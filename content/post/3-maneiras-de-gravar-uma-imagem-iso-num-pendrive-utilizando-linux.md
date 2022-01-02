@@ -7,6 +7,7 @@ categories:
 - Tutoriais
 tags: 
 - Ferramentas Linux
+socialshare: true
 ---
 
 Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível "rodar" sua distribuição Linux diretamente nele.

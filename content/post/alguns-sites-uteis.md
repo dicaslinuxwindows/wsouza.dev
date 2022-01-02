@@ -5,6 +5,7 @@ draft: false
 url: /2014/11/alguns-sites-uteis.html
 categories: 
 - Dicas
+socialshare: true
 ---
 
 Hoje trago uma dica com alguns sites de utilidade pública que, em algum momento, podem ser muito úteis para nos ajudar com diferentes tipos de serviços.

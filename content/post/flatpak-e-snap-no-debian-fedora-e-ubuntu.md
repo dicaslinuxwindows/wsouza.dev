@@ -11,6 +11,7 @@ categories:
 tags: 
 - Flatpak
 - Snap
+socialshare: true
 ---
 
 Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.

@@ -5,6 +5,7 @@ draft: false
 url: /2017/06/lancamento-debian-9-stretch.html
 categories: 
 - Debian
+socialshare: true
 ---
 
 No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.  

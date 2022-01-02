@@ -6,6 +6,7 @@ url: /2015/12/como-utilizar-google-maps-off-line.html
 categories:
 - Dicas
 - Android
+socialshare: true
 ---
 
 Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Veja mais detalhes na dica abaixo.

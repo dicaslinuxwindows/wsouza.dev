@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Firefox
+socialshare: true
 ---
 
 Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.

@@ -10,6 +10,7 @@ categories:
 - Fedora
 tags: 
 - IRPF
+socialshare: true
 ---
 
 Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian _(e seus derivados)_ e Fedora.

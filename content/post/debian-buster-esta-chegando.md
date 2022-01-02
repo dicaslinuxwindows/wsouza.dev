@@ -7,6 +7,7 @@ categories:
 - Debian
 tags: 
 - Debian Buster
+socialshare: true
 ---
 
 A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.  

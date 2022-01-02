@@ -8,6 +8,7 @@ categories:
 tags: 
 - Máquina Virtual
 - Ferramentas Linux
+socialshare: true
 ---
 
 Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.

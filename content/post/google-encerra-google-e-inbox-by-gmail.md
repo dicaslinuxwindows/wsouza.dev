@@ -7,6 +7,7 @@ categories:
 - Dicas
 tags: 
 - Redes Sociais
+socialshare: true
 ---
 
 A Google continua com sua política de desativação de serviços. Nos últimos dias a companhia anunciou que vai desativar dois de seus serviços. Um deles é o Inbox by Gmail e o outro é o Google +. Leia mais detalhes a seguir.
