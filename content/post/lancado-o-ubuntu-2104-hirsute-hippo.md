@@ -7,6 +7,7 @@ categories:
 - Ubuntu
 tags: 
 - Ubuntu 21.04
+socialshare: true
 ---
 
 Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes de como baixar e instalar esta versão.
@@ -43,7 +44,7 @@ Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu e 
 
 | | Ubuntu 21.04 - Hirsute Hippo |
 :------: | :------: | :------:
-[ Live](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso) | [ Torrent](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso.torrent) | [ Mais...](https://ubuntu.com/download)
+[ Live](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso) | [ Torrent](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso.torrent) | [ Mais...](https://releases.ubuntu.com/21.04/)
 
 #### Flavours:
 
