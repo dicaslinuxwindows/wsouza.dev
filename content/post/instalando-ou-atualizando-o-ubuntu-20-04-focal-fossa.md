@@ -64,7 +64,7 @@ O comando anterior vai:
 ## Download da ISO
 
   
-Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu e de alguns dos seus _"flavours" ou "sabores"_ oficiais. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha a de sua preferência, grave num DVD ou Pendrive e desfrute.  
+Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha a de sua preferência, grave num DVD ou Pendrive e desfrute.  
   
 | | Focal Fossa | |
 :------: |:------: | :------: | :------:

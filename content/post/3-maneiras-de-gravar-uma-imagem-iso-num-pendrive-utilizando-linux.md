@@ -126,7 +126,6 @@ A tela do Etcher é apresentada abaixo. Para iniciar o processo:
 *   Em _Change_ escolha o drive onde está o Pendrive;
 *   A opção _Flash_ inicia o processo de gravação.
 
-  
 
 [![3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows](https://1.bp.blogspot.com/-4Xjj4ajUl4Q/XpZ1jh6FfOI/AAAAAAAAOm0/lOzC5YoP0Dov0SyGbfa4yUtayPNZbxRXgCNcBGAsYHQ/s640/Etcher1.png "3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows")](https://1.bp.blogspot.com/-4Xjj4ajUl4Q/XpZ1jh6FfOI/AAAAAAAAOm0/lOzC5YoP0Dov0SyGbfa4yUtayPNZbxRXgCNcBGAsYHQ/s1600/Etcher1.png)
 
