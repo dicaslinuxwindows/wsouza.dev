@@ -66,16 +66,9 @@ O comando anterior vai:
   
 Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha a de sua preferência, grave num DVD ou Pendrive e desfrute.  
   
-| | Focal Fossa | |
-:------: |:------: | :------: | :------:
-Ubuntu | [ Live](https://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso) | [ Torrent](http://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso.torrent) | [Mais...](https://ubuntu.com/download)  
-Kubuntu | [ Live](http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso.torrent) | [Mais...](https://kubuntu.org/getkubuntu/)
-Xubuntu | [ Live](http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso.torrent) | [Mais...](https://xubuntu.org/download)
-Ubuntu Mate | [ Live](http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso.torrent) | [Mais...](https://ubuntu-mate.org/download/)
-Lubuntu | [ Live](http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.torrent) | [Mais...](https://lubuntu.me/downloads/)
-Ubuntu Kylin | [ Live](http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso.torrent) | [Mais...](https://www.ubuntukylin.com/downloads/show.php?id=451&lang=en)
-Ubuntu Studio | [ Live](http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso.torrent) | [Mais...](https://ubuntustudio.org/download/)
-Ubuntu Budgie | [ Live](http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso) | [ Torrent](http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso.torrent) | [Mais...](https://ubuntubudgie.org/downloads/)
+| | Focal Fossa |
+:------: |:------: | :------: |
+Ubuntu | [ Live](https://releases.ubuntu.com/focal/) | [Mais...](https://ubuntu.com/download)  
 
 ## Executar em modo live
 
