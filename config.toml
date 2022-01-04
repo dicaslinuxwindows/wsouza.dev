@@ -6,12 +6,12 @@ title = "Dicas Linux e Windows"
 disqusShortname = "dicaslinuxewindows" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-755N0HW50E" # Enable Google Analytics by entering your tracking id
 enableEmoji = true
-enableRobotsTXT = false
 enableMissingTranslationPlaceholders = true
 
 [menu]
   [[menu.main]]
     identifier = "home"
+    pre = "<i class='fa fa-home'></i>"
     name = "Home"
     url = "/"
     weight = 1
@@ -142,12 +142,11 @@ enableMissingTranslationPlaceholders = true
   twitter = "dicaslnxwindows"
   #github = "andradeswagner"
   email = "dicaslinuxewindows@gmail.com"
-
   
 [[Params.widgets.social.custom]]
   title = "Youtube"
   url = "https://youtube.com/channel/UCdgAIchdOo7lsyKge8m-P_w"
-  icon = "svg/youtube.svg" 
+  icon = "svg/youtube.svg"
   
 #[[Params.widgets.social.custom]]
 #  title = "RSS Feed"
@@ -156,7 +155,8 @@ enableMissingTranslationPlaceholders = true
 
 [Params.social.share]
   facebook = true
+  pinterest = true
   linkedin = true
   twitter = true
-  whatsapp = false
+  whatsapp = true
   email = true
