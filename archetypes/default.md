@@ -16,29 +16,21 @@ categories:
 tags:
   - ""
 socialshare: true
+draft: true
 ---
 
-
-
 <!--more-->
-
-
 
 ## Título
 
 *   Lista
 1.  Lista Numérica
 
-
-
 [![Descrição da imagem](link da imagem "Descrição da imagem")](link da imagem)
-
-
 
 | Título da tabela| | |
 :------ | :------: | :------: | :------:
  Nome | [ Nome](Link) | [ Nome](Link) | [ Nome](Link)
-
 
 #### Subtítulo:
   

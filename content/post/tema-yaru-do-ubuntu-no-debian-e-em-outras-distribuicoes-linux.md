@@ -9,7 +9,7 @@ categories:
 - Fedora
 - Linux Mint
 tags: 
-- Yaru
+- Temas
 socialshare: true
 ---
 

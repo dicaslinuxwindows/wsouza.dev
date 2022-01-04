@@ -5,6 +5,8 @@ draft: false
 url: /2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html
 categories:
 - Ubuntu
+-tags:
+- Temas
 socialshare: true
 ---
 

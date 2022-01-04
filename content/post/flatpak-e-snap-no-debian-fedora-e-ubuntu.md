@@ -9,8 +9,7 @@ categories:
 - Ubuntu
 - Fedora
 tags: 
-- Flatpak
-- Snap
+- Empacotamento
 socialshare: true
 ---
 

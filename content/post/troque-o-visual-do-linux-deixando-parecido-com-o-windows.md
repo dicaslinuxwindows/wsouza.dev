@@ -5,6 +5,8 @@ draft: false
 url: /2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html
 categories: 
 - Tutoriais
+tags:
+- Temas
 socialshare: true
 ---
 

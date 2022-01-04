@@ -6,7 +6,7 @@ url: /2020/10/tema-yaru-do-ubuntu-no-libreoffice.html
 categories:
 - Ubuntu
 tags: 
-- Yaru
+- Temas
 - Libre Office
 socialshare: true
 ---
