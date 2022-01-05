@@ -30,15 +30,15 @@ As mudanças ainda não estão disponíveis nas _Daily Builds_ que são as atual
 
 Como é agora:
 
-![Tema do Ubuntu com nova cor](https://blogger.googleusercontent.com/img/a/AVvXsEiK-DjPSQg8KpDJs9BZZKBb9jzg66SkIiTR_yvz3WCKQLo-wzrSHVPoGBIx_B17gzHXn64PqH3kjx5DmZU6rPWPnVFaA9xcwmH2UfeAMCYDXve7yXf0WMYp6KE-mWhT7vs5rq5B49J_Z6LYehaSyvklwIGpUzg4fObSyKwx68VoR-HjF3nRUrxjRxnDNg "Tema do Ubuntu com nova cor")
+[![Tema do Ubuntu com nova cor](https://blogger.googleusercontent.com/img/a/AVvXsEiK-DjPSQg8KpDJs9BZZKBb9jzg66SkIiTR_yvz3WCKQLo-wzrSHVPoGBIx_B17gzHXn64PqH3kjx5DmZU6rPWPnVFaA9xcwmH2UfeAMCYDXve7yXf0WMYp6KE-mWhT7vs5rq5B49J_Z6LYehaSyvklwIGpUzg4fObSyKwx68VoR-HjF3nRUrxjRxnDNg "Tema do Ubuntu com nova cor")](https://blogger.googleusercontent.com/img/a/AVvXsEiK-DjPSQg8KpDJs9BZZKBb9jzg66SkIiTR_yvz3WCKQLo-wzrSHVPoGBIx_B17gzHXn64PqH3kjx5DmZU6rPWPnVFaA9xcwmH2UfeAMCYDXve7yXf0WMYp6KE-mWhT7vs5rq5B49J_Z6LYehaSyvklwIGpUzg4fObSyKwx68VoR-HjF3nRUrxjRxnDNg)
 
 Como ficará:
 
-![Tema do Ubuntu com nova cor](https://blogger.googleusercontent.com/img/a/AVvXsEgpVrTMEnnET3p4TqRn_oyT1R6Vbv2Xs3zKqqaIzxkDh4EH33lxZynEdpIas48zM0Clw9nPnXQEXITb7QbIJME-upPViq0mMmt8tZ1qFYmJV0muI4kMoDkDN6juaZAjSaqi6gSwc00qDGdDK9hV8KxCoEr56G4wxE9RLLvV0Ajm8FdWHPa2IDI56kE9vQ "Tema do Ubuntu com nova cor")
+[![Tema do Ubuntu com nova cor](https://blogger.googleusercontent.com/img/a/AVvXsEgpVrTMEnnET3p4TqRn_oyT1R6Vbv2Xs3zKqqaIzxkDh4EH33lxZynEdpIas48zM0Clw9nPnXQEXITb7QbIJME-upPViq0mMmt8tZ1qFYmJV0muI4kMoDkDN6juaZAjSaqi6gSwc00qDGdDK9hV8KxCoEr56G4wxE9RLLvV0Ajm8FdWHPa2IDI56kE9vQ "Tema do Ubuntu com nova cor")](https://blogger.googleusercontent.com/img/a/AVvXsEgpVrTMEnnET3p4TqRn_oyT1R6Vbv2Xs3zKqqaIzxkDh4EH33lxZynEdpIas48zM0Clw9nPnXQEXITb7QbIJME-upPViq0mMmt8tZ1qFYmJV0muI4kMoDkDN6juaZAjSaqi6gSwc00qDGdDK9hV8KxCoEr56G4wxE9RLLvV0Ajm8FdWHPa2IDI56kE9vQ)
 
-![Tema do Ubuntu com nova cor](https://blogger.googleusercontent.com/img/a/AVvXsEgUbE-p4zaohwpcMc_7CHXfpkwbTIf5zW2uvC5eMQL-jMLvTW-ahiySmRnqaoRyXJoaJd6xYiT17wx8sktcCYoNAWihZ17AOt6In4tAMMyaCgtqob9HTZF56c8X_id-ul390pqs3iXUCBpFpymQtV3w1NQs_7MXgrANt427JNT8MmNF1mJPeszQ0ZferA "Tema do Ubuntu com nova cor")
+[![Tema do Ubuntu com nova cor](https://blogger.googleusercontent.com/img/a/AVvXsEgUbE-p4zaohwpcMc_7CHXfpkwbTIf5zW2uvC5eMQL-jMLvTW-ahiySmRnqaoRyXJoaJd6xYiT17wx8sktcCYoNAWihZ17AOt6In4tAMMyaCgtqob9HTZF56c8X_id-ul390pqs3iXUCBpFpymQtV3w1NQs_7MXgrANt427JNT8MmNF1mJPeszQ0ZferA "Tema do Ubuntu com nova cor")](https://blogger.googleusercontent.com/img/a/AVvXsEgUbE-p4zaohwpcMc_7CHXfpkwbTIf5zW2uvC5eMQL-jMLvTW-ahiySmRnqaoRyXJoaJd6xYiT17wx8sktcCYoNAWihZ17AOt6In4tAMMyaCgtqob9HTZF56c8X_id-ul390pqs3iXUCBpFpymQtV3w1NQs_7MXgrANt427JNT8MmNF1mJPeszQ0ZferA)
 
-![Tema do Ubuntu com nova cor](https://blogger.googleusercontent.com/img/a/AVvXsEi-SVYSVHgguZ_KR_p_WHPE5pFE76ZZiH1nJTL4suVrWzIwQfod0HJnKQ80ide1dG36DPassoPoXTvyOrdbvr-xP-xc3NBIm_h3Gg3FSCuM10TVj2bi6ug8gB_sxE-2lF_fZWWmk4UvXwo1SYMuLePhKjtu0-Mg-rbFgLY78E8JcI53zvCvM6pIarB-bQ "Tema do Ubuntu com nova cor")
+[![Tema do Ubuntu com nova cor](https://blogger.googleusercontent.com/img/a/AVvXsEi-SVYSVHgguZ_KR_p_WHPE5pFE76ZZiH1nJTL4suVrWzIwQfod0HJnKQ80ide1dG36DPassoPoXTvyOrdbvr-xP-xc3NBIm_h3Gg3FSCuM10TVj2bi6ug8gB_sxE-2lF_fZWWmk4UvXwo1SYMuLePhKjtu0-Mg-rbFgLY78E8JcI53zvCvM6pIarB-bQ "Tema do Ubuntu com nova cor")](https://blogger.googleusercontent.com/img/a/AVvXsEi-SVYSVHgguZ_KR_p_WHPE5pFE76ZZiH1nJTL4suVrWzIwQfod0HJnKQ80ide1dG36DPassoPoXTvyOrdbvr-xP-xc3NBIm_h3Gg3FSCuM10TVj2bi6ug8gB_sxE-2lF_fZWWmk4UvXwo1SYMuLePhKjtu0-Mg-rbFgLY78E8JcI53zvCvM6pIarB-bQ)
 
 ## Notas
 

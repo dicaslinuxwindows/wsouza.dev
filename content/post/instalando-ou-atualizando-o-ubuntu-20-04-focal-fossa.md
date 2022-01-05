@@ -3,6 +3,7 @@ title: 'Instalando ou atualizando o Ubuntu 20.04 Focal Fossa'
 date: 2020-04-23T12:16:00.000-03:00
 draft: false
 url: /2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html
+thumbnail: ""
 categories:
 - Ubuntu
 tags: 

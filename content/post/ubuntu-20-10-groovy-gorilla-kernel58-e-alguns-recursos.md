@@ -27,7 +27,7 @@ Faltando aproximadamente 1 mês para seu lançamento, chegamos numa fase que as 
 
   
 
-### Kernel 5.8 e versões de alguns aplicativos até o momento
+## Kernel 5.8 e versões de alguns aplicativos até o momento
 
   
 A versão estável mais recente do Kernel Linux é a 5.8.7, que foi lançada em 05/09/2020. O Ubuntu Groovy Gorilla, no momento que escrevo, já está com a versão 5.8.0-18 _(ver imagem abaixo)_ e é bem provável que ele seja lançado com o Kernel na "casa" do 5.8.x. O Kernel 5.8 possui diversas melhorias de suporte de hardware, e adoção de terminologias inclusivas, que, entre outras coisas, substitui a terminologia _mestre/escravo_ na identificação de discos por _primário/secundário_.  
