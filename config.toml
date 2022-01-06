@@ -12,12 +12,12 @@ enableMissingTranslationPlaceholders = true
   [[menu.main]]
     identifier = "home"
     pre = "<i class='fa fa-home'></i>"
-    name = "Home"
+    name = "HOME"
     url = "/"
     weight = 1
   [[menu.main]]
     identifier = "category"
-    name = "Categorias"
+    name = "CATEGORIAS"
     url = "#"
     weight = 2
   [[menu.main]]
@@ -46,7 +46,7 @@ enableMissingTranslationPlaceholders = true
     weight = 4
     [[menu.main]]
     identifier = "system"
-    name = "Sistemas"
+    name = "SISTEMAS"
     url = "#"
     weight = 3
   [[menu.main]]
@@ -87,10 +87,33 @@ enableMissingTranslationPlaceholders = true
     weight = 6
   [[menu.main]]
     identifier = "about"
-    name = "Sobre"
+    name = "SOBRE"
     url = "/sobre/"
     weight = 4
-
+  [[menu.main]]
+    identifier = "about"
+    name = "SOBRE"
+    url = "#"
+    weight = 4
+  [[menu.main]]
+    identifier = "about1"
+    name = "Sobre o blog"
+    url = "/sobre/"
+    parent = "about"
+    weight = 1    
+  [[menu.main]]
+    identifier = "about2"
+    name = "Privacidade"
+    url = "/privacidade/"
+    parent = "about"
+    weight = 2 
+  [[menu.main]]
+    identifier = "rss"
+    pre = "<i class='fa fa-rss'></i>"
+    name = "RSS"
+    url = "http://feeds.feedburner.com/dicaslinuxewindows"
+    weight = 5
+ 
  [Author]
   name = "W.Souza"
   bio = "Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
@@ -99,6 +122,7 @@ enableMissingTranslationPlaceholders = true
 [Params]
   description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows, Linux e Mobile." # Description of your site
   opengraph = true
+  rssLimit = 200
   copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
   schema = true # Enable Schema
   twitter_cards = true # Enable Twitter Cards if true
@@ -147,11 +171,6 @@ enableMissingTranslationPlaceholders = true
   title = "Youtube"
   url = "https://youtube.com/channel/UCdgAIchdOo7lsyKge8m-P_w"
   icon = "svg/youtube.svg"
-  
-#[[Params.widgets.social.custom]]
-#  title = "RSS Feed"
-#  url = "https://info.wsouza.com.br/sitemap.xml"
-#  icon = "svg/rss.svg" 
 
 [Params.social.share]
   facebook = true
@@ -160,3 +179,6 @@ enableMissingTranslationPlaceholders = true
   twitter = true
   whatsapp = true
   email = true
+  
+[Params.style.vars]
+  highlightColor = "#e95420" # Override highlight color

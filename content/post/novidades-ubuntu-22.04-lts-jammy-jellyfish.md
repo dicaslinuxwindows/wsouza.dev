@@ -9,7 +9,7 @@ categories:
 tags:
   - Ubuntu 22.04
 socialshare: true
-draft: true
+draft: false
 ---
 A próxima versão do Ubuntu, 22.04, será chamada de Jammy Jellyfish e deverá ser lançada em abril. Veja nesta matéria o que vamos encontrar neste novo Ubuntu.
 

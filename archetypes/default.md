@@ -2,6 +2,7 @@
 title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
 description: ""
 date: "{{ .Date }}"
+url: 
 thumbnail: ""
 categories:
   - Artigos
@@ -35,6 +36,9 @@ draft: true
 #### Subtítulo:
   
 [ Nome](Link) 
+
+<a href="LINK" target="_blank">NOME DO LINK</a>
+
 
 `Código`
 
