@@ -3,8 +3,8 @@ languageCode = "en-us"
 paginate = "6" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
-disqusShortname = "dicaslinuxewindows" # Enable comments by entering your Disqus shortname
-googleAnalytics = "G-755N0HW50E" # Enable Google Analytics by entering your tracking id
+disqusShortname = "dicaslinuxewindows"
+googleAnalytics = "G-755N0HW50E"
 enableEmoji = true
 enableMissingTranslationPlaceholders = true
 
@@ -92,7 +92,6 @@ enableMissingTranslationPlaceholders = true
     weight = 4
   [[menu.main]]
     identifier = "contact"
-    pre = "<i class='fa fa-envelope'></i>"
     name = "CONTATO"
     url = "/contato/"
     weight = 4    
@@ -115,9 +114,8 @@ enableMissingTranslationPlaceholders = true
     weight = 2 
   [[menu.main]]
     identifier = "rss"
-    pre = "<i class='fa fa-rss'></i>"
     name = " RSS"
-    url = "/index.xml"
+    url = "#"
     weight = 6
   [[menu.main]]
     identifier = "rss1"
@@ -144,9 +142,9 @@ enableMissingTranslationPlaceholders = true
   rssLimit = 200
   copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
   schema = true # Enable Schema
-  twitter_cards = true # Enable Twitter Cards if true
-  toc = true # Enable Table of Contents
-  readmore = true # Show "Read more" button in list if true
+  twitter_cards = true
+  toc = true 
+  readmore = true
   authorbox = true
   pager = true
   keyword = "Windows, Linux, Mobile, Internet, Android, Dicas, Artigos, Tutoriais"
