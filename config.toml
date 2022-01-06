@@ -110,9 +110,22 @@ enableMissingTranslationPlaceholders = true
   [[menu.main]]
     identifier = "rss"
     pre = "<i class='fa fa-rss'></i>"
-    name = "RSS"
-    url = "http://feeds.feedburner.com/dicaslinuxewindows"
+    name = " RSS"
+    url = "/index.xml"
     weight = 5
+  [[menu.main]]
+    identifier = "rss1"
+    name = "Feed"
+    url = "/rss/"
+    parent = "rss"
+    weight = 1
+  [[menu.main]]
+    identifier = "rss2"
+    name = "Assine o Feed"
+    url = "http://feeds.feedburner.com/dicaslinuxewindows/"
+    parent = "rss"
+    weight = 2     
+    
  
  [Author]
   name = "W.Souza"
