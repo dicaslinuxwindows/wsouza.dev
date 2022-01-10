@@ -11,10 +11,15 @@ tags:
 socialshare: true
 ---
 
-As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para "rodar" as últimas versões do Ubuntu em 32 bits? 
-Confira nas dicas a seguir: 
+As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para "rodar" ~~as últimas versões do~~ o Ubuntu em 32 bits? 
+Confira nas dicas a seguir. 
 
 <!--more-->
+
+_Matéria atualizada em 10/01/2022_
+
+<b><i><font color="red">
+NOTA: Com as dicas apresentadas nesta matéria só é possível ter o Ubuntu em 32 bits até a versão 18.04 LTS, que terá suporte até meados de 2023.</font></i></b>
 
 ## Entendendo o problema
 
@@ -29,8 +34,6 @@ Baixe a versão LTS 16.04, que foi a última a ser lançada em ISO de 32 bits, e
 Para baixar o Ubuntu 16.04, entre em [http://releases.ubuntu.com/16.04/](http://releases.ubuntu.com/16.04/) e escolha a opção _32-bit PC (i386) desktop image._
 
 ## Solução 2
-
-_**Atualizada em 05/01/2022:**_
   
 Outra solução é a que foi sugerida no comentário da matéria. O [Xubuntu](https://cdimage.ubuntu.com/xubuntu/releases/18.04/release/), [Lubuntu](https://cdimage.ubuntu.com/lubuntu/releases/18.04/release/) e [Ubuntu Mate](https://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/), na versão 18.04 LTS _( escolha 32-bit PC (i386))_, ainda possuem imagens para sistemas 32 bits. Baixe e instale uma destas versões.
 Após a instalação, instale o Gnome, e assim, estará com uma versão recente e em 32 bits do Ubuntu padrão.

@@ -77,7 +77,9 @@ O tempo de duração depende de alguns fatores, principalmente do tamanho da ima
 
 Diferente do dd, que funciona no terminal, o UNetbootin é uma ferramenta que possui uma interface gráfica e possui a função de gerar um Live USB.  
 Vá ao site oficial [https://unetbootin.github.io](https://unetbootin.github.io/linux_download.html) e faça o download na arquitetura que desejar _(32 ou 64 bits)_. A versão utilizada neste tutorial foi a _.bin_, que é bem simples de executar e não necessita instalação.  
-Para executar o programa é preciso dar permissão de execução. Supondo que o programa foi baixado na pasta _Downloads_ execute o comando abaixo. _(Troque o que está em vermelho pelo nome do arquivo baixado)_  
+Para executar o programa é preciso dar permissão de execução. Supondo que o programa foi baixado na pasta _Downloads_ execute o comando abaixo. 
+
+**Detalhe:** O nome _"unetbootin-linux64-677.bin"_ é referente ao arquivo atual. Como a versão do site pode ser atualizada a qualquer momento, substitua-o pelo nome do arquivo baixado).
   
 `sudo chmod +x Downloads/unetbootin-linux64-677.bin`
 
@@ -107,7 +109,9 @@ Após alguns minutos, o processo está finalizado.
 ## Etcher
 
 O Etcher _(ou Balena Etcher)_ é outra opção para gerar Live USB, talvez a mais fácil das 3 apresentadas aqui. É bem simples de ser utilizado, até mais simples que o UNetbootin, porém, não possui opção de persistência.  
-Para baixar, acesse [https://www.balena.io/etcher/](https://www.balena.io/etcher/). A opção padrão de download é a x64, para sistemas 64 bits, mas caso precise da versão 32 bits basta escolher esta versão. Descompacte o aquivo baixado com o comando: _(Troque o que está em vermelho pelo nome do arquivo baixado)_  
+Para baixar, acesse [https://www.balena.io/etcher/](https://www.balena.io/etcher/). A opção padrão de download é a x64, para sistemas 64 bits, mas caso precise da versão 32 bits basta escolher esta versão. Descompacte o aquivo baixado com o comando abaixo.
+
+**Detalhe:** O nome _"balena-etcher-electron-1.5.81-linux-x64.zip"_ é referente ao arquivo atual. Como a versão do site pode ser atualizada a qualquer momento, substitua-o pelo nome do arquivo baixado.
   
 `unzip balena-etcher-electron-1.5.81-linux-x64.zip`
   
