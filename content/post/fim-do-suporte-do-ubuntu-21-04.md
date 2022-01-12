@@ -1,6 +1,6 @@
 ---
 title: "Fim do suporte do Ubuntu 21.04"
-date: "2022-01-11T23:00:06-03:00"
+date: 2022-01-11T23:20:06-03:00
 url: /2022/01/fim-do-suporte-do-ubuntu-21-04.html
 thumbnail: ""
 categories:
