@@ -16,9 +16,9 @@ Confira nas dicas a seguir.
 
 <!--more-->
 
+<b><i><font color="red">
 _Matéria atualizada em 10/01/2022_
 
-<b><i><font color="red">
 NOTA: Com as dicas apresentadas nesta matéria só é possível ter o Ubuntu em 32 bits até a versão 18.04 LTS, que terá suporte até meados de 2023.</font></i></b>
 
 ## Entendendo o problema
