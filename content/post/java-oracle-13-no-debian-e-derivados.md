@@ -1,6 +1,7 @@
 ---
 title: 'Java Oracle 13 no Debian e Derivados'
 date: 2020-02-22T23:16:00.002-03:00
+thumbnail: "https://2.bp.blogspot.com/-_RSTktCfHyg/Xwfp9Itl6UI/AAAAAAAAPXY/oWhD3tuiLQUOuT8MRHd1wRrLtdoPdhCNwCNcBGAsYHQ/s1600/Java_13.png"
 draft: false
 url: /2020/02/java-oracle-13-no-debian-e-derivados.html
 categories:

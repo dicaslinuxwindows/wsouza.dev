@@ -2,6 +2,7 @@
 title: 'Painel de Controle do Windows pode estar com os dias contados'
 date: 2020-03-29T20:06:00.000-03:00
 draft: false
+thumbnail: "https://3.bp.blogspot.com/-klhiiWe_3AI/Xuq7hwYxotI/AAAAAAAAPIY/IDIZoj6KpVAVjuAf-MdldmxsO0Z-PF1PQCNcBGAsYHQ/s1600/Painel_de_controle.png"
 url: /2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html
 categories:
 - Windows

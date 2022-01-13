@@ -1,6 +1,7 @@
 ---
 title: 'Linux Mint 20: Beta disponível e polêmica com pacotes Snap'
 date: 2020-06-12T23:05:00.000-03:00
+thumbnail: "https://2.bp.blogspot.com/-Fr_JhHnX1_w/Xuq7hVJxZfI/AAAAAAAAPIQ/4jdjFOav-tkvg1pYNpdzeq8JLOOq8m5mACNcBGAsYHQ/s1600/Linux_Mint_Beta.png"
 draft: false
 url: /2020/06/linux-mint-20-beta-disponivel-e.html
 categories:

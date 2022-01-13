@@ -1,6 +1,7 @@
 ---
 title: 'Lançado o Ubuntu 21.04 Hirsute Hippo'
 date: 2021-04-25T23:03:00.003-03:00
+thumbnail: "https://1.bp.blogspot.com/-uIugK_p6nsg/YIYRoicxxQI/AAAAAAAASDA/qslFrua-uhA2g8UWobX9DnYxkgXcl1CrwCNcBGAsYHQ/s0/Ubuntu_21.04_lan%25C3%25A7ado.png"
 draft: false
 url: /2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html
 categories:

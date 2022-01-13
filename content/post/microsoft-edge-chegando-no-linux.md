@@ -1,6 +1,7 @@
 ---
 title: 'Microsoft Edge chegando no Linux'
 date: 2020-09-22T17:00:00.010-03:00
+thumbnail: "https://1.bp.blogspot.com/-ZK91JA7F3b4/X3Evh6J1BxI/AAAAAAAAQKQ/9KqRIlgW1IIrkv7l9wh5V-4-Ax_-XSfLQCNcBGAsYHQ/s150/Edge_logo.png"
 draft: false
 url: /2020/09/microsoft-edge-chegando-no-linux.html
 categories:

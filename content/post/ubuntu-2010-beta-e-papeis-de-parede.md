@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu 20.10  - Beta  e papéis de parede disponíveis'
 date: 2020-10-06T22:33:00.005-03:00
+thumbnail: "https://1.bp.blogspot.com/-JM1zglSSpC4/X30Y97bQAKI/AAAAAAAAQOM/RR5MtzK4cn82rlNDHqGJVPX68s_ZTA0GgCNcBGAsYHQ/s16000/Ubuntu_20.10_Beta.png"
 draft: false
 url: /2020/10/ubuntu-2010-beta-e-papeis-de-parede.html
 categories:

@@ -1,6 +1,7 @@
 ---
 title: 'Firefox 83 chega com melhorias de desempenho e novidades'
 date: 2020-11-19T22:51:00.004-03:00
+thumbnail: "https://1.bp.blogspot.com/-zxATss2NUSI/X7bH1JrYDNI/AAAAAAAARDU/d260enSLTo85VbjIASQYIj3m5GSSjFHvQCNcBGAsYHQ/s16000/Firefox.png"
 draft: false
 url: /2020/11/firefox-83-chega-com-melhorias-de.html
 categories:

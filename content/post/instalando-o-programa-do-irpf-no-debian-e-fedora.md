@@ -1,6 +1,7 @@
 ---
 title: 'Instalando o programa do IRPF 2021 no Debian e Fedora'
 date: 2021-02-28T19:25:00.006-03:00
+thumbnail: "https://1.bp.blogspot.com/-88UIhEs61oA/YDwWR6Dc2wI/AAAAAAAARws/L37oamMEOk8Mity9TYFH0TknvO3yWdwywCNcBGAsYHQ/s16000/IRPF2021.png"
 draft: false
 url: /2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html
 categories:

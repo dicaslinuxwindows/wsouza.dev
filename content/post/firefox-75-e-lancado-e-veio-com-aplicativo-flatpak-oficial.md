@@ -1,7 +1,8 @@
 ---
 title: 'Firefox 75 é lançado, e veio com aplicativo Flatpak oficial'
 date: 2020-04-09T23:58:00.003-03:00
-draft: false
+draft: false                      "
+thumbnail: "https://1.bp.blogspot.com/-J1B0dEmj-4Y/Xuq7gBWTeII/AAAAAAAAPIA/YnZzuGN1ZfwLz2YaxkJui2MF2Ck-1c7PwCNcBGAsYHQ/s1600/Firefox_75.png"
 url: /2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html
 categories:
 - Dicas

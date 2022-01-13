@@ -1,6 +1,7 @@
 ---
 title: 'Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados'
 date: 2020-03-25T20:35:00.013-03:00
+thumbnail: "https://2.bp.blogspot.com/-DbzsS19Ff0M/Xwehb27lHYI/AAAAAAAAPS0/zx0ZpwUuCewFxj-CeBQXvMB6Am9W-JfsACNcBGAsYHQ/s1600/Java_Oracle_14.png"
 draft: false
 url: /2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html
 categories:

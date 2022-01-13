@@ -1,6 +1,7 @@
 ---
 title: 'Debian Bullseye entra em congelamento'
 date: 2021-01-17T23:20:00.003-03:00
+thumbnail: "https://1.bp.blogspot.com/-SbhWttE77FY/YATwDEx1s2I/AAAAAAAARio/QqJhOMdH7GApMYaM8L2luokkz0GkezY2wCNcBGAsYHQ/s16000/Bullseye-Freeze.png"
 draft: false
 url: /2021/01/debian-bullseye-em-congelamento.html
 categories:

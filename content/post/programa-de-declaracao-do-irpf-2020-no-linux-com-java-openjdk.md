@@ -1,6 +1,7 @@
 ---
 title: 'Programa de declaração do IRPF 2020 no Linux com Java OpenJDK'
 date: 2020-03-02T22:56:00.007-03:00
+thumbnail: "https://2.bp.blogspot.com/-C3gRh412i9U/XwfNT1tf8hI/AAAAAAAAPTA/go1lewH3w_EjEeg6Ct2xm21L36QyfKb-gCNcBGAsYHQ/s1600/Irpf_Open_JDK.png"
 draft: false
 url: /2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html
 tags: 

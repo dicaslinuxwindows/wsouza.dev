@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu 21.04 - Beta, Cronograma de Lançamento e Informações '
 date: 2021-04-01T01:37:00.016-03:00
+thumbnail: "https://1.bp.blogspot.com/-pGO3IxrlLbM/YGVO_iuYXqI/AAAAAAAAR70/n8_qzGWPQ9oRUhhLkgfcklgEJUDqni4aQCNcBGAsYHQ/s0/21.04%2B-%2BCronograma_Beta.png"
 draft: false
 url: /2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html
 categories:

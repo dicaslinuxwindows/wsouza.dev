@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu Groovy Gorilla Lançado'
 date: 2020-10-22T23:58:00.005-03:00
+thumbnail: "https://1.bp.blogspot.com/-0-StLx5vmSY/X5JJsftGbrI/AAAAAAAAQi8/zX63iV3snoY8az6d5-KLiTyQVBkwnLS4ACNcBGAsYHQ/s0/Groovy_Gorilla_Lan%25C3%25A7ado.png"
 draft: false
 url: /2020/10/ubuntu-groovy-gorilla-lancado.html
 categories:

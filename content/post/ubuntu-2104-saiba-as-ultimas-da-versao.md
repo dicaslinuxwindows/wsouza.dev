@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu 21.04  - Saiba as últimas da versão que será lançada em Abril'
 date: 2021-01-24T00:30:00.006-03:00
+thumbnail: "https://1.bp.blogspot.com/-V0Q1kbmq0Xc/YAznr14cKFI/AAAAAAAARlY/Elo1ILiaVHcxmOJVQTkX64q6jDOz11SqACNcBGAsYHQ/s0/Not%25C3%25ADcias_Ubuntu_2104.png"
 draft: false
 url: /2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html
 categories:

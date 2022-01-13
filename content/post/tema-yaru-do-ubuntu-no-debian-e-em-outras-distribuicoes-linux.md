@@ -1,6 +1,7 @@
 ---
 title: 'Tema Yaru do Ubuntu no Debian e em outras distribuições Linux'
 date: 2020-03-31T21:07:00.005-03:00
+thumbnail: "https://3.bp.blogspot.com/-X4gvp1bF-C8/Xuq7ikJmvfI/AAAAAAAAPIg/gb6vC5EKETom2PFDxKy7G8FYOTwXslMiQCNcBGAsYHQ/s1600/Yaru_Theme.png"
 draft: false
 url: /2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html
 categories:

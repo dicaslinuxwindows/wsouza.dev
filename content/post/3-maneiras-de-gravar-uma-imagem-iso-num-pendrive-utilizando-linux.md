@@ -1,6 +1,7 @@
 ---
 title: '3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux'
 date: 2020-04-20T02:17:00.002-03:00
+thumbnail: "https://1.bp.blogspot.com/-BvVHCc2Py6c/Xuq7ibvvA-I/AAAAAAAAPIc/zq_t2NWaIXMBfRc5BbQwxbiVJwAmxqGMQCNcBGAsYHQ/s1600/Pendrive_Linux.png"
 draft: false
 url: /2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html
 categories:

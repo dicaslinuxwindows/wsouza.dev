@@ -1,6 +1,7 @@
 ---
 title: 'Acompanhe o desenvolvimento do Debian Bullseye'
 date: 2020-07-09T01:13:00.001-03:00
+thumbnail: "https://2.bp.blogspot.com/-TlxyvHyhXaU/X0g3yaEIEgI/AAAAAAAAP2U/PTTocMzjgPksMTbYdxsDku9Umx6xCEYHACNcBGAsYHQ/s1600/DebianBullseye.png"
 draft: false
 url: /2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html
 categories:

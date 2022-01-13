@@ -1,6 +1,7 @@
 ---
 title: 'Flatpak e Snap no Debian, Fedora e Ubuntu'
 date: 2020-12-31T01:07:00.013-03:00
+thumbnail: "https://1.bp.blogspot.com/-2rPVAD8KZKI/X-1DOpcczHI/AAAAAAAARbA/gOigtPYtHj0nJI4JfrUlCyMzfnTDBx7egCNcBGAsYHQ/s16000/Snap_Flatpak_Pt1.png"
 draft: false
 url: /2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html
 categories:

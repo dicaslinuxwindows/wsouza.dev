@@ -1,6 +1,7 @@
 ---
 title: 'Tema Yaru do Ubuntu no Libreoffice'
 date: 2020-10-12T17:53:00.005-03:00
+thumbnail: "https://1.bp.blogspot.com/-4bTlZM62hYY/X4TCCS6WYzI/AAAAAAAAQUA/Hl0bWXBov_wUuYO4HCyJQd0VqyhU7Vj-ACNcBGAsYHQ/s0/Yaru-LibreOffice.png"
 draft: false
 url: /2020/10/tema-yaru-do-ubuntu-no-libreoffice.html
 categories:

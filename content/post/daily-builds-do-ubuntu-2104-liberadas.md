@@ -1,6 +1,7 @@
 ---
 title: 'Daily Builds do Ubuntu 21.04 liberadas'
 date: 2020-11-04T23:19:00.004-03:00
+thumbnail: "https://1.bp.blogspot.com/-lGpQaKft95g/X6NgmW0XwWI/AAAAAAAAQx0/BnhVbPwoH_0f8P2ehBm-sU9-kPjgxlFsACNcBGAsYHQ/s0/Daily-Builds.png"
 draft: false
 url: /2020/11/daily-builds-do-ubuntu-2104-liberadas.html
 categories:

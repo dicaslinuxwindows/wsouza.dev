@@ -1,6 +1,7 @@
 ---
 title: 'Lançamento Fedora 33'
 date: 2020-10-28T14:56:00.011-03:00
+thumbnail: "https://1.bp.blogspot.com/-p8CfnXzNuRg/X5mwSIIy0yI/AAAAAAAAQt4/zWg1PhA8Fts5JPikZ9JO16XUW0ndNk4cgCNcBGAsYHQ/s16000/Fedora33.png"
 draft: false
 url: /2020/10/lancamento-fedora-33.html
 categories:

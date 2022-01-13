@@ -1,6 +1,7 @@
 ---
 title: 'Fedora 33 Beta'
 date: 2020-10-07T00:05:00.003-03:00
+thumbnail: "https://1.bp.blogspot.com/-tpCRbqXKdGM/X30vwWI-3oI/AAAAAAAAQOc/CQcSwFz16IgOe_jJkyHzhPf1q8hh5_nFQCNcBGAsYHQ/s16000/Fedora%2B33%2BBeta.png"
 draft: false
 url: /2020/10/fedora-33-beta.html
 categories:

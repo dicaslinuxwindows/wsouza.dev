@@ -1,6 +1,7 @@
 ---
 title: 'Navegador Microsoft Edge para Linux liberado no canal dev'
 date: 2020-10-21T23:57:00.013-03:00
+thumbnail: "https://1.bp.blogspot.com/-MwrS0SBtQP8/X5Dz-Th40WI/AAAAAAAAQio/YFW00BlYD_wPhjeqzB76dvxVG_jPbjI1ACNcBGAsYHQ/s16000/Egde_Dev.png"
 draft: false
 url: /2020/10/navegador-microsoft-edge-para-linux.html
 categories:

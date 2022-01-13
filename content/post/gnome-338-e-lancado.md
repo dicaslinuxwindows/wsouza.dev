@@ -1,6 +1,7 @@
 ---
 title: 'Gnome 3.38 é lançado'
 date: 2020-09-18T21:25:00.249-03:00
+thumbnail: "https://1.bp.blogspot.com/-LAH6YaTzNMQ/X2WJ-wJBkwI/AAAAAAAAQGg/-2znIu7KYo80V8IsCbNsC8Nm2dZV-MhYgCNcBGAsYHQ/s0/Gnome_3.38.png"
 draft: false
 url: /2020/09/gnome-338-e-lancado.html
 categories: 

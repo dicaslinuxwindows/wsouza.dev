@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado'
 date: 2020-10-30T18:38:00.005-03:00
+thumbnail: "https://1.bp.blogspot.com/-jCgXGlcdLMQ/X5yHeykZXEI/AAAAAAAAQvs/A1hq4aeJqHkcg3mGwqprI4mzWKyoNkKkgCNcBGAsYHQ/s320/Ubuntu_2104.png"
 draft: false
 url: /2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html
 categories:

@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu 20.10 - Maio 2020'
 date: 2020-05-25T01:12:00.002-03:00
+thumbnail: "https://4.bp.blogspot.com/-LHSrzR_N8Kc/Xuq7hCjPZlI/AAAAAAAAPIM/XVlUrwnF3NYtc86MwmrxW2hg5of2LF2MwCNcBGAsYHQ/s1600/Groovy_Gorilla.png"
 draft: false
 url: /2020/05/ubuntu-2010-maio-2020.html
 categories:

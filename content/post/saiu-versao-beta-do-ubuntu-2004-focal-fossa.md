@@ -1,6 +1,7 @@
 ---
 title: 'Saiu a versão Beta do Ubuntu 20.04 Focal Fossa'
 date: 2020-04-03T23:50:00.000-03:00
+thumbnail: "https://2.bp.blogspot.com/-I-iLyINfwzI/Xuq7gYhfxeI/AAAAAAAAPIE/lzlQtpHwQKcBO1XWyLFVl5YMpSLG1aXBgCNcBGAsYHQ/s1600/Focal_Fossa_Beta.png"
 draft: false
 url: /2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html
 categories:

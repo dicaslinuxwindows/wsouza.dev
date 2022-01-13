@@ -2,6 +2,7 @@
 title: 'Lançada a 5º atualização do Debian Buster'
 date: 2020-08-01T22:51:00.000-03:00
 draft: false
+thumbnail: "https://2.bp.blogspot.com/-csKVfolxpQs/XydCFntY5lI/AAAAAAAAPg8/UmVcIMHKyE8vT0vTEvtw2xVtXkhKOXjZACNcBGAsYHQ/s1600/Buster_10.5.png"
 url: /2020/08/lancada-5-atualizacao-do-debian-buster.html
 categories:
 - Debian

@@ -2,6 +2,7 @@
 title: 'Programa de declaração do IRPF 2020 no Debian, Ubuntu e derivados (Arquivo .bin + Java Oracle)'
 date: 2020-02-23T00:54:00.007-03:00
 draft: false
+thumbnail: "https://3.bp.blogspot.com/-KoF2hUek1gk/XwfTQWPbUKI/AAAAAAAAPTM/xq97kHuVF14pao1Uvp5lGFZbj2eowyQAACNcBGAsYHQ/s1600/Irpf_Oracle_Java.png"
 url: /2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html
 categories:
 - Tutoriais

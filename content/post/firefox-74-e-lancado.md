@@ -1,6 +1,7 @@
 ---
 title: 'Firefox 74 é lançado '
-date: 2020-03-10T13:52:00.000-03:00
+date: 2020-03-10T13:52:00.000-03:00          
+thumbnail: "https://1.bp.blogspot.com/-hPQXMCrj5LU/XwfcmEjgVyI/AAAAAAAAPTs/oz1k5q9jBH0ufV01Dp_3beP4yZBUSWaJgCNcBGAsYHQ/s1600/Firefox_74.png"
 draft: false
 url: /2020/03/firefox-74-e-lancado.html
 categories:

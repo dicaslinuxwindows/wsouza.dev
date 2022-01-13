@@ -1,6 +1,7 @@
 ---
 title: 'Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente'
 date: 2020-04-23T11:38:00.000-03:00
+thumbnail: "https://2.bp.blogspot.com/-8cChCQI2Z6g/Xuq7hBFv6bI/AAAAAAAAPII/2gSrVcLYazwlP0_Uw5OfHBTcvFCH14YHgCNcBGAsYHQ/s1600/Focal_Fossa_Lan%25C3%25A7ado.png"
 draft: false
 url: /2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html
 categories:

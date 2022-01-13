@@ -1,6 +1,7 @@
 ---
 title: 'Firefox para Android sofre uma significativa atualização'
 date: 2020-08-27T19:37:00.005-03:00
+thumbnail: "https://3.bp.blogspot.com/-_ZefuP8Gas4/X0g0lKloDfI/AAAAAAAAP10/6OGNWxq-luc0moCYmgmv2HMdAzYZs4hkgCNcBGAsYHQ/s1600/Firefox_79_Android.png"
 draft: false
 url: /2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html
 categories:
