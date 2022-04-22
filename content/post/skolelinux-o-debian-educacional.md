@@ -27,8 +27,8 @@ O Skolelinux está disponível 32 e 64 bits, porém, se for utilizado como servi
   
 | | Skolelinux |
 :------: | :------: | :------:
-amd64 | [ Netinst](http://get.debian.org/cdimage/release/current/amd64/iso-cd/debian-edu-10.1.0-amd64-netinst.iso) | [ DVD](http://get.debian.org/cdimage/release/current/amd64/iso-bd/debian-edu-10.0.0-amd64-BD-1.iso)
-i386 | [ Netinst](http://get.debian.org/cdimage/release/current/i386/iso-cd/debian-edu-10.1.0-i386-netinst.iso) | [ DVD](http://get.debian.org/cdimage/release/current/i386/iso-bd/debian-edu-10.1.0-i386-BD-1.iso)  
+amd64 | [ Netinst](http://cdimage.debian.org/cdimage/release/current/amd64/iso-cd/) | [ DVD](http://get.debian.org/cdimage/release/current/amd64/iso-bd)
+i386 | [ Netinst](http://get.debian.org/cdimage/release/current/i386/iso-cd) | [ DVD](http://get.debian.org/cdimage/release/current/i386/iso-bd)  
 
 A instalação é praticamente igual ao do Debian, com a adição de alguns perfis que podem torná-la pouco mais demorada. Vejamos:  
 
