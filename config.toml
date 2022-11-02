@@ -115,21 +115,9 @@ enableMissingTranslationPlaceholders = true
   [[menu.main]]
     identifier = "rss"
     name = " RSS"
-    url = "#"
-    weight = 6
-  [[menu.main]]
-    identifier = "rss1"
-    name = "Feed"
     url = "/rss/"
-    parent = "rss"
-    weight = 1
-  [[menu.main]]
-    identifier = "rss2"
-    name = "Assine o Feed"
-    url = "http://feeds.feedburner.com/dicaslinuxewindows/"
-    parent = "rss"
-    weight = 2     
-    
+    weight = 6
+      
  
  [Author]
   name = "W.Souza"
