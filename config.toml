@@ -99,7 +99,7 @@ enableMissingTranslationPlaceholders = true
     identifier = "about"
     name = "SOBRE"
     url = "#"
-    weight = 5
+    weight = 6
   [[menu.main]]
     identifier = "about1"
     name = "Sobre o blog"
@@ -116,7 +116,7 @@ enableMissingTranslationPlaceholders = true
     identifier = "rss"
     name = " RSS"
     url = "/rss/"
-    weight = 6
+    weight = 5
       
  
  [Author]

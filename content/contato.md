@@ -43,6 +43,6 @@ Dúvidas, sugestões e, _(por que não?)_, elogios.
     </div>
   </div>
   <div class="text-center">
-    <p><small>(Powered by <a rel="nofollow" href="https://un-static.com">Un-static Forms</a>)</small></p>
+    <p><small>(Powered by <a rel="nofollow" href="https://un-static.com" target="_blank">Un-static Forms</a>)</small></p>
   </div>
 </form>
