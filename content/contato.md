@@ -6,7 +6,7 @@ socialshare: false
 authorbox: false
 toc: false
 ---
-Dúvidas, sugestões e _(por que não?)_ elogios.
+Dúvidas, sugestões e, _(por que não?)_, elogios.
 
 <form method="post" action="https://forms.un-static.com/forms/4281b95fa9b3c75ea0e4ac47955f173f39cd7f56">
   <div class="form-group row">
@@ -43,6 +43,6 @@ Dúvidas, sugestões e _(por que não?)_ elogios.
     </div>
   </div>
   <div class="text-center">
-    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+    <p><small>(Powered by <a rel="nofollow" href="https://un-static.com">Un-static Forms</a>)</small></p>
   </div>
 </form>
