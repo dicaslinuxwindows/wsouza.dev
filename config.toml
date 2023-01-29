@@ -168,7 +168,7 @@ enableMissingTranslationPlaceholders = true
   
 [Params.widgets.social]
   # Enable parts of social widget
-  twitter = "dicaslnxwindows"
+  #twitter = "dicaslnxwindows"
   #github = "andradeswagner"
   email = "dicaslinuxewindows@gmail.com"
   
