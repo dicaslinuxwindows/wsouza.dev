@@ -98,20 +98,13 @@ enableMissingTranslationPlaceholders = true
   [[menu.main]]
     identifier = "about"
     name = "SOBRE"
-    url = "#"
-    weight = 6
-  [[menu.main]]
-    identifier = "about1"
-    name = "Sobre o blog"
     url = "/sobre/"
-    parent = "about"
-    weight = 1    
+    weight = 7   
   [[menu.main]]
-    identifier = "about2"
-    name = "Privacidade"
+    identifier = "privacy"
+    name = "PRIVACIDADE"
     url = "/privacidade/"
-    parent = "about"
-    weight = 2 
+    weight = 6 
   [[menu.main]]
     identifier = "rss"
     name = " RSS"
