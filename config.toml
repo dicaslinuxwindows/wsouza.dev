@@ -155,7 +155,7 @@ enableMissingTranslationPlaceholders = true
   
 [Params.widgets.social]
   # Enable parts of social widget
-  github = "andradeswagner"
+  github = "dicaslinuxwindows"
   email = "dicaslinuxewindows@gmail.com"
   
 [[Params.widgets.social.custom]]
