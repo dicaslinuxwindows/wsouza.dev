@@ -1,12 +1,35 @@
 baseurl = "https://info.wsouza.com.br"
 languageCode = "en-us"
-paginate = "6" # Number of posts per page
+paginate = "7" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
 disqusShortname = "dicaslinuxewindows"
 googleAnalytics = "G-755N0HW50E"
 enableEmoji = true
 enableMissingTranslationPlaceholders = true
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.instagram]
+    disable = true
+    simple = true
+  [privacy.twitter]
+    disable = true
+    enableDNT = true
+    simple = true
+  [privacy.vimeo]
+    disable = true
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disable = true
+    privacyEnhanced = true
 
 [menu]
   [[menu.main]]
@@ -173,25 +196,4 @@ enableMissingTranslationPlaceholders = true
 [Params.style.vars]
   highlightColor = "#e95420" # Override highlight color
 
-[privacy]
-  [privacy.disqus]
-    disable = true
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = true
-    respectDoNotTrack = true
-    useSessionStorage = true
-  [privacy.instagram]
-    disable = true
-    simple = true
-  [privacy.twitter]
-    disable = true
-    enableDNT = true
-    simple = true
-  [privacy.vimeo]
-    disable = true
-    enableDNT = true
-    simple = true
-  [privacy.youtube]
-    disable = true
-    privacyEnhanced = true
+
