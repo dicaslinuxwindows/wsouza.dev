@@ -132,7 +132,7 @@ privacy_pack = true
     identifier = "about"
     name = "SOBRE"
     url = "/sobre/"
-    weight = 7   
+    weight = 6   
       
   [Author]
   name = "W.Souza"
@@ -169,7 +169,7 @@ privacy_pack = true
   
 [Params.logo]
   image = "https://blogger.googleusercontent.com/img/a/AVvXsEiIl2noRmnGVLZlSyL10HlZDojXtx7ECMx8OCId7hsJSTD-cT_aXWybB5NA6aGORF3m5KhsbejbMrKItUa-EMTL3-aKBLAXiW7MzliqqR_hX5uR0cjp15F8-8JGF8oieC0shsU2Ic-Zz0Q3JEbHNJMBH3PytR8G6LLL4OPqVr1XWnlXMXh6N0wbe9aang"
-  subtitle = "Teste" # Logo subtitle
+  subtitle = "" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
