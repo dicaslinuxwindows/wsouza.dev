@@ -27,8 +27,7 @@ O conceito de máquina virtual _(VM)_ é um software que emula as funções de u
 ## Instalação
 
   
-Baixe a VM, na versão 12, [neste link](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0).  
-Se preferir, baixe a 14 [neste link](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/14_0), porém aqui utilizaremos a 12, mas a idéia é a mesma.  
+Baixe a VM, na versão 12, [neste link](https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/17_0).  
 Baixe na pasta de seu usuário _(/home/nomedeseuusuario)_ e não renomeie o arquivo.  
   
 Para instalar vá no terminal _(CTRL+T)_ e digite o comando a seguir, que dará a permissão de execução do arquivo:  
