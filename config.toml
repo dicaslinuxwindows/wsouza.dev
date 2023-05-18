@@ -1,6 +1,6 @@
 baseurl = "https://info.wsouza.com.br"
 languageCode = "en-us"
-paginate = "7" # Number of posts per page
+paginate = "6" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
 disqusShortname = "dicaslinuxewindows"
@@ -14,13 +14,13 @@ enableMissingTranslationPlaceholders = true
 privacy_pack = true
 
 [privacy]
-  [privacy.disqus]
-    disable = true
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = false
-    respectDoNotTrack = true
-    useSessionStorage = true
+# [privacy.disqus]
+#  disable = false
+# [privacy.googleAnalytics]
+#  anonymizeIP = true
+#  disable = false
+#  respectDoNotTrack = true
+#  useSessionStorage = true
 # [privacy.instagram]
 #  disable = true
 #  simple = true
