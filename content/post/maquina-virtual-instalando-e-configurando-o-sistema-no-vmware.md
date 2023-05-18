@@ -36,7 +36,7 @@ Escolhida uma das duas opções, inicie a VM e será iniciada a instalação do 
 
   
 
-[![Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows](https://4.bp.blogspot.com/-yHfvcp46kkM/W1fr3vVRSAI/AAAAAAAAIwE/YucBam6YUFoO_6xjOdtAVgDwGV_iPuL0ACLcBGAs/s1600/18.png) "Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows")](https://4.bp.blogspot.com/-yHfvcp46kkM/W1fr3vVRSAI/AAAAAAAAIwE/YucBam6YUFoO_6xjOdtAVgDwGV_iPuL0ACLcBGAs/s1600/18.png)
+[![Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows](https://4.bp.blogspot.com/-yHfvcp46kkM/W1fr3vVRSAI/AAAAAAAAIwE/YucBam6YUFoO_6xjOdtAVgDwGV_iPuL0ACLcBGAs/s1600/18.png "Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows")](https://4.bp.blogspot.com/-yHfvcp46kkM/W1fr3vVRSAI/AAAAAAAAIwE/YucBam6YUFoO_6xjOdtAVgDwGV_iPuL0ACLcBGAs/s1600/18.png)
 
 [![Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows](https://3.bp.blogspot.com/-DG6T58JeSAE/W1gH6SQCecI/AAAAAAAAIww/jnBhY2bCtKYNpNnci3wA3doYay7WOB-QACLcBGAs/s320/01.png "Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows")](https://3.bp.blogspot.com/-DG6T58JeSAE/W1gH6SQCecI/AAAAAAAAIww/jnBhY2bCtKYNpNnci3wA3doYay7WOB-QACLcBGAs/s1600/01.png)
 
