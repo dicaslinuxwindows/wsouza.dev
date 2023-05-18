@@ -18,23 +18,23 @@ privacy_pack = true
     disable = true
   [privacy.googleAnalytics]
     anonymizeIP = true
-    disable = true
+    disable = false
     respectDoNotTrack = true
     useSessionStorage = true
-  [privacy.instagram]
-    disable = true
-    simple = true
-  [privacy.twitter]
-    disable = true
-    enableDNT = true
-    simple = true
-  [privacy.vimeo]
-    disable = true
-    enableDNT = true
-    simple = true
-  [privacy.youtube]
-    disable = true
-    privacyEnhanced = true
+# [privacy.instagram]
+#  disable = true
+#  simple = true
+# [privacy.twitter]
+#  disable = true
+#  enableDNT = true
+#  simple = true
+# [privacy.vimeo]
+#  disable = true
+#  enableDNT = true
+#  simple = true
+# [privacy.youtube]
+#  disable = true
+#  privacyEnhanced = true
 
 [menu]
   [[menu.main]]
