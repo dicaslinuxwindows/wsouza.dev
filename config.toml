@@ -122,12 +122,24 @@ privacy_pack = true
     identifier = "rss"
     name = " RSS"
     url = "/rss/"
-    weight = 5    
+    weight = 5   
   [[menu.main]]
-    identifier = "privacy"
-    name = "PRIVACIDADE"
-    url = "/privacidade/"
-    weight = 6  
+    identifier = "policies"
+    name = "POLÍTICAS"
+    url = "#"
+    weight = 5
+  [[menu.main]]
+    identifier = "policies1"
+    name = "Privacidade"
+    url = "https://www.iubenda.com/privacy-policy/21830516"
+    parent = "policies"
+    weight = 1
+  [[menu.main]]
+    identifier = "policies2"
+    name = "Cookies"
+    url = "https://www.iubenda.com/privacy-policy/21830516/cookie-policy"
+    parent = "policies"
+    weight = 2
   [[menu.main]]
     identifier = "about"
     name = "SOBRE"
