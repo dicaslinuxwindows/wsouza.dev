@@ -126,20 +126,8 @@ privacy_pack = true
   [[menu.main]]
     identifier = "policies"
     name = "POLÍTICAS"
-    url = "#"
+    url = "/politicas/"
     weight = 5
-  [[menu.main]]
-    identifier = "policies1"
-    name = "Privacidade"
-    url = "https://www.iubenda.com/privacy-policy/21830516"
-    parent = "policies"
-    weight = 1
-  [[menu.main]]
-    identifier = "policies2"
-    name = "Cookies"
-    url = "https://www.iubenda.com/privacy-policy/21830516/cookie-policy"
-    parent = "policies"
-    weight = 2
   [[menu.main]]
     identifier = "about"
     name = "SOBRE"
