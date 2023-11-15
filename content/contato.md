@@ -6,9 +6,9 @@ socialshare: false
 authorbox: false
 toc: false
 ---
-Dúvidas, sugestões e, _(por que não?)_, elogios.
+Dúvidas, sugestões, elogios, etc.
 
-<form method="post" action="https://forms.un-static.com/forms/4281b95fa9b3c75ea0e4ac47955f173f39cd7f56">
+<form method="post" action="https://forms.un-static.com/forms/0145812eb310d5a82270bc60674255ee7945a338">
   <div class="form-group row">
     <label for="name" class="col-4 col-form-label">Nome</label>
     <div class="col-8">

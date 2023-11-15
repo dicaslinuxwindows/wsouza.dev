@@ -183,7 +183,7 @@ privacy_pack = true
   
 [Params.widgets.social]
   # Enable parts of social widget
-  email = "dicaslinuxewindows@gmail.com"
+  #email = "info@wsouza.com.br"
   
 [[Params.widgets.social.custom]]
   title = "Youtube"

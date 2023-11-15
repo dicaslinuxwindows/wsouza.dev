@@ -1,5 +1,6 @@
 ---
 url: /contato/enviado.html
+title: Mensagem enviada
 draft: false
 comments: false
 socialshare: false
