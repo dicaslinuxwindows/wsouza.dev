@@ -136,11 +136,11 @@ privacy_pack = true
       
   [Author]
   name = "W.Souza"
-  bio = "Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
+  bio = "Usuário de Debian e Windows."
   avatar = "https://blogger.googleusercontent.com/img/a/AVvXsEhaExMFQx736MAebmuSzIyJaP4wXZqkvKAhf5qwME44A31K4kwqWj0dqCDisf-Jh9QQiwZmVPandEty4NfHQIZ2nS-kucDGBk4nMR7RGeklzk4NwEseZmNQ97hjQmo1kNdUGQyAhdNb5piMf4F05_fMsnr8dOu-XN7xNy-hig6tiswpp5sNANkGkvArkw"
 
 [Params]
-  description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows, Linux e Mobile." # Description of your site
+  description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows e Linux." # Description of your site
   opengraph = true
   rssLimit = 200
   copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
