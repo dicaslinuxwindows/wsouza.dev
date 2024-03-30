@@ -6,7 +6,7 @@ url: /2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html
 categories:
 - Dicas
 tags: 
-- Microsoft Edge
+- Microsoft-Edge
 socialshare: true
 ---
 
