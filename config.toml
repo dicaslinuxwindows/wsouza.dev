@@ -134,9 +134,9 @@ privacy_pack = true
     url = "/sobre/"
     weight = 6   
       
-  [Author]
-  bio = "Usuário de Debian e Windows."
-  avatar = "https://blogger.googleusercontent.com/img/a/AVvXsEhaExMFQx736MAebmuSzIyJaP4wXZqkvKAhf5qwME44A31K4kwqWj0dqCDisf-Jh9QQiwZmVPandEty4NfHQIZ2nS-kucDGBk4nMR7RGeklzk4NwEseZmNQ97hjQmo1kNdUGQyAhdNb5piMf4F05_fMsnr8dOu-XN7xNy-hig6tiswpp5sNANkGkvArkw"
+ # [Author]
+ # bio = "Usuário de Debian e Windows."
+ # avatar = "https://blogger.googleusercontent.com/img/a/AVvXsEhaExMFQx736MAebmuSzIyJaP4wXZqkvKAhf5qwME44A31K4kwqWj0dqCDisf-Jh9QQiwZmVPandEty4NfHQIZ2nS-kucDGBk4nMR7RGeklzk4NwEseZmNQ97hjQmo1kNdUGQyAhdNb5piMf4F05_fMsnr8dOu-XN7xNy-hig6tiswpp5sNANkGkvArkw"
 
 [Params]
   description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows e Linux." # Description of your site
@@ -166,6 +166,8 @@ privacy_pack = true
 [[params.author]]
   email = "info@wsouza.com.br"
   name = "W.Souza"
+  bio = "Usuário de Debian e Windows."
+  avatar = "https://blogger.googleusercontent.com/img/a/AVvXsEhaExMFQx736MAebmuSzIyJaP4wXZqkvKAhf5qwME44A31K4kwqWj0dqCDisf-Jh9QQiwZmVPandEty4NfHQIZ2nS-kucDGBk4nMR7RGeklzk4NwEseZmNQ97hjQmo1kNdUGQyAhdNb5piMf4F05_fMsnr8dOu-XN7xNy-hig6tiswpp5sNANkGkvArkw"
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
