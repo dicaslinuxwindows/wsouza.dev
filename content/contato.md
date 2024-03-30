@@ -32,7 +32,7 @@ Dúvidas, sugestões, elogios, etc.
     </div>
   </div>
   <div class="form-group row">
-    <label for="message" class="col-4 col-form-label">Sua mensagem</label>
+    <label for="message" class="col-4 col-form-label">Escreva sua mensagem</label>
     <div class="col-8">
       <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control"></textarea>
     </div>
