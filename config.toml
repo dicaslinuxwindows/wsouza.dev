@@ -135,7 +135,6 @@ privacy_pack = true
     weight = 6   
       
   [Author]
-  name = "W.Souza"
   bio = "Usuário de Debian e Windows."
   avatar = "https://blogger.googleusercontent.com/img/a/AVvXsEhaExMFQx736MAebmuSzIyJaP4wXZqkvKAhf5qwME44A31K4kwqWj0dqCDisf-Jh9QQiwZmVPandEty4NfHQIZ2nS-kucDGBk4nMR7RGeklzk4NwEseZmNQ97hjQmo1kNdUGQyAhdNb5piMf4F05_fMsnr8dOu-XN7xNy-hig6tiswpp5sNANkGkvArkw"
 
@@ -163,6 +162,10 @@ privacy_pack = true
 [markup.goldmark]
 [markup.goldmark.renderer]
  unsafe = true
+ 
+[[params.author]]
+  email = "info@wsouza.com.br"
+  name = "W.Souza"
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
@@ -195,3 +198,4 @@ privacy_pack = true
   
 [Params.style.vars]
   highlightColor = "#e95420" # Override highlight color
+
