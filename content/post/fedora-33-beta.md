@@ -7,7 +7,7 @@ url: /2020/10/fedora-33-beta.html
 categories:
 - Fedora
 tags: 
-- Fedora 33
+- Fedora-33
 socialshare: true
 ---
 

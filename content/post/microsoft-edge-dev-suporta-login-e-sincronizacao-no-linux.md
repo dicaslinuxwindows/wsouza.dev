@@ -7,7 +7,7 @@ url: /2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html
 categories:
 - Dicas
 tags: 
-- Microsoft Edge
+- Microsoft-Edge
 socialshare: true
 ---
 

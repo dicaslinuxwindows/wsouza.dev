@@ -7,7 +7,7 @@ categories:
 - Tutoriais
 tags: 
 - Remaster
-- Ferramentas Linux
+- Ferramentas-Linux
 socialshare: true
 ---
   

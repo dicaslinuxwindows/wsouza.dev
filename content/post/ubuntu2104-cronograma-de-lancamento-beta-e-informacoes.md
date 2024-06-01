@@ -7,7 +7,7 @@ url: /2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 21.04
+- Ubuntu-21.04
 socialshare: true
 ---
 

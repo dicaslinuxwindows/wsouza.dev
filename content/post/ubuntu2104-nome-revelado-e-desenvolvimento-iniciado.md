@@ -7,7 +7,7 @@ url: /2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 21.04
+- Ubuntu-21.04
 socialshare: true
 ---
 

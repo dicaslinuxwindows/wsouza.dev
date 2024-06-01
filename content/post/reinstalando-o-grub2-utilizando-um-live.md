@@ -4,7 +4,7 @@ date: 2013-01-08T03:26:00.003-02:00
 draft: false
 url: /2013/01/reinstalando-o-grub2-utilizando-um-live.html
 tags: 
-- Recuperar Grub
+- Recuperar-Grub
 categories:
 - Ubuntu
 - Tutoriais

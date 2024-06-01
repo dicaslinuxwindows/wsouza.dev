@@ -6,7 +6,7 @@ url: /2014/06/google-anuncia-o-fim-do-orkut.html
 categories:
 - Dicas
 tags: 
-- Redes Sociais
+- Redes-Sociais
 socialshare: true
 ---
 

@@ -7,7 +7,7 @@ url: /2021/01/debian-bullseye-em-congelamento.html
 categories:
 - Debian
 tags: 
-- Debian Bullseye
+- Debian-Bullseye
 socialshare: true
 ---
 

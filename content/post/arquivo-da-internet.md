@@ -6,7 +6,7 @@ url: /2013/07/arquivo-da-internet.html
 categories:
 - Dicas
 tags: 
-- Arquivo da Internet
+- Arquivo-da-Internet
 socialshare: true
 ---
 

@@ -7,7 +7,7 @@ categories:
 - Debian
 - Tutoriais
 tags: 
-- Debian Buster
+- Debian-Buster
 socialshare: true
 ---
 

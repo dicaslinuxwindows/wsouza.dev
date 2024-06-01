@@ -6,7 +6,7 @@ url: /2019/06/debian-buster-esta-chegando.html
 categories:
 - Debian
 tags: 
-- Debian Buster
+- Debian-Buster
 socialshare: true
 ---
 

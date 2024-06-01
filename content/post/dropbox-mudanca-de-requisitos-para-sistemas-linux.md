@@ -6,7 +6,7 @@ url: /2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html
 categories:
 - Dicas
 tags: 
-- Armazenamento na Nuvem
+- Armazenamento-na-Nuvem
 socialshare: true
 ---
 

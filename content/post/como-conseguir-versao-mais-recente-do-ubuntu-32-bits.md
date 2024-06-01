@@ -7,7 +7,7 @@ categories:
 - Ubuntu
 - Tutoriais
 tags:
-- Ubuntu 32 bits
+- Ubuntu-32-bits
 socialshare: true
 ---
 

@@ -7,7 +7,7 @@ url: /2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html
 categories:
 - Debian
 tags: 
-- Debian Bullseye
+- Debian-Bullseye
 socialshare: true
 ---
 

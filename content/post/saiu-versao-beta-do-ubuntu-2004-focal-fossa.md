@@ -7,7 +7,7 @@ url: /2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 20.04
+- Ubuntu-20.04
 socialshare: true
 ---
 

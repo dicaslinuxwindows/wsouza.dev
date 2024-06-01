@@ -6,8 +6,8 @@ url: /2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html
 categories:
 - Tutoriais
 tags: 
-- Máquina Virtual
-- Ferramentas Linux
+- Máquina-Virtual
+- Ferramentas-Linux
 socialshare: true
 ---
 

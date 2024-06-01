@@ -7,7 +7,7 @@ url: /2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 21.04
+- Ubuntu-21.04
 socialshare: true
 ---
 

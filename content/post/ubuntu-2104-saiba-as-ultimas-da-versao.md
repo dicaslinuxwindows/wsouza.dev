@@ -7,7 +7,7 @@ url: /2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 21.04
+- Ubuntu-21.04
 socialshare: true
 ---
 

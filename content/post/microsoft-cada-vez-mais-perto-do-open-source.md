@@ -6,7 +6,7 @@ url: /2019/05/microsoft-cada-vez-mais-perto-do-open-source.html
 categories:
 - Artigos
 tags: 
-- Open Source
+- Open-Source
 socialshare: true
 ---
 

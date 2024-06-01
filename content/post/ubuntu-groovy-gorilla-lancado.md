@@ -7,7 +7,7 @@ url: /2020/10/ubuntu-groovy-gorilla-lancado.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 20.10
+- Ubuntu-20.10
 socialshare: true
 ---
 

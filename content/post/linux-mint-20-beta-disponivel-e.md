@@ -5,7 +5,7 @@ thumbnail: "https://2.bp.blogspot.com/-Fr_JhHnX1_w/Xuq7hVJxZfI/AAAAAAAAPIQ/4jdjF
 draft: false
 url: /2020/06/linux-mint-20-beta-disponivel-e.html
 categories:
-- Linux Mint
+- Linux-Mint
 socialshare: true
 ---
 

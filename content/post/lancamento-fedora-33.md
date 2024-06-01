@@ -7,7 +7,7 @@ url: /2020/10/lancamento-fedora-33.html
 categories:
 - Fedora
 tags:
-- Fedora 33
+- Fedora-33
 socialshare: true
 ---
 

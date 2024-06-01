@@ -5,7 +5,7 @@ thumbnail: "https://2.bp.blogspot.com/-RyW4BGvvt_0/XvlcvoSjlBI/AAAAAAAAPOw/9dKIJ
 draft: false
 url: /2020/06/lancado-o-linux-mint-20-ulyana.html
 categories: 
-- Linux Mint
+- Linux-Mint
 socialshare: true
 ---
 

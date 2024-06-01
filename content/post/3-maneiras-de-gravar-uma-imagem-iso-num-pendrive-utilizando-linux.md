@@ -7,7 +7,7 @@ url: /2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.
 categories:
 - Tutoriais
 tags: 
-- Ferramentas Linux
+- Ferramentas-Linux
 socialshare: true
 ---
 

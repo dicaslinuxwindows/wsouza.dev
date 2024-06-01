@@ -7,7 +7,7 @@ url: /2020/10/navegador-microsoft-edge-para-linux.html
 categories:
 - Debian
 - Fedora
-- Linux Mint
+- Linux-Mint
 - Ubuntu
 tags: 
 - Microsoft Edge

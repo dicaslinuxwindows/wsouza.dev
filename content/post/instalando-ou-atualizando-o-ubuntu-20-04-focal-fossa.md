@@ -7,7 +7,7 @@ url: /2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 20.04
+- Ubuntu-20.04
 socialshare: true
 ---
 

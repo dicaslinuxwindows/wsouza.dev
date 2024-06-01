@@ -6,7 +6,7 @@ url: /2015/10/ubuntu-1510-lancado.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 15.10
+- Ubuntu-15.10
 socialshare: true
 ---
 

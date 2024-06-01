@@ -9,7 +9,7 @@ categories:
 - Tutoriais
 - Windows
 tags: 
-- Sis Mirage 3 Graphics
+- Sis-Mirage-3-Graphics
 socialshare: true
 ---
 

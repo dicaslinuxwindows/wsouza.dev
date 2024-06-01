@@ -8,7 +8,7 @@ categories:
 - Debian
 - Ubuntu
 - Fedora
-- Linux Mint
+- Linux-Mint
 tags: 
 - Temas
 socialshare: true

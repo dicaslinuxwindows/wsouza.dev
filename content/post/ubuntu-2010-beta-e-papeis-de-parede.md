@@ -7,7 +7,7 @@ url: /2020/10/ubuntu-2010-beta-e-papeis-de-parede.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 20.10
+- Ubuntu-20.10
 socialshare: true
 ---
 

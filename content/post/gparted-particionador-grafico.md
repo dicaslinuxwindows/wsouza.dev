@@ -7,7 +7,7 @@ categories:
 - Tutoriais
 tags: 
 - GParted
-- Ferramentas Linux
+- Ferramentas-Linux
 socialshare: true
 ---
 

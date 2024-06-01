@@ -8,7 +8,7 @@ categories:
 - Tutoriais
 - Debian
 - Fedora
-- Linux Mint
+- Linux-Mint
 - Ubuntu
 tags: 
 - Máquina Virtual

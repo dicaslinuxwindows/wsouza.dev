@@ -6,8 +6,8 @@ url: /2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html
 categories:
 - Tutoriais
 tags: 
-- Máquina Virtual
-- Ferramentas Linux
+- Máquina-Virtual
+- Ferramentas-Linux
 socialshare: true
 ---
 

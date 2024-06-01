@@ -6,7 +6,7 @@ url: /2019/06/fim-do-ubuntu-32-bits.html
 categories:
 - Ubuntu
 tags:
-- Ubuntu 32 bits
+- Ubuntu-32-bits
 socialshare: true
 ---
 

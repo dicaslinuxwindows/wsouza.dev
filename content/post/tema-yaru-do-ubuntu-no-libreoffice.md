@@ -8,7 +8,7 @@ categories:
 - Ubuntu
 tags: 
 - Temas
-- Libre Office
+- Libre-Office
 socialshare: true
 ---
 

@@ -7,7 +7,7 @@ thumbnail: ""
 categories:
   - Ubuntu  
 tags:
-  - Ubuntu 22.04
+  - Ubuntu-22.04
 socialshare: true
 draft: false
 ---

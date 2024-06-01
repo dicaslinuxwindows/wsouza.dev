@@ -6,7 +6,7 @@ url: /2017/05/novo-navegador-opera-acesso-whatsapp-facebook-messenger-telegram.h
 categories:
 - Dicas
 tags: 
-- Redes Sociais
+- Redes-Sociais
 socialshare: true
 ---
 

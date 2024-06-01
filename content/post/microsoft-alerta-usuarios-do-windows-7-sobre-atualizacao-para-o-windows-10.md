@@ -6,7 +6,7 @@ url: /2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-wi
 categories:
 - Windows
 tags: 
-- Windows 7
+- Windows-7
 socialshare: true
 ---
 

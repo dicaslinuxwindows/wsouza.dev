@@ -7,7 +7,7 @@ url: /2020/03/noticias-sobre-o-ubuntu-20-04-lts.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 20.04
+- Ubuntu-20.04
 socialshare: true
 ---
 

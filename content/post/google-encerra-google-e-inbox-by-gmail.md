@@ -6,7 +6,7 @@ url: /2018/10/google-encerra-google-e-inbox-by-gmail.html
 categories:
 - Dicas
 tags: 
-- Redes Sociais
+- Redes-Sociais
 socialshare: true
 ---
 

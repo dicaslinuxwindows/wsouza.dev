@@ -6,7 +6,7 @@ url: /2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 19.04
+- Ubuntu-19.04
 socialshare: true
 ---
 

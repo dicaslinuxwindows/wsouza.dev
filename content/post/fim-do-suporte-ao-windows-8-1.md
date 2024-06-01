@@ -6,7 +6,7 @@ url: /2018/01/fim-do-suporte-ao-windows-8-1.html
 categories:
 - Windows
 tags: 
-- Windows 8
+- Windows-8
 socialshare: true
 ---
 

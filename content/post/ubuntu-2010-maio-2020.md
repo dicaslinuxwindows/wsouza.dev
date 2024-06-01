@@ -7,7 +7,7 @@ url: /2020/05/ubuntu-2010-maio-2020.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 20.10
+- Ubuntu-20.10
 socialshare: true
 ---
 

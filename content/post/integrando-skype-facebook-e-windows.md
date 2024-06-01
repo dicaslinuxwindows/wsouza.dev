@@ -6,7 +6,7 @@ url: /2013/01/integrando-skype-facebook-e-windows.html
 categories:
 - Tutoriais
 tags: 
-- Redes Sociais
+- Redes-Sociais
 socialshare: true
 ---
 

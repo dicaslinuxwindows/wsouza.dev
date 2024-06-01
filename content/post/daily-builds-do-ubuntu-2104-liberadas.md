@@ -7,7 +7,7 @@ url: /2020/11/daily-builds-do-ubuntu-2104-liberadas.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 21.04
+- Ubuntu-21.04
 socialshare: true
 ---
 

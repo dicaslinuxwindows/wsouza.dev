@@ -6,7 +6,7 @@ url: /2019/02/ferramentas-linux.html
 categories:
 - Tutoriais
 tags: 
-- Ferramentas Linux
+- Ferramentas-Linux
 socialshare: true
 ---
 

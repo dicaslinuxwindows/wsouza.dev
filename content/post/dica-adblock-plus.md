@@ -6,7 +6,7 @@ url: /2013/08/dica-adblock-plus.html
 categories:
 - Dicas
 tags: 
-- Adblock Plus
+- Adblock-Plus
 socialshare: true
 ---
 

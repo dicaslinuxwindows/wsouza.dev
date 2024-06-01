@@ -6,7 +6,7 @@ url: /2019/10/ubuntu-1910-chegou.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 19.10
+- Ubuntu-19.10
 socialshare: true
 ---
 

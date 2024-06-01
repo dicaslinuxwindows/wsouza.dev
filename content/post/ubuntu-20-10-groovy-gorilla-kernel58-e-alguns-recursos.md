@@ -7,7 +7,7 @@ url: /2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html
 categories:
 - Ubuntu
 tags: 
-- Ubuntu 20.10
+- Ubuntu-20.10
 socialshare: true
 ---
 

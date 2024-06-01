@@ -6,7 +6,7 @@ url: /2019/07/debian-buster-e-lancado-oficialmente.html
 categories:
 - Debian
 tags: 
-- Debian Buster
+- Debian-Buster
 socialshare: true
 ---
 

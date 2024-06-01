@@ -6,7 +6,7 @@ url: /2019/01/webmin-administrador-de-sistemas.html
 categories:
 - Tutoriais
 tags: 
-- Ferramentas Linux
+- Ferramentas-Linux
 - Webmin
 socialshare: true
 ---

@@ -5,7 +5,7 @@ draft: false
 thumbnail: "https://1.bp.blogspot.com/-Otq9fIM2L9c/Xuq7hhZJfKI/AAAAAAAAPIU/2s2QOtUCL0kGVBXA6KYIu1m7eBjXnToogCNcBGAsYHQ/s1600/Linux_Mint_Ulyana.png"
 url: /2020/04/linux-mint-20-ulyana.html
 categories: 
-- Linux Mint
+- Linux-Mint
 socialshare: true
 ---
 

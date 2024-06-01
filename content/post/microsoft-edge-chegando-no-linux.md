@@ -7,7 +7,7 @@ url: /2020/09/microsoft-edge-chegando-no-linux.html
 categories:
 - Dicas
 tags: 
-- Microsoft Edge
+- Microsoft-Edge
 socialshare: true
 ---
 

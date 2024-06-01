@@ -7,8 +7,8 @@ categories:
 - Windows
 - Tutoriais
 tags: 
-- Sis Mirage 3 Graphics
-- Windows 8
+- Sis-Mirage-3-Graphics
+- Windows-8
 socialshare: true
 ---
 

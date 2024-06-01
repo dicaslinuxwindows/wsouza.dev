@@ -6,7 +6,7 @@ url: /2018/10/encerrar-ou-desativar-contas-do-facebook-instagram-google-e-outras
 categories:
 - Dicas
 tags: 
-- Redes Sociais
+- Redes-Sociais
 socialshare: true
 ---
 

@@ -7,8 +7,8 @@ categories:
 - Windows
 - Tutoriais
 tags: 
-- Windows 7
-- Windows 10
+- Windows-7
+- Windows-10
 socialshare: true
 ---
 

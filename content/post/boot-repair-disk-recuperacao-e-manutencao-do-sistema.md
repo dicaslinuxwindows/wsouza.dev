@@ -6,8 +6,8 @@ url: /2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html
 categories:
 - Tutoriais
 tags: 
-- Recuperar Grub
-- Ferramentas Linux
+- Recuperar-Grub
+- Ferramentas-Linux
 socialshare: true
 ---
 

@@ -7,7 +7,7 @@ url: /2020/08/lancada-5-atualizacao-do-debian-buster.html
 categories:
 - Debian
 tags: 
-- Debian Buster
+- Debian-Buster
 socialshare: true
 ---
 

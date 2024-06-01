@@ -7,7 +7,7 @@ categories:
 - Dicas
 - Windows
 tags: 
-- Microsoft Edge
+- Microsoft-Edge
 socialshare: true
 ---
 

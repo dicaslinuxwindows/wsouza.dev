@@ -7,7 +7,7 @@ categories:
 - Tutoriais
 - Windows
 tags: 
-- Pendrive Multiboot
+- Pendrive-Multiboot
 socialshare: true
 ---
 

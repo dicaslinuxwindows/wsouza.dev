@@ -8,7 +8,7 @@ categories:
   - Ubuntu
 tags:
   - Temas
-  - Ubuntu 22.04
+  - Ubuntu-22.04
 socialshare: true
 draft: false
 ---

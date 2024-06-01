@@ -6,7 +6,7 @@ url: /2019/06/debian-installer-buster-rc-2-release.html
 categories: 
 - Debian
 tags: 
-- Debian Buster
+- Debian-Buster
 socialshare: true
 ---
 
