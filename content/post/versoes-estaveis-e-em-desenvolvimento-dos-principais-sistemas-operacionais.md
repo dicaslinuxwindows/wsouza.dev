@@ -26,7 +26,7 @@ draft: false
 ---
 
 Considerando que este espaço estava há mais de 3 anos sem receber atualizações, é fato que muita coisa aconteceu dede janeiro de 2022.
-Com o intuito de preencher este vazio, este artigo apresenta as versões estáveis e em desenvolvimento dos sistemas operacionais **Debian**, **Ubuntu**, **Fedora**, **Linux Mint** e **Windows**. Além disso, detalha o ciclo de vida de cada versão estável e as previsões de lançamento das versões em desenvolvimento.
+Com o intuito de preencher este vazio, este artigo apresenta as versões estáveis e em desenvolvimento dos sistemas operacionais **Debian**, **Ubuntu**, **Fedora**, **Linux Mint** e **Windows**. Além disso, mostra o ciclo de vida de cada versão e as previsões de lançamento das versões em desenvolvimento.
 
 <!--more-->
 
@@ -42,7 +42,7 @@ Com o intuito de preencher este vazio, este artigo apresenta as versões estáve
 
 - **Próxima Versão:** Debian 13 "Trixie"
 - **Previsão de Lançamento:** Esperada para meados de 2025.  
-📎 Para mais detalhes, veja a matéria publicada aqui recentemente: <a href="https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html" target="_blank">Debian 13: Primeiras Informações</a>
+📎 Para mais detalhes, veja a matéria publicada aqui recentemente: <a href="https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html" target="_blank">Debian 13 "Trixie": Histórico, Novidades e Previsão de Lançamento</a>
 
 ## 🐧 Ubuntu
 
