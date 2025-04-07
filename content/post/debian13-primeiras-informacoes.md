@@ -13,7 +13,7 @@ socialshare: true
 
 # Debian 13 "Trixie" – Um Novo Capítulo na História do Projeto Debian
 
-O **Debian 13**, codinome **"Trixie"**, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Neste artigo, abordamos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.
+O **Debian 13**, codinome **"Trixie"**, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Nesta dica, relembraremos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.
 
 ---
 
@@ -23,7 +23,7 @@ Criado por **Ian Murdock** em agosto de 1993, o Debian surgiu como um projeto co
 
 Uma curiosidade interessante é que todos os codinomes das versões do Debian são inspirados em personagens do filme **Toy Story**.
 
-Para mais informações sobre a origem, ciclo de desenvolvimento, estrutura de versões e outras curiosidades, consulte o artigo completo no site W.Souza:
+Para mais informações sobre a origem, ciclo de desenvolvimento, estrutura de versões e outras curiosidades, consulte o artigo completo em:
 
 👉 <a href="https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html" target="_blank">Debian - Curiosidades, versões e ciclo de vida</a>
 
