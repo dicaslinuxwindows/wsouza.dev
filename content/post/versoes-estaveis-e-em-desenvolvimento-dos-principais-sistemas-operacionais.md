@@ -2,8 +2,8 @@
 title: 'Versões Estáveis e em Desenvolvimento dos Principais Sistemas Operacionais'
 description: ""
 date: "2025-04-07T15:29:08-03:00"
-url: 
-thumbnail: ""
+url: /2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html
+thumbnail: "https://info.wsouza.com.br/img/posts/thumb-versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.png"
 categories:
 - Artigos
 - Debian
