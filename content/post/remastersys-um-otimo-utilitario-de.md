@@ -5,9 +5,9 @@ draft: false
 url: /2013/01/remastersys-um-otimo-utilitario-de.html
 categories:
 - Tutoriais
-- Ubuntu
 tags: 
 - Remaster
+- Ubuntu
 socialshare: true
 ---
 

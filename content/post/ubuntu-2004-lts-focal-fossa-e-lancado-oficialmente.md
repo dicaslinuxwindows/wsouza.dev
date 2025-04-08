@@ -5,9 +5,9 @@ thumbnail: "https://2.bp.blogspot.com/-8cChCQI2Z6g/Xuq7hBFv6bI/AAAAAAAAPII/2gSrV
 draft: false
 url: /2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html
 categories:
-- Ubuntu
+- Artigos
 tags: 
-- Ubuntu-20.04
+- Ubuntu
 socialshare: true
 ---
 

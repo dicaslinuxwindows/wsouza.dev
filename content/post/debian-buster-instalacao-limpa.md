@@ -4,10 +4,9 @@ date: 2019-07-20T20:31:00.002-03:00
 draft: false
 url: /2019/07/debian-buster-instalacao-limpa.html
 categories:
-- Debian
 - Tutoriais
 tags: 
-- Debian-Buster
+- Debian
 socialshare: true
 ---
 

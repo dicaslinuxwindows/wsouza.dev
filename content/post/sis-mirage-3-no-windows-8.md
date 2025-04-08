@@ -4,11 +4,10 @@ date: 2013-12-29T00:22:00.002-02:00
 draft: false
 url: /2013/12/sis-mirage-3-no-windows-8.html
 categories:
-- Windows
 - Tutoriais
 tags: 
 - Sis-Mirage-3-Graphics
-- Windows-8
+- Windows
 socialshare: true
 ---
 

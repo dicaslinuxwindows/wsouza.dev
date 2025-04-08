@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-lGpQaKft95g/X6NgmW0XwWI/AAAAAAAAQx0/BnhVb
 draft: false
 url: /2020/11/daily-builds-do-ubuntu-2104-liberadas.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-21.04
+- Ubuntu
 socialshare: true
 ---
 

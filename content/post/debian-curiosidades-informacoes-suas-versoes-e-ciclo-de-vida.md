@@ -4,8 +4,9 @@ date: 2019-07-03T00:05:00.003-03:00
 draft: false
 url: /2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html
 categories:
-- Debian
 - Artigos
+tags:
+- Debian
 socialshare: true
 ---
 

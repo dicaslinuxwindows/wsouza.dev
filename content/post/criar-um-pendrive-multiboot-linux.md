@@ -5,9 +5,9 @@ draft: false
 url: /2015/01/criar-um-pendrive-multiboot-linux.html
 categories:
 - Tutoriais
-- Windows
 tags: 
 - Pendrive-Multiboot
+- Windows
 socialshare: true
 ---
 

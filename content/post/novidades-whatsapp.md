@@ -5,9 +5,10 @@ draft: false
 url: /2019/07/novidades-whatsapp.html
 
 categories:
-- Android
+- Dicas
 tags: 
 - WhatsApp
+- Android
 socialshare: true
 ---
 

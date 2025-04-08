@@ -6,11 +6,11 @@ draft: false
 url: /2021/04/primeiras-impressoes-sobre-o-gnome-40.html
 categories:
 - Artigos
+tags: 
+- GNOME
 - Debian
 - Fedora
 - Ubuntu
-tags: 
-- GNOME
 socialshare: true
 ---
 

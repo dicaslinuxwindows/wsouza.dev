@@ -4,8 +4,9 @@ date: 2015-09-29T23:09:00.002-03:00
 draft: false
 url: /2015/09/como-instalar-central-de-programas.html
 categories:
-- Debian
 - Tutoriais
+tags:
+- Debian
 socialshare: true
 ---
 

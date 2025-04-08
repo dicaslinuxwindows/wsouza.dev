@@ -5,9 +5,9 @@ draft: false
 thumbnail: "https://3.bp.blogspot.com/-klhiiWe_3AI/Xuq7hwYxotI/AAAAAAAAPIY/IDIZoj6KpVAVjuAf-MdldmxsO0Z-PF1PQCNcBGAsYHQ/s1600/Painel_de_controle.png"
 url: /2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html
 categories:
-- Windows
+- Dicas
 tags: 
-- Windows-10
+- Windows
 socialshare: true
 ---
 Ao que parece, a Microsoft vem trabalhando para acabar com o Painel de Controle, tradicional ferramenta onde ficam as configurações do Windows.

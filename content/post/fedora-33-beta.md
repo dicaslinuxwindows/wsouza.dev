@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-tpCRbqXKdGM/X30vwWI-3oI/AAAAAAAAQOc/CQcSw
 draft: false
 url: /2020/10/fedora-33-beta.html
 categories:
-- Fedora
+- Dicas
 tags: 
-- Fedora-33
+- Fedora
 socialshare: true
 ---
 

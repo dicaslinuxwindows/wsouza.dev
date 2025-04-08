@@ -5,12 +5,12 @@ thumbnail: "https://1.bp.blogspot.com/-88UIhEs61oA/YDwWR6Dc2wI/AAAAAAAARws/L37oa
 draft: false
 url: /2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html
 categories:
-- Debian
-- Ubuntu
 - Tutoriais
-- Fedora
 tags: 
 - IRPF
+- Debian
+- Ubuntu
+- Fedora
 socialshare: true
 ---
 

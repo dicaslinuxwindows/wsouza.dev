@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-p8CfnXzNuRg/X5mwSIIy0yI/AAAAAAAAQt4/zWg1P
 draft: false
 url: /2020/10/lancamento-fedora-33.html
 categories:
-- Fedora
+- Artigos
 tags:
-- Fedora-33
+- Fedora
 socialshare: true
 ---
 

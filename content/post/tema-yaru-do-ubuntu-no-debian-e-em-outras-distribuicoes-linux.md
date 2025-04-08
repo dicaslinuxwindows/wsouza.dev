@@ -5,12 +5,13 @@ thumbnail: "https://3.bp.blogspot.com/-X4gvp1bF-C8/Xuq7ikJmvfI/AAAAAAAAPIg/gb6vC
 draft: false
 url: /2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html
 categories:
+- Tutoriais
+tags: 
+- Temas
 - Debian
 - Ubuntu
 - Fedora
 - Linux-Mint
-tags: 
-- Temas
 socialshare: true
 ---
 

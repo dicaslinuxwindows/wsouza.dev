@@ -5,9 +5,9 @@ thumbnail: "https://2.bp.blogspot.com/-TlxyvHyhXaU/X0g3yaEIEgI/AAAAAAAAP2U/PTToc
 draft: false
 url: /2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html
 categories:
-- Debian
+- Dicas
 tags: 
-- Debian-Bullseye
+- Debian
 socialshare: true
 ---
 

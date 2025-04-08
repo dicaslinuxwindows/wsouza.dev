@@ -5,7 +5,7 @@ draft: false
 thumbnail: "https://1.bp.blogspot.com/-PLlzYvAUUX4/X0WuYKZE4YI/AAAAAAAAPw8/QJZt1Ho9nns_vCwLGl4H-UXtegvussRNACNcBGAsYHQ/s1600/Firefox_80.png"
 url: /2020/08/lancado-o-navegador-firefox-80.html
 categories:
-- Dicas
+- Artigos
 tags: 
 - Firefox
 socialshare: true

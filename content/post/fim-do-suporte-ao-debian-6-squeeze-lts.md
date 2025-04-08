@@ -4,6 +4,8 @@ date: 2016-02-21T01:02:00.000-03:00
 draft: false
 url: /2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html
 categories: 
+- Dicas
+tags:
 - Debian
 socialshare: true
 ---

@@ -4,9 +4,10 @@ date: 2019-01-31T15:01:00.000-02:00
 draft: false
 url: /2019/01/nova-aparencia-do-aplicativo-do-gmail.html
 categories: 
-- Android
+- Dicas
 tags: 
 - Gmail
+- Android
 socialshare: true
 ---
 

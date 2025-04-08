@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-X547XE_2pQ8/X1gefNIVKBI/AAAAAAAAQB4/Y76HW
 draft: false
 url: /2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-20.10
+- Ubuntu
 socialshare: true
 ---
 

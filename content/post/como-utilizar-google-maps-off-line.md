@@ -5,6 +5,7 @@ draft: false
 url: /2015/12/como-utilizar-google-maps-off-line.html
 categories:
 - Dicas
+tags:
 - Android
 socialshare: true
 ---

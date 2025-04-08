@@ -5,9 +5,9 @@ draft: false
 url: /2018/04/ms-paint-classico-direto-no-navegador.html
 categories:
 - Dicas
-- Windows
 tags: 
 - Paint
+- Windows
 socialshare: true
 ---
 

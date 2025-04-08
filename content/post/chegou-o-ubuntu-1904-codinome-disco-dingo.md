@@ -4,9 +4,9 @@ date: 2019-04-20T18:54:00.002-03:00
 draft: false
 url: /2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html
 categories:
-- Ubuntu
+- Artigos
 tags: 
-- Ubuntu-19.04
+- Ubuntu
 socialshare: true
 ---
 

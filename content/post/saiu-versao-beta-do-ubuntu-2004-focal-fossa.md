@@ -5,9 +5,9 @@ thumbnail: "https://2.bp.blogspot.com/-I-iLyINfwzI/Xuq7gYhfxeI/AAAAAAAAPIE/lzlQt
 draft: false
 url: /2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-20.04
+- Ubuntu
 socialshare: true
 ---
 

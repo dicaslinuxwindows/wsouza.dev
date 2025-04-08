@@ -4,9 +4,9 @@ date: 2015-10-22T23:50:00.000-02:00
 draft: false
 url: /2015/10/ubuntu-1510-lancado.html
 categories:
-- Ubuntu
+ - Artigos
 tags: 
-- Ubuntu-15.10
+- Ubuntu
 socialshare: true
 ---
 

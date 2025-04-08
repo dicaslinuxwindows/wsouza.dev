@@ -4,9 +4,9 @@ date: 2019-06-27T01:39:00.001-03:00
 draft: false
 url: /2019/06/debian-installer-buster-rc-2-release.html
 categories: 
-- Debian
+- Dicas
 tags: 
-- Debian-Buster
+- Debian
 socialshare: true
 ---
 

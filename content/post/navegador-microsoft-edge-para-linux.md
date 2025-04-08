@@ -5,12 +5,13 @@ thumbnail: "https://1.bp.blogspot.com/-MwrS0SBtQP8/X5Dz-Th40WI/AAAAAAAAQio/YFW00
 draft: false
 url: /2020/10/navegador-microsoft-edge-para-linux.html
 categories:
+- Artigos
+tags: 
+- Microsoft Edge
 - Debian
 - Fedora
 - Linux-Mint
 - Ubuntu
-tags: 
-- Microsoft Edge
 socialshare: true
 ---
 

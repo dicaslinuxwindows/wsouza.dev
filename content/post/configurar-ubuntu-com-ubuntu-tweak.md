@@ -5,6 +5,7 @@ draft: false
 url: /2015/04/configurar-ubuntu-com-ubuntu-tweak.html
 categories: 
 - Dicas
+tags:
 - Ubuntu
 socialshare: true
 ---

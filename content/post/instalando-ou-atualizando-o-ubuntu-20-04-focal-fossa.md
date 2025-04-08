@@ -5,9 +5,9 @@ thumbnail: "https://2.bp.blogspot.com/-aExmt4axzCk/Xuq7gDoTfsI/AAAAAAAAPH8/l9hR-
 draft: false
 url: /2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html
 categories:
-- Ubuntu
+- Tutoriais
 tags: 
-- Ubuntu-20.04
+- Ubuntu
 socialshare: true
 ---
 

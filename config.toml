@@ -1,6 +1,6 @@
 baseurl = "https://info.wsouza.com.br"
 languageCode = "en"
-paginate = "7" # Number of posts per page
+paginate = "5" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
 disqusShortname = "dicaslinuxewindows"
@@ -17,9 +17,9 @@ privacy_pack = true
  [privacy.disqus]
   disable = false
 [privacy.googleAnalytics]
-# anonymizeIP = false
-# disable = false
- #respectDoNotTrack = true
+#anonymizeIP = false
+#disable = false
+#respectDoNotTrack = true
 # useSessionStorage = true
 # [privacy.instagram]
 #  disable = true
@@ -43,96 +43,121 @@ privacy_pack = true
     name = "HOME"
     url = "/"
     weight = 1
-  [[menu.main]]
-    identifier = "category"
-    name = "CATEGORIAS"
-    url = "#"
-    weight = 2
-  [[menu.main]]
-    identifier = "category1"
-    name = "Artigos"
+    
+[[menu.main]]
+    identifier = "artigos"
+    name = "ARTIGOS"
     url = "/categories/artigos"
-    parent = "category"
-    weight = 1
-  [[menu.main]]
-    identifier = "category2"
-    name = "Dicas"
+    weight = 2
+    
+[[menu.main]]
+    identifier = "dicas"
+	name = "DICAS"
     url = "/categories/dicas"
-    parent = "category"
-    weight = 2
-    [[menu.main]]
-    identifier = "category3"
-    name = "Educacional"
+    weight = 3
+[[menu.main]]
+    identifier = "educacional"
+    name = "EDUCACIONAL"
     url = "/categories/educacional"
-    parent = "category"
-    weight = 3
-    [[menu.main]]
-    identifier = "category4"
-    name = "Tutoriais"
-    url = "/categories/tutoriais"
-    parent = "category"
     weight = 4
-    [[menu.main]]
-    identifier = "system"
-    name = "SISTEMAS"
-    url = "#"
-    weight = 3
-  [[menu.main]]
-    identifier = "system1"
-    name = "Android"
-    url = "/categories/android"
-    parent = "system"
-    weight = 1
-  [[menu.main]]
-    identifier = "system2"
-    name = "Debian"
-    url = "/categories/debian"
-    parent = "system"
-    weight = 2
-    [[menu.main]]
-    identifier = "system3"
-    name = "Fedora"
-    url = "/categories/fedora"
-    parent = "system"
-    weight = 3
-    [[menu.main]]
-    identifier = "system4"
-    name = "Linux Mint"
-    url = "/categories/linux-mint"
-    parent = "system"
-    weight = 4
-    [[menu.main]]
-    identifier = "system5"
-    name = "Ubuntu"
-    url = "/categories/ubuntu"
-    parent = "system"
-    weight = 5
-    [[menu.main]]
-    identifier = "system6"
-    name = "Windows"
-    url = "/categories/windows"
-    parent = "system"
-    weight = 6
- # [[menu.main]]
-  #  identifier = "contact"
-   # name = "CONTATO"
-    #url = "/contato/"
-   # weight = 4   
+    
+[[menu.main]]
+     identifier = "tutoriais"
+     name = "TUTORIAIS"
+     url = "/categories/tutoriais"
+     weight = 5 
+      
+# [[menu.main]]
+#   identifier = "category"
+#    name = "CATEGORIAS"
+#    url = "#"
+#    weight = 2
+#  [[menu.main]]
+#    identifier = "category1"
+#    name = "Artigos"
+#    url = "/categories/artigos"
+#    parent = "category"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "category2"
+#    name = "Dicas"
+#    url = "/categories/dicas"
+#    parent = "category"
+#    weight = 2
+#    [[menu.main]]
+#    identifier = "category3"
+#    name = "Educacional"
+#    url = "/categories/educacional"
+#    parent = "category"
+#    weight = 3
+#    [[menu.main]]
+#    identifier = "category4"
+#    name = "Tutoriais"
+#    url = "/categories/tutoriais"
+#    parent = "category"
+#    weight = 4
+#    [[menu.main]]
+#    identifier = "system"
+#    name = "SISTEMAS"
+#    url = "#"
+#    weight = 3
+#  [[menu.main]]
+#    identifier = "system1"
+#    name = "Android"
+#    url = "/categories/android"
+#    parent = "system"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "system2"
+#    name = "Debian"
+#    url = "/categories/debian"
+#    parent = "system"
+#    weight = 2
+#    [[menu.main]]
+#    identifier = "system3"
+#    name = "Fedora"
+#    url = "/categories/fedora"
+#    parent = "system"
+#    weight = 3
+#    [[menu.main]]
+#    identifier = "system4"
+#    name = "Linux Mint"
+#    url = "/categories/linux-mint"
+#    parent = "system"
+#    weight = 4
+#    [[menu.main]]
+#    identifier = "system5"
+#    name = "Ubuntu"
+#   url = "/categories/ubuntu"
+#    parent = "system"
+#    weight = 5
+#    [[menu.main]]
+#    identifier = "system6"
+#    name = "Windows"
+#    url = "/categories/windows"
+#    parent = "system"
+#    weight = 6
+# [[menu.main]]
+#  identifier = "contact"
+# name = "CONTATO"
+#url = "/contato/"
+# weight = 4   
+
   [[menu.main]]
     identifier = "rss"
     name = " RSS"
     url = "/rss/"
-    weight = 5   
+    weight = 6   
   [[menu.main]]
     identifier = "policies"
     name = "POLÍTICAS"
     url = "/politicas/"
-    weight = 5
+    weight = 7
   [[menu.main]]
     identifier = "about"
     name = "SOBRE"
     url = "/sobre/"
-    weight = 6   
+    weight = 8   
       
  [Author]
  name = "W.Souza"

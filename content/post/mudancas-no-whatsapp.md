@@ -4,9 +4,10 @@ date: 2018-07-24T01:32:00.000-03:00
 draft: false
 url: /2018/07/mudancas-no-whatsapp.html
 categories:
-- Android
+- Dicas
 tags: 
 - WhatsApp
+- Android
 socialshare: true
 ---
 

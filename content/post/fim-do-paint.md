@@ -5,9 +5,10 @@ draft: false
 url: /2017/07/fim-do-paint.html
 categories:
 - Dicas
-- Windows
+
 tags: 
 - Paint
+- Windows
 socialshare: true
 ---
 

@@ -6,11 +6,11 @@ draft: false
 url: /2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html
 categories:
 - Tutoriais
+tags: 
+- Empacotamento
 - Debian
 - Ubuntu
 - Fedora
-tags: 
-- Empacotamento
 socialshare: true
 ---
 

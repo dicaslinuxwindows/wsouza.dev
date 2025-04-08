@@ -5,6 +5,7 @@ draft: false
 url: /2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html
 categories:
 - Artigos
+tags:
 - Ubuntu
 socialshare: true
 ---

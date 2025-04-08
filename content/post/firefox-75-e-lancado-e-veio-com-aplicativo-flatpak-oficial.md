@@ -5,7 +5,7 @@ draft: false                      "
 thumbnail: "https://1.bp.blogspot.com/-J1B0dEmj-4Y/Xuq7gBWTeII/AAAAAAAAPIA/YnZzuGN1ZfwLz2YaxkJui2MF2Ck-1c7PwCNcBGAsYHQ/s1600/Firefox_75.png"
 url: /2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html
 categories:
-- Dicas
+- Artigos
 tags: 
 - Firefox
 socialshare: true

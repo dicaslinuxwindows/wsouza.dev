@@ -5,10 +5,10 @@ draft: false
 url: /2019/08/como-gravar-tela-utilizando-o-vlc.html
 categories:
 - Dicas
-- Debian
-- Windows
 tags: 
 - VLC
+- Debian
+- Windows
 socialshare: true
 ---
 

@@ -4,9 +4,9 @@ date: 2020-01-06T14:30:00.003-03:00
 draft: false
 url: /2020/01/suporte-do-windows-7-acaba-em-14012020.html
 tags: 
-- Windows-7
-categories:
 - Windows
+categories:
+- Dicas
 socialshare: true
 ---
 

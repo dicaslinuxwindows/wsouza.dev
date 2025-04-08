@@ -4,11 +4,9 @@ date: 2020-02-13T23:53:00.000-03:00
 draft: false
 url: /2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html
 categories:
-- Windows
 - Tutoriais
 tags: 
-- Windows-7
-- Windows-10
+- Windows
 socialshare: true
 ---
 

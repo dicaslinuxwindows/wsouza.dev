@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-SbhWttE77FY/YATwDEx1s2I/AAAAAAAARio/QqJhO
 draft: false
 url: /2021/01/debian-bullseye-em-congelamento.html
 categories:
-- Debian
+- Dicas
 tags: 
-- Debian-Bullseye
+- Debian
 socialshare: true
 ---
 

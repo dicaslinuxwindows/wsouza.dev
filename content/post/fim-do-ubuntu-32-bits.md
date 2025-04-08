@@ -4,9 +4,10 @@ date: 2019-06-20T19:41:00.004-03:00
 draft: false
 url: /2019/06/fim-do-ubuntu-32-bits.html
 categories:
-- Ubuntu
+- Artigos
 tags:
 - Ubuntu-32-bits
+- Ubuntu
 socialshare: true
 ---
 

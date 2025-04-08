@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-uIugK_p6nsg/YIYRoicxxQI/AAAAAAAASDA/qslFr
 draft: false
 url: /2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html
 categories:
-- Ubuntu
+- Artigos
 tags: 
-- Ubuntu-21.04
+- Ubuntu
 socialshare: true
 ---
 

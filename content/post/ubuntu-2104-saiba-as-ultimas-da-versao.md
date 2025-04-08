@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-V0Q1kbmq0Xc/YAznr14cKFI/AAAAAAAARlY/Elo1I
 draft: false
 url: /2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-21.04
+- Ubuntu
 socialshare: true
 ---
 

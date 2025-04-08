@@ -4,10 +4,10 @@ date: 2018-02-27T12:13:00.006-03:00
 draft: false
 url: /2018/02/whatsapp-business-o-whatsapp-para-empresas.html
 categories:
-- Android
 - Tutoriais
 tags: 
 - WhatsApp
+- Android
 socialshare: true
 ---
 

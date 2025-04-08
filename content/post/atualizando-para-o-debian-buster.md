@@ -4,10 +4,9 @@ date: 2019-07-02T21:19:00.001-03:00
 draft: false
 url: /2019/07/atualizando-para-o-debian-buster.html
 categories:
-- Debian
 - Tutoriais
 tags: 
-- Debian-Buster
+- Debian
 socialshare: true
 ---
 

@@ -4,11 +4,10 @@ date: 2015-04-27T00:24:00.000-03:00
 draft: false
 url: /2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html
 categories:
+- Artigos
+tags:
 - Debian
 - Ubuntu
-tags:
- - Debian-Jessie
- - Ubuntu-15.04
 socialshare: true
 --- 
 Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.  

@@ -5,9 +5,9 @@ thumbnail: "https://4.bp.blogspot.com/-LHSrzR_N8Kc/Xuq7hCjPZlI/AAAAAAAAPIM/XVlUr
 draft: false
 url: /2020/05/ubuntu-2010-maio-2020.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-20.10
+- Ubuntu
 socialshare: true
 ---
 

@@ -4,6 +4,8 @@ date: 2017-06-17T20:29:00.002-03:00
 draft: false
 url: /2017/06/lancamento-debian-9-stretch.html
 categories: 
+- Artigos
+tags:
 - Debian
 socialshare: true
 ---

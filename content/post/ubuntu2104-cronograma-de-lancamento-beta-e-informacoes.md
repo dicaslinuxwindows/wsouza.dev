@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-pGO3IxrlLbM/YGVO_iuYXqI/AAAAAAAAR70/n8_qz
 draft: false
 url: /2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html
 categories:
-- Ubuntu
+- Artigos
 tags: 
-- Ubuntu-21.04
+- Ubuntu
 socialshare: true
 ---
 

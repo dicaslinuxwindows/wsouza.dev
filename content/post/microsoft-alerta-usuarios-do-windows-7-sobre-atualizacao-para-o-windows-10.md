@@ -4,9 +4,9 @@ date: 2019-03-14T00:30:00.000-03:00
 draft: false
 url: /2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html
 categories:
-- Windows
+ - Dicas
 tags: 
-- Windows-7
+- Windows
 socialshare: true
 ---
 

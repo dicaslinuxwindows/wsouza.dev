@@ -5,9 +5,9 @@ date: "2022-01-05T16:30:27-03:00"
 url: /2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html
 thumbnail: ""
 categories:
-  - Ubuntu  
+- Dicas
 tags:
-  - Ubuntu-22.04
+- Ubuntu  
 socialshare: true
 draft: false
 ---

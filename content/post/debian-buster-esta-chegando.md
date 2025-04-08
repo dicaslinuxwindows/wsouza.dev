@@ -4,9 +4,9 @@ date: 2019-06-25T00:05:00.000-03:00
 draft: false
 url: /2019/06/debian-buster-esta-chegando.html
 categories:
-- Debian
+- Dicas
 tags: 
-- Debian-Buster
+- Debian
 socialshare: true
 ---
 

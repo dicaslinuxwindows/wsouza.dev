@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-jCgXGlcdLMQ/X5yHeykZXEI/AAAAAAAAQvs/A1hq4
 draft: false
 url: /2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-21.04
+- Ubuntu
 socialshare: true
 ---
 

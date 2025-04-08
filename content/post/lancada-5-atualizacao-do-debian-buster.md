@@ -5,9 +5,9 @@ draft: false
 thumbnail: "https://2.bp.blogspot.com/-csKVfolxpQs/XydCFntY5lI/AAAAAAAAPg8/UmVcIMHKyE8vT0vTEvtw2xVtXkhKOXjZACNcBGAsYHQ/s1600/Buster_10.5.png"
 url: /2020/08/lancada-5-atualizacao-do-debian-buster.html
 categories:
-- Debian
+- Artigos
 tags: 
-- Debian-Buster
+- Debian
 socialshare: true
 ---
 

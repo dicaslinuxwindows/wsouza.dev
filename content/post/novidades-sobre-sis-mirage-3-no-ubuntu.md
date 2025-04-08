@@ -4,11 +4,11 @@ date: 2015-01-04T05:05:00.003-02:00
 draft: false
 url: /2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html
 categories:
-- Debian
-- Ubuntu
 - Tutoriais
 tags: 
 - Sis-Mirage-3-Graphics
+- Debian
+- Ubuntu
 socialshare: true
 ---
 

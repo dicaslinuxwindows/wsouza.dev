@@ -5,7 +5,7 @@ thumbnail: "https://1.bp.blogspot.com/-Z-qngYReewQ/YGKR31VS0rI/AAAAAAAAR6U/u6TTP
 draft: false
 url: /2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html
 categories:
-- Dicas
+- Tutoriais
 tags: 
 - Microsoft-Edge
 socialshare: true

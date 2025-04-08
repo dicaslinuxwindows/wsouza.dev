@@ -5,10 +5,10 @@ date: "2022-01-04T19:04:53-03:00"
 url: /2022/01/tema-do-ubuntu-com-nova-cor.html
 thumbnail: ""
 categories:
-  - Ubuntu
+- Dicas
 tags:
+  - Ubuntu
   - Temas
-  - Ubuntu-22.04
 socialshare: true
 draft: false
 ---

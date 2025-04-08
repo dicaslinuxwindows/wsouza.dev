@@ -4,9 +4,10 @@ date: 2019-07-05T00:52:00.001-03:00
 draft: false
 url: /2019/07/novo-firefox-para-android.html
 categories:
-- Android
+- Dicas
 tags: 
 - Firefox
+- Android
 socialshare: true
 ---
 

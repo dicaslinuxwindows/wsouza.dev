@@ -5,9 +5,9 @@ thumbnail: "https://4.bp.blogspot.com/-m_89laYKm4k/XwfXw1PM7YI/AAAAAAAAPTg/gPiDl
 draft: false
 url: /2020/03/noticias-sobre-o-ubuntu-20-04-lts.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-20.04
+- Ubuntu
 socialshare: true
 ---
 

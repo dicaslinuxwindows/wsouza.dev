@@ -4,10 +4,10 @@ date: 2019-03-12T00:53:00.000-03:00
 draft: false
 url: /2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html
 categories: 
-- Debian
 - Tutoriais
 tags:
 - Java
+- Debian
 socialshare: true
 ---
 

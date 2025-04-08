@@ -4,9 +4,9 @@ date: 2019-10-18T11:31:00.000-03:00
 draft: false
 url: /2019/10/ubuntu-1910-chegou.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-19.10
+- Ubuntu
 socialshare: true
 ---
 

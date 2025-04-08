@@ -4,9 +4,9 @@ date: 2022-01-11T23:20:06-03:00
 url: /2022/01/fim-do-suporte-do-ubuntu-21-04.html
 thumbnail: ""
 categories:
-  - Ubuntu
+ - Dicas
 tags:
-  - Ubuntu-21.04
+ - Ubuntu
 socialshare: true
 draft: false
 ---

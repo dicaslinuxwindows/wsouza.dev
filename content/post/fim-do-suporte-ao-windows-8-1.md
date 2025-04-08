@@ -4,9 +4,9 @@ date: 2018-01-16T02:02:00.002-02:00
 draft: false
 url: /2018/01/fim-do-suporte-ao-windows-8-1.html
 categories:
-- Windows
+- Artigos
 tags: 
-- Windows-8
+- Windows
 socialshare: true
 ---
 

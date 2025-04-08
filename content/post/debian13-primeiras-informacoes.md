@@ -4,9 +4,8 @@ date: 2025-04-06T03:26:00.003-02:00
 draft: false
 url: /2025/04/debian13-primeiras-informacoes.html
 tags: 
-- Debian-13
-categories:
 - Debian
+categories:
 - Dicas
 socialshare: true
 ---

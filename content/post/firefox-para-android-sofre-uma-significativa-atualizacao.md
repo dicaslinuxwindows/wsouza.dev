@@ -5,10 +5,11 @@ thumbnail: "https://3.bp.blogspot.com/-_ZefuP8Gas4/X0g0lKloDfI/AAAAAAAAP10/6OGNW
 draft: false
 url: /2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html
 categories:
-- Dicas
-- Android
+- Artigos
+
 tags: 
 - Firefox
+- Android
 socialshare: true
 ---
 

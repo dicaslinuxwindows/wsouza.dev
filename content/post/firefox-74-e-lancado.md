@@ -5,7 +5,7 @@ thumbnail: "https://1.bp.blogspot.com/-hPQXMCrj5LU/XwfcmEjgVyI/AAAAAAAAPTs/oz1k5
 draft: false
 url: /2020/03/firefox-74-e-lancado.html
 categories:
-- Dicas
+- Artigos
 tags: 
 - Firefox
 socialshare: true

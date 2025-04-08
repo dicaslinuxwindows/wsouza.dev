@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-JM1zglSSpC4/X30Y97bQAKI/AAAAAAAAQOM/RR5Mt
 draft: false
 url: /2020/10/ubuntu-2010-beta-e-papeis-de-parede.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
-- Ubuntu-20.10
+- Ubuntu
 socialshare: true
 ---
 

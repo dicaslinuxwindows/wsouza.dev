@@ -4,8 +4,9 @@ date: 2019-10-06T22:41:00.001-03:00
 draft: false
 url: /2019/10/skolelinux-o-debian-educacional.html
 categories:
-- Debian
 - Educacional
+tags:
+- Debian
 socialshare: true
 ---
 

@@ -4,10 +4,10 @@ date: 2015-10-07T22:25:00.001-03:00
 draft: false
 url: /2015/10/backup-do-whatsapp-no-google-drive.html
 categories:
-- Dicas
-- Android
+- Tutoriais
 tags: 
 - WhatsApp
+- Android
 socialshare: true
 ---
 

@@ -4,10 +4,9 @@ date: 2018-11-19T12:29:00.004-02:00
 draft: false
 url: /2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html
 categories: 
-- Ubuntu
 - Tutoriais
 tags:
-- Ubuntu-32-bits
+- Ubuntu
 socialshare: true
 ---
 

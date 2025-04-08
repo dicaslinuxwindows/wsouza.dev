@@ -5,9 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-0-StLx5vmSY/X5JJsftGbrI/AAAAAAAAQi8/zX63i
 draft: false
 url: /2020/10/ubuntu-groovy-gorilla-lancado.html
 categories:
-- Ubuntu
+- Artigos
 tags: 
-- Ubuntu-20.10
+- Ubuntu
 socialshare: true
 ---
 

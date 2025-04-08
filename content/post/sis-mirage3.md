@@ -4,12 +4,12 @@ date: 2013-04-02T00:23:00.000-03:00
 draft: false
 url: /2013/04/sis-mirage3.html
 categories:
-- Debian
-- Ubuntu
 - Tutoriais
-- Windows
 tags: 
 - Sis-Mirage-3-Graphics
+- Debian
+- Ubuntu
+- Windows
 socialshare: true
 ---
 

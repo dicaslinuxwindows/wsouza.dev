@@ -6,12 +6,12 @@ draft: false
 url: /2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html
 categories:
 - Tutoriais
+tags: 
+- Máquina Virtual
 - Debian
 - Fedora
 - Linux-Mint
 - Ubuntu
-tags: 
-- Máquina Virtual
 socialshare: true
 ---
 

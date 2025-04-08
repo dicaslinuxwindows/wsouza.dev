@@ -5,8 +5,9 @@ thumbnail: "https://1.bp.blogspot.com/-4bTlZM62hYY/X4TCCS6WYzI/AAAAAAAAQUA/Hl0bW
 draft: false
 url: /2020/10/tema-yaru-do-ubuntu-no-libreoffice.html
 categories:
-- Ubuntu
+- Dicas
 tags: 
+- Ubuntu
 - Temas
 - Libre-Office
 socialshare: true
