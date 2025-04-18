@@ -180,7 +180,7 @@ privacy_pack = true
   googleAnalyticsID = "G-755N0HW50E"
   show_translations= true
   dateFormat = "Mon, Jan 2, 2006"
-  enableGitInfo = true
+  enableGitInfo = false
   favicon32 = "/favicon-32x32.png"
   favicon16 = "/favicon.ico"
 
