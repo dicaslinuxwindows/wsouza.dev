@@ -1,7 +1,7 @@
 baseurl = "https://info.wsouza.com.br"
 languageCode = "en"
 paginate = "5" # Number of posts per page
-theme = "mainroad"
+theme = "mainroad-ori"
 title = "Dicas Linux e Windows"
 disqusShortname = "dicaslinuxewindows"
 googleAnalytics = "G-755N0HW50E"
