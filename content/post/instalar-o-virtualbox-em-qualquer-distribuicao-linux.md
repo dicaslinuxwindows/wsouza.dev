@@ -1,7 +1,7 @@
 ---
 title: 'Instalando o VirtualBox em qualquer distribuição Linux'
 date: 2021-01-25T23:13:00.008-03:00
---thumbnail: "https://1.bp.blogspot.com/--09lJ3LkXgE/YA93oXVBAVI/AAAAAAAARmo/9K1YfOF6ybIimoPzMaAy2iRQMbZWK22CACNcBGAsYHQ/s16000/Virtualbox_Linux.png"
+thumbnail: "https://1.bp.blogspot.com/--09lJ3LkXgE/YA93oXVBAVI/AAAAAAAARmo/9K1YfOF6ybIimoPzMaAy2iRQMbZWK22CACNcBGAsYHQ/s16000/Virtualbox_Linux.png"
 draft: false
 url: /2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html
 categories:

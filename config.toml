@@ -193,7 +193,7 @@ privacy_pack = true
   email = "info@wsouza.com.br"
   
 [Params.thumbnail]
-  visibility = ["list", "post"] # Control thumbnail visibility
+#visibility = ["list", "post"] # Control thumbnail visibility
   
 [Params.logo]
   image = "https://blogger.googleusercontent.com/img/a/AVvXsEiIl2noRmnGVLZlSyL10HlZDojXtx7ECMx8OCId7hsJSTD-cT_aXWybB5NA6aGORF3m5KhsbejbMrKItUa-EMTL3-aKBLAXiW7MzliqqR_hX5uR0cjp15F8-8JGF8oieC0shsU2Ic-Zz0Q3JEbHNJMBH3PytR8G6LLL4OPqVr1XWnlXMXh6N0wbe9aang"
@@ -206,7 +206,7 @@ privacy_pack = true
   widgets = ["languages", "search", "recent", "taglist", "social"]
 
 [Params.widgets]
-  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  recent_num = 10 # Set the number of articles in the "Recent articles" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
   
 [Params.widgets.social]
@@ -223,4 +223,3 @@ privacy_pack = true
   
 [Params.style.vars]
   highlightColor = "#e95420" # Override highlight color
-
