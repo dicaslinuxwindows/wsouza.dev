@@ -148,16 +148,16 @@ privacy_pack = true
     name = " RSS"
     url = "/rss/"
     weight = 6   
-  [[menu.main]]
-    identifier = "policies"
-    name = "POLÍTICAS"
-    url = "/politicas/"
-    weight = 7
+ #  [[menu.main]]
+ #    identifier = "policies"
+ #    name = "POLÍTICAS"
+ #    url = "/politicas/"
+ #    weight = 7
   [[menu.main]]
     identifier = "about"
     name = "SOBRE"
     url = "/sobre/"
-    weight = 8   
+    weight = 7   
       
  [Author]
  name = "W.Souza"
