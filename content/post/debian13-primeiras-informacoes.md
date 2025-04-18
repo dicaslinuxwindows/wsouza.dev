@@ -6,7 +6,7 @@ url: /2025/04/debian13-primeiras-informacoes.html
 tags: 
 - Debian
 categories:
-- Dicas
+- Artigos
 socialshare: true
 ---
 
