@@ -3,7 +3,7 @@ title: 'Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualiza
 description: ""
 date: "2025-04-18T22:19:47-03:00"
 url: /2025/04/debian-ciclo-de-vida-atualizado.html
-thumbnail: "https://info.wsouza.com.br/img/posts/thumb-ciclo-debian-atualizado.png"
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-ciclo-debian-atualizado.png"
 categories:
 - Artigos
 tags:

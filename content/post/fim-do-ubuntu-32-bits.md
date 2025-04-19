@@ -6,7 +6,6 @@ url: /2019/06/fim-do-ubuntu-32-bits.html
 categories:
 - Artigos
 tags:
-- Arquiteturas
 - Ubuntu
 - 32-bits
 socialshare: true

@@ -2,7 +2,7 @@
 title: "Revisitando o Debian-Edu (Skolelinux)"
 url: /2025/04/revisitando-o-debian-edu-skolelinux.html
 description: ""
-#date: "2025-04-18T20:10:48-03:00"
+#date: "2025-04-19T19:59:48-03:00"
 thumbnail: "https://info.wsouza.com.br"
 categories:
   - Educacional

@@ -2,11 +2,10 @@
 title: "Distribuicões Linux com Suporte a Arquitetura 32 Bits em 2025"
 date: "2025-04-18T21:16:47-03:00"
 url: /2025/04/distribuicoes-linux-com-suporte-a-arquitetura-32-bits-em-2025.html
-thumbnail: "https://info.wsouza.com.br/img/posts/thumb-distribuicoes-32-bits-2025.png"
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-distribuicoes-32-bits-2025.png"
 categories:
   - Artigos
 tags:
-- Arquiteturas
 - 32-bits  
 socialshare: true
 ---

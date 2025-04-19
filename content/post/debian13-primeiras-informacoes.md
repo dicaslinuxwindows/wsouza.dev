@@ -1,7 +1,7 @@
 ---
 title: 'Debian 13 "Trixie": Histórico, Novidades e Previsão de Lançamento'
 date: 2025-04-06T03:26:00.003-02:00
-thumbnail: "https://info.wsouza.com.br/img/posts/thumb-debian-trixie.png"
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-debian-trixie.png"
 draft: false
 url: /2025/04/debian13-primeiras-informacoes.html
 tags: 

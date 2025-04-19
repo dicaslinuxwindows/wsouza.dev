@@ -6,7 +6,6 @@ url: /2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html
 categories: 
 - Artigos
 tags:
-- Arquiteturas
 - Ubuntu
 - 32-bits
 socialshare: true

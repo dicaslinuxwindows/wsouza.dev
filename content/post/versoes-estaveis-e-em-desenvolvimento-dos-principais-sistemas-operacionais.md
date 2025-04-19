@@ -3,7 +3,7 @@ title: 'Versões Estáveis e em Desenvolvimento dos Principais Sistemas Operacio
 description: ""
 date: "2025-04-07T15:29:08-03:00"
 url: /2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html
-thumbnail: "https://info.wsouza.com.br/img/posts/thumb-versoes-sistemas-operacionais.png"
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-versoes-sistemas-operacionais.png"
 categories:
 - Artigos
 tags:
