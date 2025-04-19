@@ -6,16 +6,17 @@ url:
 thumbnail: ""
 categories:
   - Artigos
-  - Debian
   - Dicas
   - Educacional
+  - Tutoriais
+
+tags:
+  - Debian
   - Fedora
   - Linux Mint
-  - Tutoriais
   - Ubuntu
-  - Windows  
-tags:
-  - ""
+  - Windows
+  
 socialshare: true
 draft: true
 ---

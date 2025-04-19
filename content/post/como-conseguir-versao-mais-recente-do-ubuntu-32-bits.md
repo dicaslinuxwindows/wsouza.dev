@@ -7,6 +7,7 @@ categories:
 - Tutoriais
 tags:
 - Ubuntu
+- Arquiteturas
 socialshare: true
 ---
 
