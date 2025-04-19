@@ -3,7 +3,7 @@ title: 'Versões Estáveis e em Desenvolvimento dos Principais Sistemas Operacio
 description: ""
 date: "2025-04-07T15:29:08-03:00"
 url: /2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html
-#thumbnail: "/img/posts/thumb-versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.png"
+thumbnail: "https://info.wsouza.com.br/img/posts/thumb-versoes-sistemas-operacionais.png"
 categories:
 - Artigos
 tags:
@@ -20,23 +20,23 @@ Com o intuito de preencher este vazio, este artigo apresenta as versões estáve
 
 <!--more-->
 
-##Debian
+## Debian
 
-###Versão Estável Atual
+### Versão Estável Atual
 
 - **Versão:** Debian 12 "Bookworm"
 - **Data de Lançamento:** 10 de junho de 2023  
 - **Ciclo de Vida:** Suporte por aproximadamente 5 anos, até junho de 2028.
 
-###Versão em Desenvolvimento
+### Versão em Desenvolvimento
 
 - **Próxima Versão:** Debian 13 "Trixie"
 - **Previsão de Lançamento:** Esperada para meados de 2025.  
 Para mais detalhes, veja a matéria publicada aqui recentemente: <a href="https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html" target="_blank">Debian 13 "Trixie": Histórico, Novidades e Previsão de Lançamento</a>
 
-##Ubuntu
+## Ubuntu
 
-###Versão Estável Atual
+### Versão Estável Atual
 
 - **Versão:** Ubuntu 24.04 LTS "Noble Numbat"
 - **Data de Lançamento:** Abril de 2024  
@@ -45,46 +45,46 @@ Para mais detalhes, veja a matéria publicada aqui recentemente: <a href="https:
   - **Com Ubuntu Pro:** até abril de 2034
   - **Com Suporte Legacy:** até abril de 2036
 
-###Versão em Desenvolvimento
+### Versão em Desenvolvimento
 
 - **Próxima Versão:** Ubuntu 25.04 "Plucky Puffin"
 - **Previsão de Lançamento:** Abril de 2025  
 - **Ciclo de Vida:** Suporte padrão de 9 meses (até janeiro de 2026)  
 🔗 Fonte: <a href="https://wiki.ubuntu.com/Releases" target="_blank">Ubuntu Release Schedule</a>
 
-##Fedora
+## Fedora
 
-###Versão Estável Atual
+### Versão Estável Atual
 
 - **Versão:** Fedora 41  
 - **Data de Lançamento:** 29 de outubro de 2024  
 - **Ciclo de Vida:** Suporte de aproximadamente 13 meses, até novembro de 2025.  
 🔗 Fonte: <a href="https://fedoramagazine.org/announcing-fedora-linux-41/" target="_blank">Fedora Magazine - Fedora 41</a>
 
-###Versão em Desenvolvimento
+### Versão em Desenvolvimento
 
 - **Próxima Versão:** Fedora 42  
 - **Previsão de Lançamento:** Abril de 2025  
 - **Ciclo de Vida:** Até maio de 2026.
 
-##Linux Mint
+## Linux Mint
 
-###Versão Estável Atual
+### Versão Estável Atual
 
 - **Versão:** Linux Mint 22.1 "Xia"  
 - **Data de Lançamento:** 16 de janeiro de 2025  
 - **Ciclo de Vida:** Suporte até abril de 2029.  
 🔗 Fonte: <a href="https://www.linuxmint.com/rel_xia.php" target="_blank">Linux Mint 22.1 "Xia" - Notas de Lançamento</a>
 
-###Versão em Desenvolvimento
+### Versão em Desenvolvimento
 
 - **Próxima Versão:** Linux Mint 22.2  
 - **Previsão de Lançamento:** Aproximadamente julho de 2025.  
 🔗 Fonte: <a href="https://forums.linuxmint.com/viewtopic.php?t=440693" target="_blank">Linux Mint Forums - Previsão de Lançamento do Linux Mint 22.2</a>
 
-##Windows
+## Windows
 
-###Versões Estáveis Atuais
+### Versões Estáveis Atuais
 
 - **Windows 10:**
   - **Última Versão:** 22H2
@@ -99,14 +99,14 @@ Para mais detalhes, veja a matéria publicada aqui recentemente: <a href="https:
     - Home/Pro: 24 meses (até outubro de 2025)
     - Enterprise/Education: 36 meses (até outubro de 2026)
 
-###Versão em Desenvolvimento
+### Versão em Desenvolvimento
 
 - **Próxima Versão:** Windows 12 (nome não oficial)
 - **Previsão de Lançamento:** Esperada para 2025 (rumores, sem data oficial)
 
 ---
 
-##Outras Referências
+## Outras Referências
 
 - <a href="https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html" target="_blank">Debian 13: Primeiras Informações</a>
 - <a href="https://wiki.ubuntu.com/Releases" target="_blank">Ubuntu - Releases Oficiais</a>

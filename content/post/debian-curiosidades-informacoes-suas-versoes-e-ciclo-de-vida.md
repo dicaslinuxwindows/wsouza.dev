@@ -12,6 +12,7 @@ socialshare: true
 
 Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.
 
+Nova versão desta matéria publicada em 18/04/2025 - <a href="https://info.wsouza.com.br/2025/04/debian-ciclo-de-vida-atualizado.html" target="_blank">Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025)</a>
 <!--more-->
 
 ## Debian - O que é
@@ -69,7 +70,7 @@ Normalmente sempre há 3 versões ativas, sendo Unstable _(Instável)_, Testing 
 A imagem abaixo mostra o tempo de suporte LTS e ELTS das últimas versões. Nota-se que o Debian Wheezy, que foi lançada em 2013, deixou de obter suporte ELTS em 01/05/2019.  
   
 
-[![](https://3.bp.blogspot.com/-ymTLg3y2XyY/XRulQoQjroI/AAAAAAAALvg/Q8Fo_nY-E5E73qhRtBUuBeP6-uYKkP33gCLcBGAs/s1600/Debian-LTS.png)](https://3.bp.blogspot.com/-ymTLg3y2XyY/XRulQoQjroI/AAAAAAAALvg/Q8Fo_nY-E5E73qhRtBUuBeP6-uYKkP33gCLcBGAs/s1600/Debian-LTS.png)
+[![](https://3.bp.blogspot.com/-ymTLg3y2XyY/XRulQoQjroI/AAAAAAAALvg/Q8Fo_nY-E5E73qhRtBUuBeP6-uYKkP33gCLcBGAs/s1600/Debian-LTS.png "Debian - Curiosidades, informações, versões e ciclo de vida")](https://3.bp.blogspot.com/-ymTLg3y2XyY/XRulQoQjroI/AAAAAAAALvg/Q8Fo_nY-E5E73qhRtBUuBeP6-uYKkP33gCLcBGAs/s1600/Debian-LTS.png)
 
   
 
