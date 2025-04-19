@@ -17,7 +17,7 @@ privacy_pack = true
  [privacy.disqus]
   disable = false
 [privacy.googleAnalytics]
-#anonymizeIP = false
+anonymizeIP = true
 #disable = false
 #respectDoNotTrack = true
 # useSessionStorage = true
@@ -170,7 +170,7 @@ privacy_pack = true
   rssLimit = 200
   copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
   schema = true # Enable Schema
-  twitter_cards = true
+  twitter_cards = false
   toc = true 
   readmore = true
   authorbox = true
@@ -178,7 +178,7 @@ privacy_pack = true
   keyword = "Windows, Linux, Mobile, Internet, Android, Dicas, Artigos, Tutoriais"
   post_meta = ["author", "date", "categories", "translations"]
   googleAnalyticsID = "G-755N0HW50E"
-  show_translations= true
+  show_translations= false
   dateFormat = "Mon, Jan 2, 2006"
   enableGitInfo = false
   favicon32 = "/favicon-32x32.png"
