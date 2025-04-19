@@ -7,7 +7,7 @@ categories:
   - Artigos
 tags:
 - Arquiteturas
-  
+- 32-bits  
 socialshare: true
 ---
 Apesar do domínio da arquitetura de 64 bits na computação atual, algumas distribuições Linux ainda oferecem suporte à arquitetura de 32 bits — e têm um motivo para isso. Neste artigo, explicamos as diferenças entre as arquiteturas de 32 e 64 bits, por que o suporte a 32 bits ainda é relevante e listamos as principais distribuições Linux que ainda oferecem suporte ativo a essa arquitetura em 2025.

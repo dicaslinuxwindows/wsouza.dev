@@ -8,6 +8,7 @@ categories:
 tags:
 - Arquiteturas
 - Ubuntu
+- 32-bits
 socialshare: true
 ---
 
