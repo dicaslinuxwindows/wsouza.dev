@@ -1,11 +1,11 @@
 ---
-#title: "Sobre"
+title: "Sobre"
 author: false
 draft: false
-#comments: false
-#socialshare: false
+comments: false
+socialshare: false
 authorbox: false
-#pagination: false
+pagination: false
 ---
 
 Desde 2013, este blog traz a experiência no uso de sistemas operacionais Linux, Windows, Mobile, e etc... 
