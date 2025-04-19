@@ -11,11 +11,9 @@ categories:
 socialshare: true
 ---
 
-# Debian 13 "Trixie" – Um Novo Capítulo na História do Projeto Debian
+O **Debian 13**, codinome **"Trixie"**, será a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Nesta dica, relembraremos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.
 
-O **Debian 13**, codinome **"Trixie"**, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Nesta dica, relembraremos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.
-
----
+<!--more-->
 
 ## Histórico do Projeto Debian
 

@@ -15,8 +15,7 @@ tags:
 socialshare: true
 ---
 
-Considerando que este espaço estava há mais de 3 anos sem receber atualizações, é fato que muita coisa aconteceu dede janeiro de 2022.
-Com o intuito de preencher este vazio, este artigo apresenta as versões estáveis e em desenvolvimento dos sistemas operacionais **Debian**, **Ubuntu**, **Fedora**, **Linux Mint** e **Windows**. Além disso, mostra o ciclo de vida de cada versão e as previsões de lançamento das versões em desenvolvimento.
+Este artigo apresenta as versões estáveis e em desenvolvimento dos sistemas operacionais **Debian**, **Ubuntu**, **Fedora**, **Linux Mint** e **Windows**. Além disso, mostra o ciclo de vida de cada versão e as previsões de lançamento das versões em desenvolvimento.
 
 <!--more-->
 
