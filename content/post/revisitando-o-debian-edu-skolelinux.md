@@ -11,7 +11,7 @@ tags:
 socialshare: true
 draft: false
 ---
-Em **2019**, publiquei <a href="https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html" target="_blank">um artigo sobre o Skolelinux</a>, destacando sua proposta de facilitar a implementação de ambientes escolares com software livre. Desde então, o projeto evoluiu significativamente, acompanhando os avanços do Debian e incorporando novas funcionalidades para atender às demandas educacionais contemporâneas.
+Em **2019** publiquei <a href="https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html" target="_blank">um artigo sobre o Skolelinux</a>, destacando sua proposta de facilitar a implementação de ambientes escolares com software livre. Desde então, o projeto evoluiu significativamente, acompanhando os avanços do Debian e incorporando novas funcionalidades para atender às demandas educacionais contemporâneas.
 <!--more-->
 ## O Que é o Debian Edu / Skolelinux?
 

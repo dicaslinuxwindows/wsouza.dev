@@ -160,9 +160,9 @@ privacy_pack = false
     weight = 7   
       
  [Author]
- name = "W.Souza"
+ name = "Wagner Souza"
  bio = "Usuário de Debian e Windows."
- avatar = "https://blogger.googleusercontent.com/img/a/AVvXsEhaExMFQx736MAebmuSzIyJaP4wXZqkvKAhf5qwME44A31K4kwqWj0dqCDisf-Jh9QQiwZmVPandEty4NfHQIZ2nS-kucDGBk4nMR7RGeklzk4NwEseZmNQ97hjQmo1kNdUGQyAhdNb5piMf4F05_fMsnr8dOu-XN7xNy-hig6tiswpp5sNANkGkvArkw"
+ avatar = "https://info.wsouza.com.br/img/wsouza.png"
 
 [Params]
   description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows e Linux." # Description of your site
@@ -196,7 +196,7 @@ privacy_pack = false
  visibility = "list"# Control thumbnail visibility
   
 [Params.logo]
-  image = "https://blogger.googleusercontent.com/img/a/AVvXsEiIl2noRmnGVLZlSyL10HlZDojXtx7ECMx8OCId7hsJSTD-cT_aXWybB5NA6aGORF3m5KhsbejbMrKItUa-EMTL3-aKBLAXiW7MzliqqR_hX5uR0cjp15F8-8JGF8oieC0shsU2Ic-Zz0Q3JEbHNJMBH3PytR8G6LLL4OPqVr1XWnlXMXh6N0wbe9aang"
+  image = "https://info.wsouza.com.br/img/logo.png"
   subtitle = "" # Logo subtitle
 
 [Params.sidebar]
