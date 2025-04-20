@@ -3,7 +3,7 @@ title: "Tema do Ubuntu com nova cor"
 description: ""
 date: "2022-01-04T19:04:53-03:00"
 url: /2022/01/tema-do-ubuntu-com-nova-cor.html
-thumbnail: ""
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-tema-ubuntu.png"
 categories:
 - Dicas
 tags:

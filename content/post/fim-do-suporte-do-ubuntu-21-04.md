@@ -2,7 +2,7 @@
 title: "Fim do suporte do Ubuntu 21.04"
 date: 2022-01-11T23:20:06-03:00
 url: /2022/01/fim-do-suporte-do-ubuntu-21-04.html
-thumbnail: ""
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-suporte-ubuntu21-04.png"
 categories:
  - Dicas
 tags:

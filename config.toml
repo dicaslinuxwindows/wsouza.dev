@@ -16,7 +16,7 @@ privacy_pack = false
 [privacy]
  [privacy.disqus]
   disable = false
-[privacy.googleAnalytics]
+#[privacy.googleAnalytics]
 #anonymizeIP = true
 #disable = false
 #respectDoNotTrack = true

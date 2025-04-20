@@ -3,7 +3,7 @@ title: "Novidades Ubuntu 22.04 LTS - Jammy Jellyfish"
 description: ""
 date: "2022-01-05T16:30:27-03:00"
 url: /2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html
-thumbnail: ""
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-novidades-ubuntu-22-04.png"
 categories:
 - Dicas
 tags:
