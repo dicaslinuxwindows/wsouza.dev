@@ -11,13 +11,13 @@ enableMissingTranslationPlaceholders = true
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = true
+privacy_pack = false
 
 [privacy]
  [privacy.disqus]
   disable = false
 [privacy.googleAnalytics]
-anonymizeIP = true
+#anonymizeIP = true
 #disable = false
 #respectDoNotTrack = true
 # useSessionStorage = true
@@ -33,8 +33,8 @@ anonymizeIP = true
 #  enableDNT = true
 #  simple = true
 # [privacy.youtube]
-  disable = false
-  privacyEnhanced = true
+#  disable = false
+#  privacyEnhanced = true
 
 [menu]
   [[menu.main]]

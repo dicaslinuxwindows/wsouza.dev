@@ -1,7 +1,7 @@
 ---
 title: "Fedora 42 é Lançado"
 description: ""
-#thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-fedora42-lancado.png"
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-fedora42-lancado.png"
 date: "2025-04-19T19:09:08-03:00"
 url: /2025/04/fedora-42-lancado.html
 categories:
