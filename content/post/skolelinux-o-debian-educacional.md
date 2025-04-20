@@ -6,7 +6,7 @@ url: /2019/10/skolelinux-o-debian-educacional.html
 categories:
 - Educacional
 tags:
-- Debian
+- Debian-Edu
 socialshare: true
 ---
 
