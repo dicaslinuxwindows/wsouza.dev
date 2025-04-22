@@ -16,9 +16,9 @@ privacy_pack = true
 [privacy]
 [privacy.disqus]
 disable = false
-[privacy.googleAnalytics]
-disable = true
-anonymizeIP = false
+#[privacy.googleAnalytics]
+#disable = true
+#anonymizeIP = false
 #respectDoNotTrack = true
 # useSessionStorage = true
 # [privacy.instagram]
@@ -180,7 +180,7 @@ anonymizeIP = false
   googleAnalyticsID = "G-755N0HW50E"
   show_translations= false
   dateFormat = "Mon, Jan 2, 2006"
-  enableGitInfo = false
+  enableGitInfo = true
   favicon32 = "/favicon-32x32.png"
   favicon16 = "/favicon.ico"
 
@@ -210,10 +210,10 @@ anonymizeIP = false
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
   
 [Params.widgets.social]
-  # Enable parts of social widget
+#Enable parts of social widget
   email = "info@wsouza.com.br"
   github = "dicaslinuxwindows"
-  threads = "dicaslinuxewindows"
+#  threads = "dicaslinuxewindows"
   
 [Params.social.share]
   facebook = true
@@ -222,10 +222,11 @@ anonymizeIP = false
   twitter = true
   whatsapp = true
   email = true
+  reddit = true
 #  youtube = true
 #  tiktok = true
 #  threads = true
-  reddit = true
+
   
 [Params.style.vars]
   highlightColor = "#e95420" # Override highlight color
