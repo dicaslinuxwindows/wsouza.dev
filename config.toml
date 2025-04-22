@@ -212,7 +212,7 @@ disable = false
 [Params.widgets.social]
 #Enable parts of social widget
   email = "info@wsouza.com.br"
-#  github = "dicaslinuxwindows"
+ github = "dicaslinuxwindows"
 #  threads = "dicaslinuxewindows"
   
 [Params.social.share]
