@@ -1,5 +1,5 @@
 baseurl = "https://info.wsouza.com.br"
-languageCode = "en"
+languageCode = "pt-br"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
@@ -213,7 +213,7 @@ disable = false
 #Enable parts of social widget
 email = "info@wsouza.com.br"
 github = "dicaslinuxwindows"
-threads = "dicaslinuxwindows"
+#threads = "dicaslinuxwindows"
   
 [Params.social.share]
   facebook = true
