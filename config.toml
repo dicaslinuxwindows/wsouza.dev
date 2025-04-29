@@ -2,39 +2,6 @@ baseurl = "https://info.wsouza.com.br"
 languageCode = "en"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
-title = "Dicas Linux e Windows"
-disqusShortname = "dicaslinuxewindows"
-googleAnalytics = "G-755N0HW50E"
-enableEmoji = true
-enableMissingTranslationPlaceholders = true
-
-# Privacy pack
-#   Show a cookie consent message to visitors
-#   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = true
-
-[privacy]
-[privacy.disqus]
-disable = false
-#[privacy.googleAnalytics]
-#disable = true
-#anonymizeIP = false
-#respectDoNotTrack = false
-#useSessionStorage = true
-[privacy.instagram]
-  disable = false
-  simple = true
-[privacy.twitter]
-  disable = false
-  enableDNT = true
-  simple = true
-[privacy.vimeo]
-  disable = false
-  enableDNT = true
-  simple = true
-[privacy.youtube]
-  disable = false
-  privacyEnhanced = true
 
 [menu]
   [[menu.main]]
@@ -165,7 +132,7 @@ disable = false
  avatar = "https://info.wsouza.com.br/img/wsouza.png"
 
 [Params]
-  description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows e Linux." # Description of your site
+  description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows e Linux." # Description of your site.
   opengraph = true
   rssLimit = 200
   copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
@@ -178,11 +145,16 @@ disable = false
   keyword = "Windows, Linux, Mobile, Internet, Android, Dicas, Artigos, Tutoriais"
   post_meta = ["author", "date", "categories", "translations"]
   googleAnalyticsID = "G-755N0HW50E"
-  show_translations= false
+  show_translations= true
   dateFormat = "Mon, Jan 2, 2006"
   enableGitInfo = true
   favicon32 = "/favicon-32x32.png"
   favicon16 = "/favicon.ico"
+  title = "Dicas Linux e Windows"
+  disqusShortname = "dicaslinuxewindows"
+  #googleAnalytics = "G-755N0HW50E"
+  enableEmoji = true
+  enableMissingTranslationPlaceholders = true
 
 [markup]
 [markup.goldmark]
