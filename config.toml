@@ -2,7 +2,12 @@ baseurl = "https://info.wsouza.com.br"
 languageCode = "en"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
-
+title = "Dicas Linux e Windows"
+disqusShortname = "dicaslinuxewindows"
+googleAnalytics = "G-755N0HW50E"
+enableEmoji = true
+enableMissingTranslationPlaceholders = true
+  
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -137,7 +142,7 @@ theme = "mainroad"
   rssLimit = 200
   copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
   schema = true # Enable Schema
-  twitter_cards = false
+  twitter_cards = true
   toc = true 
   readmore = true
   authorbox = true
@@ -150,11 +155,6 @@ theme = "mainroad"
   enableGitInfo = true
   favicon32 = "/favicon-32x32.png"
   favicon16 = "/favicon.ico"
-  title = "Dicas Linux e Windows"
-  disqusShortname = "dicaslinuxewindows"
-  #googleAnalytics = "G-755N0HW50E"
-  enableEmoji = true
-  enableMissingTranslationPlaceholders = true
 
 [markup]
 [markup.goldmark]
