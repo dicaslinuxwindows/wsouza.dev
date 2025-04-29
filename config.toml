@@ -1,5 +1,5 @@
 baseurl = "https://info.wsouza.com.br"
-languageCode = "pt-br"
+languageCode = "en"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
@@ -11,7 +11,7 @@ enableMissingTranslationPlaceholders = true
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-#privacy_pack = false
+privacy_pack = true
 
 [privacy]
 [privacy.disqus]
@@ -19,22 +19,22 @@ disable = false
 #[privacy.googleAnalytics]
 #disable = true
 #anonymizeIP = false
-#respectDoNotTrack = true
-# useSessionStorage = true
-# [privacy.instagram]
-#  disable = true
-#  simple = true
-# [privacy.twitter]
-#  disable = true
-#  enableDNT = true
-#  simple = true
-# [privacy.vimeo]
-#  disable = true
-#  enableDNT = true
-#  simple = true
-# [privacy.youtube]
-#  disable = false
-#  privacyEnhanced = true
+#respectDoNotTrack = false
+#useSessionStorage = true
+[privacy.instagram]
+  disable = false
+  simple = true
+[privacy.twitter]
+  disable = false
+  enableDNT = true
+  simple = true
+[privacy.vimeo]
+  disable = false
+  enableDNT = true
+  simple = true
+[privacy.youtube]
+  disable = false
+  privacyEnhanced = true
 
 [menu]
   [[menu.main]]
@@ -213,7 +213,7 @@ disable = false
 #Enable parts of social widget
 email = "info@wsouza.com.br"
 github = "dicaslinuxwindows"
-#threads = "dicaslinuxwindows"
+threads = "dicaslinuxwindows"
   
 [Params.social.share]
   facebook = true
