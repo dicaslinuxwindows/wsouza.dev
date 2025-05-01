@@ -1,12 +1,17 @@
 baseurl = "https://info.wsouza.com.br"
-languageCode = "en"
+languageCode = "en-us"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
-disqusShortname = "dicaslinuxewindows"
-googleAnalytics = "G-755N0HW50E"
+#disqusShortname = "dicaslinuxewindows"
+#googleAnalytics = "G-755N0HW50E"
 enableEmoji = true
 enableMissingTranslationPlaceholders = true
+
+[services.disqus]
+  shortname = "dicaslinuxewindows" # Enable Disqus by entering your Disqus shortname
+[services.googleAnalytics]
+  ID = "G-755N0HW50E" # Enable Google Analytics by entering your tracking ID
   
 [menu]
   [[menu.main]]
@@ -137,11 +142,11 @@ enableMissingTranslationPlaceholders = true
  avatar = "https://info.wsouza.com.br/img/wsouza.png"
 
 [Params]
-  description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows e Linux." # Description of your site.
+  description = "Dicas, tutoriais e algumas curiosidades sobre Internet, Sistemas Operacionais Windows e Linux."
   opengraph = true
   rssLimit = 200
   copyright = "Dicas Linux e Windows | Ao compartilhar, cite a fonte "
-  schema = true # Enable Schema
+  schema = true 
   twitter_cards = true
   toc = true 
   readmore = true
@@ -149,7 +154,11 @@ enableMissingTranslationPlaceholders = true
   pager = true
   keyword = "Windows, Linux, Mobile, Internet, Android, Dicas, Artigos, Tutoriais"
   post_meta = ["author", "date", "categories", "translations"]
-  googleAnalyticsID = "G-755N0HW50E"
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  #googleAnalyticsID = "G-755N0HW50E"
   show_translations= true
   dateFormat = "Mon, Jan 2, 2006"
   enableGitInfo = true
@@ -182,10 +191,15 @@ enableMissingTranslationPlaceholders = true
   tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
   
 [Params.widgets.social]
-#Enable parts of social widget
+cached = true
 email = "info@wsouza.com.br"
 github = "dicaslinuxwindows"
-threads = "dicaslinuxwindows"
+
+[[Params.widgets.social.custom]]
+title = "Threads"
+url = "https://threads.com/dicaslinuxwindows"
+icon = "partials/svg/threads.svg" # Optional. Path relative to "layouts/partials"
+rel = false # Set to false to remove the rel attribute
   
 [Params.social.share]
   facebook = true
@@ -202,3 +216,4 @@ threads = "dicaslinuxwindows"
   
 [Params.style.vars]
   highlightColor = "#e95420" # Override highlight color
+  
