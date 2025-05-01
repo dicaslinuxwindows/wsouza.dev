@@ -1,7 +1,7 @@
 ---
 title: 'Ubuntu 20.04 LTS se aproxima do fim do suporte padrão: Prepare-se para o futuro'
 date: "2025-04-28T00:15:08-03:00"
-thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-ubuntu20.04-end-of-support.png"
+thumbnail: "https://info.wsouza.com.br/img/posts/thumbs/thumb-ubuntu20.04-end-of-support.webp"
 url: /2025/04/ubuntu-20-04-se-aproxima-do-fim-do-suporte-padrao.html
 categories:
 - Artigos
