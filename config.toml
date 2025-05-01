@@ -4,14 +4,14 @@ paginate = "5" # Number of posts per page
 theme = "mainroad"
 title = "Dicas Linux e Windows"
 #disqusShortname = "dicaslinuxewindows"
-#googleAnalytics = "G-755N0HW50E"
+googleAnalytics = "G-755N0HW50E"
 enableEmoji = true
 enableMissingTranslationPlaceholders = true
 
 [services.disqus]
   shortname = "dicaslinuxewindows" # Enable Disqus by entering your Disqus shortname
-[services.googleAnalytics]
-  ID = "G-755N0HW50E" # Enable Google Analytics by entering your tracking ID
+#[services.googleAnalytics]
+#  ID = "G-755N0HW50E" # Enable Google Analytics by entering your tracking ID
   
 [menu]
   [[menu.main]]
