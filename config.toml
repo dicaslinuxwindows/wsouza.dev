@@ -211,9 +211,13 @@ rel = false # Set to false to remove the rel attribute
   reddit = true
 #  youtube = true
 #  tiktok = true
-#  threads = true
-
+# threads = true
   
 [Params.style.vars]
   highlightColor = "#e95420" # Override highlight color
   
+[params.utteranc]
+  enable = true
+  repo= "dicaslinuxwindows/wsouza"
+  issueTerm = "title"
+  theme = "boxy-light"
