@@ -216,8 +216,8 @@ rel = false # Set to false to remove the rel attribute
 [Params.style.vars]
   highlightColor = "#e95420" # Override highlight color
   
-[params.utteranc]
+[Params.utteranc]
   enable = true
   repo= "dicaslinuxwindows/wsouza"
-  issueTerm = "title"
+  issue-term = "pathname"
   theme = "boxy-light"
