@@ -221,3 +221,5 @@ rel = false # Set to false to remove the rel attribute
   repo= "dicaslinuxwindows/wsouza"
   issue-term = "pathname"
   theme = "boxy-light"
+  label = "comment"
+  crossorigin = "anonymous"
