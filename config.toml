@@ -138,7 +138,7 @@ ID = "G-755N0HW50E" # Enable Google Analytics by entering your tracking ID
       
  [Author]
  name = "Wagner Souza"
- bio = "Usuário de Debian e Windows."
+ bio = "Usuário de Debian e Windows, curioso e entusiasta de sistemas Linux."
  avatar = "https://info.wsouza.com.br/img/wsouza.png"
 
 [Params]
@@ -215,9 +215,4 @@ rel = false # Set to false to remove the rel attribute
   
 [Params.style.vars]
   highlightColor = "#e95420" # Override highlight color
-  
-# [Params.utteranc]
-#   enable = true
-#   repo= "dicaslinuxwindows/wsouza"
-#   issue-term = "pathname"
-#   theme = "boxy-light"
+
